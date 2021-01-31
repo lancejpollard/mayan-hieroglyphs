@@ -1,6 +1,6 @@
 [
   {
-    "key": "0-a-AK'OT-ta",
+    "key": "0-a-AK{}OT-ta",
     "desc": "a-AK'OT-ta (ak'ot) (T228.516:103)  > n. \"dance.\"",
     "title": "a-AK'OT-ta"
   },
@@ -50,12 +50,12 @@
     "title": "a/AJ"
   },
   {
-    "key": "10-AB'",
+    "key": "10-AB{}",
     "desc": "AB' (ab') (T548)  1> n. \"year\"; the year of 360 days; the TUN sign in IS and DN notations 2> n. part of the name of the ruler of Seibal, Aj B'olon Ab'taj (cf. Seibal Stelae 7, 9, 10, and 11)",
     "title": "AB'"
   },
   {
-    "key": "11-AB'-[b'i]",
+    "key": "11-AB{}-[b{}i]",
     "desc": "AB'-[b'i] (ab') (T548[585])  > n. \"year\"; the TUN sign in IS and DN notations + infixed b'i",
     "title": "AB'-[b'i]"
   },
@@ -65,62 +65,62 @@
     "title": "ACH-cha"
   },
   {
-    "key": "13-AJ k'u-JUN-na",
+    "key": "13-AJ@k{}u-JUN-na",
     "desc": "AJ k'u-JUN-na (aj k'ujun) (T743:38 60:23)  > prep. phr. \"he of the sacred books\"; subordinate title, possibly an official title designating \"royal librarian.\"",
     "title": "AJ k'u-JUN-na"
   },
   {
-    "key": "14-AJ k'u-{JUN}-na",
+    "key": "14-AJ@k{}u-{JUN}-na",
     "desc": "AJ k'u-{JUN}-na (aj k'ujun) (T12.41:23) > prep. phr. \"he of the sacred books\"; subordinate title, possibly an official title designating \"royal librarian.\"",
     "title": "AJ k'u-{JUN}-na"
   },
   {
-    "key": "15-AJ na-b'i",
+    "key": "15-AJ@na-b{}i",
     "desc": "AJ na-b'i (aj naab') (T228.23:585a)  > prep. phr. \"he of the water\" or \"of the water\"; subordinate title meaning roughly \"artist.\"",
     "title": "AJ na-b'i"
   },
   {
-    "key": "16-AJ na-b'i",
+    "key": "16-AJ@na-b{}i",
     "desc": "AJ na-b'i (aj naab') (T238.23:585hv)  > prep. phr. \"he of the water\" or \"of the water\"; subordinate title meaning roughly \"artist.\"",
     "title": "AJ na-b'i"
   },
   {
-    "key": "17-AJ pa-ya-la",
+    "key": "17-AJ@pa-ya-la",
     "desc": "AJ pa-ya-la (aj payal) (T229.602:126:178)  > prep. phr. \"he the leader\"; elite title.",
     "title": "AJ pa-ya-la"
   },
   {
-    "key": "18-AJ pi-tzi",
+    "key": "18-AJ@pi-tzi",
     "desc": "AJ pi-tzi (aj pitz) (T12:177:507) 1> prep. phr. \"he the youthful\"; elite title 2> n. \"ball player\"; elite title.",
     "title": "AJ pi-tzi"
   },
   {
-    "key": "19-AJ pi-tzi-la-wa-la",
+    "key": "19-AJ@pi-tzi-la-wa-la",
     "desc": "AJ pi-tzi-la-wa-la (aj pitzlawal) (T12v:177:507 178:506:9) 1> prep. phr. \"he of the ball game\"; elite title 2> n. \"ball player\"; elite title.",
     "title": "AJ pi-tzi-la-wa-la"
   },
   {
-    "key": "20-AJ pi-tzi-la-wa-{l}",
+    "key": "20-AJ@pi-tzi-la-wa-{l}",
     "desc": "AJ pi-tzi-la-wa-{l} (aj pitzlawal) (T12:200:507 178:1000hv) 1> prep. phr. \"he of the ball game\"; elite title 2> n. \"ball player\"; elite title.",
     "title": "AJ pi-tzi-la-wa-{l}"
   },
   {
-    "key": "21-AJ su-lu",
+    "key": "21-AJ@su-lu",
     "desc": "AJ su-lu (aj sul) (T12.216:568)  > prep. phr. \"he the administrator\"; elite title.",
     "title": "AJ su-lu"
   },
   {
-    "key": "22-AJ tz'i-b'a",
+    "key": "22-AJ@tz{}i-b{}a",
     "desc": "AJ tz'i-b'a (aj tz'ib') (T12.nn:501:314)  > prep. phr. \"he of the writing,\" or \"scribe\"; artist's title; designates the occupation of scribe, painter, or artist in general",
     "title": "AJ tz'i-b'a"
   },
   {
-    "key": "23-AJ tz'i-b'a",
+    "key": "23-AJ@tz{}i-b{}a",
     "desc": "AJ tz'i-b'a (aj tz'ib') (T12.248:501) >prep. phr. \"he of the writing\" or \"scribe\"; artist's title.",
     "title": "AJ tz'i-b'a"
   },
   {
-    "key": "24-AJ u-xu-[lu]",
+    "key": "24-AJ@u-xu-[lu]",
     "desc": "AJ u-xu-[lu] (aj uxul) (T12.13:756c)  > prep. phr. \"he of the burnishing/scratching\"; artist's title meaning roughly \"he of the sculpture\" or \"sculptor\"; designates the occupation of royal sculptor.",
     "title": "AJ u-xu-[lu]"
   },
@@ -140,22 +140,22 @@
     "title": "AJ-wo-la"
   },
   {
-    "key": "28-AJ-X-B'AK",
+    "key": "28-AJ-X-B{}AK",
     "desc": "AJ-X-B'AK (aj-X-b'ak) (T12.683a:111)  > prep. phr. \"Count of Captives\" warrior title meaning \"he of (x-number of) captives\"; the \"Count of Captives\" epithet  a. \"he of two captives\"  b. \"he of five captives\"  c. \"he of five captives\"  d. \"he of twenty captives\"; denotes the number of individuals captured by a warrior in battle.",
     "title": "AJ-X-B'AK"
   },
   {
-    "key": "29-AJ-X-B'AK",
+    "key": "29-AJ-X-B{}AK",
     "desc": "AJ-X-B'AK (aj-X-b'ak) (T12.II:570)  > prep. phr. \"Count of Captives\" warrior title meaning \"he of (x-number of) captives\"; the \"Count of Captives\" epithet  a. \"he of two captives\"  b. \"he of five captives\"  c. \"he of five captives\"  d. \"he of twenty captives\"; denotes the number of individuals captured by a warrior in battle.",
     "title": "AJ-X-B'AK"
   },
   {
-    "key": "30-AJ-X-B'AK",
+    "key": "30-AJ-X-B{}AK",
     "desc": "AJ-X-B'AK (aj-X-b'ak) (T12.V:501.102)  > prep. phr. \"Count of Captives\" warrior title meaning \"he of (x-number of) captives\"; the \"Count of Captives\" epithet  a. \"he of two captives\"  b. \"he of five captives\"  c. \"he of five captives\"  d. \"he of twenty captives\"; denotes the number of individuals captured by a warrior in battle.",
     "title": "AJ-X-B'AK"
   },
   {
-    "key": "31-AJ-X-B'AK",
+    "key": "31-AJ-X-B{}AK",
     "desc": "AJ-X-B'AK (aj-X-b'ak) (T12.V:570hv)  > prep. phr. \"Count of Captives\" warrior title meaning \"he of (x-number of) captives\"; the \"Count of Captives\" epithet  a. \"he of two captives\"  b. \"he of five captives\"  c. \"he of five captives\"  d. \"he of twenty captives\";  denotes the number of individuals captured by a warrior in battle.",
     "title": "AJ-X-B'AK"
   },
@@ -205,42 +205,42 @@
     "title": "AJAW-wa"
   },
   {
-    "key": "41-AJAW-wa TE'",
+    "key": "41-AJAW-wa@TE{}",
     "desc": "AJAW-wa TE' (ajaw te') (T168:518:130)  > n. \"tree lord\"; royal title.",
     "title": "AJAW-wa TE'"
   },
   {
-    "key": "42-ak'$AK'",
+    "key": "42-ak{}$AK{}",
     "desc": "ak'/AK' (ak') (T504) 1> phonetic sign 2>n. \"tongue\"",
     "title": "ak'/AK'"
   },
   {
-    "key": "43-ak'$AK'OT",
+    "key": "43-ak{}$AK{}OT",
     "desc": "ak'/AK'OT (ak'/ak'ot) (T516) 1> phonetic sign 2>n. \"dance\" 3> tr. v. \"to dance.\"",
     "title": "ak'/AK'OT"
   },
   {
-    "key": "44-ak'$AK'OT",
+    "key": "44-ak{}$AK{}OT",
     "desc": "ak'/AK'OT (ak'/ak'ot) (T743v) 1> phonetic sign 2> n. \"dance\" 3> tr. v. \"to dance\"",
     "title": "ak'/AK'OT"
   },
   {
-    "key": "45-AK'AB'",
+    "key": "45-AK{}AB{}",
     "desc": "AK'AB' (ak'ab') (T504)  > n. \"darkness\"",
     "title": "AK'AB'"
   },
   {
-    "key": "46-AK'OT-ta",
+    "key": "46-AK{}OT-ta",
     "desc": "AK'OT-ta (ak'ot) (T516b:103) 1> n. \"dance\" 2> tr. v. \"to dance.\"",
     "title": "AK'OT-ta"
   },
   {
-    "key": "47-AK'OT-ta-ja",
+    "key": "47-AK{}OT-ta-ja",
     "desc": "AK'OT-ta-ja (ak'otaj) (T743:102.181)  > pass. v. \"was danced.\"",
     "title": "AK'OT-ta-ja"
   },
   {
-    "key": "48-AKB'AL",
+    "key": "48-AKB{}AL",
     "desc": "AKB'AL (Akb'al) (T504)  > n. day sign; third day of the Maya Tzolk'in calendar",
     "title": "AKB'AL"
   },
@@ -275,177 +275,177 @@
     "title": "AYIN"
   },
   {
-    "key": "0-b'a",
+    "key": "0-b{}a",
     "desc": "b'a (b'a) (T138)  > phonetic sign.",
     "title": "b'a"
   },
   {
-    "key": "1-B'A AJAW",
+    "key": "1-B{}A@AJAW",
     "desc": "B'A AJAW (b'a ajaw) (T168:757)  > adj. + n. \"first lord\"; elite title.",
     "title": "B'A AJAW"
   },
   {
-    "key": "2-B'A ch'o-ko",
+    "key": "2-B{}A@ch{}o-ko",
     "desc": "B'A ch'o-ko (b'a ch'ok) (T501.758:110) 1 > adj. + n. \"first sprout\" 2> adj. + n. \"first young person,\" \"first youth\" 3> adj. + n. \"first lineage member\"; elite title.",
     "title": "B'A ch'o-ko"
   },
   {
-    "key": "3-B'A u-xu-[lu]",
+    "key": "3-B{}A@u-xu-[lu]",
     "desc": "B'A u-xu-[lu] (b'a uxul) (T501.1:756c) >adj. + n. \"first sculptor;\" elite title.",
     "title": "B'A u-xu-[lu]"
   },
   {
-    "key": "4-B'A YAL",
+    "key": "4-B{}A@YAL",
     "desc": "B'A YAL (b'a yal) (T501.19:670)  > adj. + n. \"first born\"; elite title.",
     "title": "B'A YAL"
   },
   {
-    "key": "5-b'a-ji-ni",
+    "key": "5-b{}a-ji-ni",
     "desc": "b'a-ji-ni (b'ajin) (T501:314.116) > adv. \"indeed.\"",
     "title": "b'a-ji-ni"
   },
   {
-    "key": "6-b'a-ka-b'a",
+    "key": "6-b{}a-ka-b{}a",
     "desc": "b'a-ka-b'a (b'akab') (T501.25:501) 1> n. \"standing one\" 2> n. \"first in the world\"; royal/elite title.",
     "title": "b'a-ka-b'a"
   },
   {
-    "key": "7-b'a-ki",
+    "key": "7-b{}a-ki",
     "desc": "b'a-ki (b'ak) (T501:102) 1>n. \"bone,\" as in u b'ak \"his/her bone,\" \"the bone of\" 2>n. \"captive,\" as in u b'ak \"his/her captive,\" \"the captive of\"",
     "title": "b'a-ki"
   },
   {
-    "key": "8-b'a-na",
+    "key": "8-b{}a-na",
     "desc": "b'a-na (b'an) (T501:23)  > tr. v. \"to scatter.\"",
     "title": "b'a-na"
   },
   {
-    "key": "9-b'a-te'",
+    "key": "9-b{}a-te{}",
     "desc": "b'a-te' (b'ate') (T501:87)  > n. \"warrior\"; elite title.",
     "title": "b'a-te'"
   },
   {
-    "key": "10-b'a-tz'u",
+    "key": "10-b{}a-tz{}u",
     "desc": "b'a-tz'u (b'atz') (T501.203v)  > n. \"monkey\"; \"howler monkey\"; saraguate.",
     "title": "b'a-tz'u"
   },
   {
-    "key": "11-b'a$B'A",
+    "key": "11-b{}a$B{}A",
     "desc": "b'a/B'A (b'a) (T501) 1> phonetic sign 2> n. \"head\" 3> adj. \"first\" 4> refl. suf. \"self,\" \"thing\" 5>  > n. \"image,\" \"being,\" \"self\"",
     "title": "b'a/B'A"
   },
   {
-    "key": "12-b'a$B'A",
+    "key": "12-b{}a$B{}A",
     "desc": "b'a/B'A (b'a) (T757) 1> phonetic sign 2>n. \"head\" 3> adj. \"first\" 4> refl. suf. \"self,\" \"thing\" 5> n. \"image,\" \"being,\" \"self\"",
     "title": "b'a/B'A"
   },
   {
-    "key": "13-B'AK",
+    "key": "13-B{}AK",
     "desc": "B'AK (b'ak) (T570, and T111) 1> n. \"bone,\" as in u b'ak \"his/her bone,\" \"the bone of\" 2> n. \"captive,\" as in u b'ak \"his/her captive,\" \"the captive of\"",
     "title": "B'AK"
   },
   {
-    "key": "14-B'AK",
+    "key": "14-B{}AK",
     "desc": "B'AK (b'ak) (T1045) 1> n. \"bone,\" as in u b'ak  \"his/her bone,\" \"the bone of\" 2>n. \"captive,\" as in u b'ak  \"his/her captive,\" \"the captive of\"",
     "title": "B'AK"
   },
   {
-    "key": "18-B'ALAM",
+    "key": "18-B{}ALAM",
     "desc": "B'ALAM (b'alam) (T751)  > n. \"jaguar\"",
     "title": "B'ALAM"
   },
   {
-    "key": "19-b'e$B'E",
+    "key": "19-b{}e$B{}E",
     "desc": "b'e/B'E (b'e) (T301v) 1> phonetic sign 2> n. \"road\"",
     "title": "b'e/B'E"
   },
   {
-    "key": "20-b'e$B'E",
+    "key": "20-b{}e$B{}E",
     "desc": "b'e/B'E (b'e) (T301) 1> phonetic sign 2>n. \"road\"",
     "title": "b'e/B'E"
   },
   {
-    "key": "21-B'EN",
+    "key": "21-B{}EN",
     "desc": "B'EN (B'en) (T584)  > n. day sign, within a cartouche; thirteenth day of the Maya Tzolk'in calendar.",
     "title": "B'EN"
   },
   {
-    "key": "22-b'i$B'I",
+    "key": "22-b{}i$B{}I",
     "desc": "b'i/B'I (b'i) (T585) 1> phonetic sign 2>n. \"road\"",
     "title": "b'i/B'I"
   },
   {
-    "key": "23-b'i$B'I",
+    "key": "23-b{}i$B{}I",
     "desc": "b'i/B'I (b'i) (T1029) 1> phonetic sign 2>n. \"road\"",
     "title": "b'i/B'I"
   },
   {
-    "key": "24-B'IXAN-na",
+    "key": "24-B{}IXAN-na",
     "desc": "B'IXAN-na (b'ixan) (T95[585]:23) 1 > incom. irreg. v. \"to go\" 2> incom. irreg. v. \"to walk\" 3> incom. irreg. v. \"travel\" 4> com. v. \"went.\"",
     "title": "B'IXAN-na"
   },
   {
-    "key": "25-B'IXAN-ni-ya",
+    "key": "25-B{}IXAN-ni-ya",
     "desc": "B'IXAN-ni-ya (b'ixaniy) (T95[585]:116:126)  > com. irreg. v. \"went.\"",
     "title": "B'IXAN-ni-ya"
   },
   {
-    "key": "26-b'o",
+    "key": "26-b{}o",
     "desc": "b'o (b'o) (T519v)  > phonetic sign.",
     "title": "b'o"
   },
   {
-    "key": "27-B'OLON",
+    "key": "27-B{}OLON",
     "desc": "B'OLON (b'olon) (TIX)  1>n. \"nine\"; cardinal number 2> adj. \"many.\"",
     "title": "B'OLON"
   },
   {
-    "key": "28-B'OLON",
+    "key": "28-B{}OLON",
     "desc": "B'OLON (b'olon) (TIXhv)  1>n. \"nine\"; cardinal number 2> adj. \"many\"",
     "title": "B'OLON"
   },
   {
-    "key": "29-B'OLON i-pi-[la]-ja",
+    "key": "29-B{}OLON@i-pi-[la]-ja",
     "desc": "B'OLON i-pi-[la]-ja (b'olon iplaj) (TIX.679.177:683[534])  > adj. + n. \"many strengths,\" \"many deaths\"?",
     "title": "B'OLON i-pi-[la]-ja"
   },
   {
-    "key": "30-b'u",
+    "key": "30-b{}u",
     "desc": "b'u (b'u) (T21.741v)  > phonetic sign",
     "title": "b'u"
   },
   {
-    "key": "31-b'u",
+    "key": "31-b{}u",
     "desc": "b'u (b'u) (T21)  > phonetic sign.",
     "title": "b'u"
   },
   {
-    "key": "32-b'u-ku",
+    "key": "32-b{}u-ku",
     "desc": "b'u-ku (b'uk) (T21:528)  > pl. n. \"clothes.\"",
     "title": "b'u-ku"
   },
   {
-    "key": "33-b'u-la",
+    "key": "33-b{}u-la",
     "desc": "b'u-la (b'ul) (T21:534)  > n. \"bean,\" \"beans.\"",
     "title": "b'u-la"
   },
   {
-    "key": "34-B'ULUK",
+    "key": "34-B{}ULUK",
     "desc": "B'ULUK (b'uluk) (TXIhv)  > n. \"eleven\"; cardinal number",
     "title": "B'ULUK"
   },
   {
-    "key": "35-B'ULUK",
+    "key": "35-B{}ULUK",
     "desc": "B'ULUK (b'uluk) (TXI)  > n. \"eleven\"; cardinal number.",
     "title": "B'ULUK"
   },
   {
-    "key": "36-B'UTZ",
+    "key": "36-B{}UTZ",
     "desc": "B'UTZ (b'utz) (T122:563a)  > n. \"smoke\"",
     "title": "B'UTZ"
   },
   {
-    "key": "37-B'UTZ",
+    "key": "37-B{}UTZ",
     "desc": "B'UTZ (b'utz) (T1035a)  > n. \"smoke\"",
     "title": "B'UTZ"
   },
@@ -465,7 +465,7 @@
     "title": "cha-ki"
   },
   {
-    "key": "3-cha-ki CHAAN-na $ cha-ki KAAN-na",
+    "key": "3-cha-ki@CHAAN-na@$@cha-ki@KAAN-na",
     "desc": "cha-ki CHAAN-na / cha-ki KAAN-na (Chaak Chaan / Chaak Kaan) (T520hv.561hv:23) > n. \"Rain God Sky\"; deity name.",
     "title": "cha-ki CHAAN-na / cha-ki KAAN-na"
   },
@@ -480,7 +480,7 @@
     "title": "cha-TAN-na"
   },
   {
-    "key": "6-cha-te' KAB'A",
+    "key": "6-cha-te{}@KAB{}A",
     "desc": "cha-te' KAB'A (chat k'ab'a) (T187:520:87) > n. phr. \"chate'  'name'\"; chate'  of unknown meaning; refers to a type of name.",
     "title": "cha-te' KAB'A"
   },
@@ -545,27 +545,27 @@
     "title": "CHAAK-ki"
   },
   {
-    "key": "19-CHAAN CH'EN-na $ KAAN CH'EN-na",
+    "key": "19-CHAAN@CH{}EN-na@$@KAAN@CH{}EN-na",
     "desc": "CHAAN CH'EN-na / KAAN CH'EN-na (chaan ch'en / kaan ch'en) (T561.571:23)  > n. \"sky cave\".",
     "title": "CHAAN CH'EN-na / KAAN CH'EN-na"
   },
   {
-    "key": "20-CHAAN-na CH'EN-na $ KAAN-na CH'EN-na",
+    "key": "20-CHAAN-na@CH{}EN-na@$@KAAN-na@CH{}EN-na",
     "desc": "CHAAN-na CH'EN-na / KAAN-na CH'EN-na (chaan ch'en / kaan ch'en) (T561:23.598:23) > n. \"sky cave\"; chan in Ch'olan, kaan  in Yucatec.",
     "title": "CHAAN-na CH'EN-na / KAAN-na CH'EN-na"
   },
   {
-    "key": "21-CHAAN-na CH'UL $ KAAN-na K'UL",
+    "key": "21-CHAAN-na@CH{}UL@$@KAAN-na@K{}UL",
     "desc": "CHAAN-na CH'UL / KAAN-na K'UL (chaan ch'ul / kaan k'ul) (T561:23.36) > adj. + pl. n. \"the heavenly gods\"; chaan in Ch'olan, kaan in Yucatec. Alternatively CHAAN-na-CH'UJUL / KAAN-na K'UJUL (chaan ch'ujul / kaan k'ujul).",
     "title": "CHAAN-na CH'UL / KAAN-na K'UL"
   },
   {
-    "key": "22-CHAAN-na K'AWIL $ KAAN-na K'AWIL",
+    "key": "22-CHAAN-na@K{}AWIL@$@KAAN-na@K{}AWIL",
     "desc": "CHAAN-na K'AWIL / KAAN-na K'AWIL (Chaan K'awil / Kaan K'awil) (T561:23.1030) > n. \"Sky K'awil\"; deity name; chaan  in Ch'olan, kaan  in Yucatec.",
     "title": "CHAAN-na K'AWIL / KAAN-na K'AWIL"
   },
   {
-    "key": "23-CHAAN-na-NAL $ KAAN-na-NAL",
+    "key": "23-CHAAN-na-NAL@$@KAAN-na-NAL",
     "desc": "CHAAN-na-NAL / KAAN-na-NAL (chaanal / kaanal) (T86:325?[561]) > adj. \"heavenly\"; chaan  in Ch'olan, kaan  in Yucatec.",
     "title": "CHAAN-na-NAL / KAAN-na-NAL"
   },
@@ -615,27 +615,27 @@
     "title": "CHAK"
   },
   {
-    "key": "33-CHAK CH'UL AJAW $ CHAK K'UL AJAW",
+    "key": "33-CHAK@CH{}UL@AJAW@$@CHAK@K{}UL@AJAW",
     "desc": "CHAK CH'UL AJAW / CHAK K'UL AJAW (chak ch'ul ajaw) (T109.168:41)  1 > adj. + n. \"great holy lord\" 2> adj. + n. \"red holy lord\"",
     "title": "CHAK CH'UL AJAW / CHAK K'UL AJAW"
   },
   {
-    "key": "34-CHAK EK'",
+    "key": "34-CHAK@EK{}",
     "desc": "CHAK EK' (chak ek') (T109:510v)  > adj. + n. \"great star\"; proper name of the planet Venus.",
     "title": "CHAK EK'"
   },
   {
-    "key": "35-CHAK K'AT",
+    "key": "35-CHAK@K{}AT",
     "desc": "CHAK K'AT (chak'at) (T109:552)  1> n. name of the \"basket staff\" dance object 2> n. month sign; third month of the Maya Ja'ab' calendar; the month of SIP",
     "title": "CHAK K'AT"
   },
   {
-    "key": "36-CHAK XIB' cha-ki",
+    "key": "36-CHAK@XIB{}@cha-ki",
     "desc": "CHAK XIB' cha-ki (Chak Xib' Chaak) (T109.1008 520v:102)  > n. \"Red Man Rain God (?)\"; deity name.",
     "title": "CHAK XIB' cha-ki"
   },
   {
-    "key": "38-CHALAJUN $ KALAJUN",
+    "key": "38-CHALAJUN@$@KALAJUN",
     "desc": "CHALAJUN / KALAJUN (chalajun / kalajun) (TXIIhv)  > n. \"twelve\"; cardinal number",
     "title": "CHALAJUN / KALAJUN"
   },
@@ -725,7 +725,7 @@
     "title": "che"
   },
   {
-    "key": "56-che-b'u",
+    "key": "56-che-b{}u",
     "desc": "che-b'u (cheb') (T148.19:741v)  > n. \"quill pen.\"",
     "title": "che-b'u"
   },
@@ -735,7 +735,7 @@
     "title": "che-e-na"
   },
   {
-    "key": "58-che-e-na TU b'a-ki",
+    "key": "58-che-e-na@TU@b{}a-ki",
     "desc": "che-e-na TU b'a-ki (che'en tu b'ak) (T148.741a:23 89.501:102)  > v. phr. \"so it says on his/her/its bone\"",
     "title": "che-e-na TU b'a-ki"
   },
@@ -745,7 +745,7 @@
     "title": "che-je-na"
   },
   {
-    "key": "61-chi-[K'IN]-li",
+    "key": "61-chi-[K{}IN]-li",
     "desc": "chi-[K'IN]-li (chik'inil) (T671[544]:82)  > prep. phr. \"in the west\"; cardinal direction",
     "title": "chi-[K'IN]-li"
   },
@@ -800,12 +800,12 @@
     "title": "CHOK-ji"
   },
   {
-    "key": "72-CHOK-ko-wa CH'A-ji",
+    "key": "72-CHOK-ko-wa@CH{}A-ji",
     "desc": "CHOK-ko-wa CH'A-ji (chokaw ch'aj) (T590:110:130.93.136)  1> tr. v. phr. \"to scatter drops of liquid\" 2> tr. v. phr. \"to throw drops of liquid\"",
     "title": "CHOK-ko-wa CH'A-ji"
   },
   {
-    "key": "73-CHOK-wa CH'A-ji",
+    "key": "73-CHOK-wa@CH{}A-ji",
     "desc": "CHOK-wa CH'A-ji (chokaw ch'aj) (T33v.710v:130.93:136)  1> tr. v. phr. \"to scatter drops of liquid\" 2> tr. v. phr. \"to throw drops of liquid\"",
     "title": "CHOK-wa CH'A-ji"
   },
@@ -855,12 +855,12 @@
     "title": "CHUM"
   },
   {
-    "key": "83-CHUM(?)",
+    "key": "83-CHUM([])",
     "desc": "CHUM(?) (chum?) (T702v)  > pos. v., \"to be seated\"; general verb meaning \"accession\"",
     "title": "CHUM(?)"
   },
   {
-    "key": "84-CHUM(?)",
+    "key": "84-CHUM([])",
     "desc": "CHUM(?) (chum?) (T700)  > pos. v. \"to be seated\"; general verb meaning \"accession\"",
     "title": "CHUM(?)"
   },
@@ -870,7 +870,7 @@
     "title": "CHUM-la-ji-ya"
   },
   {
-    "key": "86-CHUM-wa-ni TI AJAW-le-{l}",
+    "key": "86-CHUM-wa-ni@TI@AJAW-le-{l}",
     "desc": "CHUM-wa-ni TI AJAW-le-{l} (chumwan ti ajawlel) (T644[584]:116:130 59.168:188)  > ti-construction v. phr. \"seated in lordship\"; primary and complete statement of  \"accession.\"",
     "title": "CHUM-wa-ni TI AJAW-le-{l}"
   },
@@ -880,7 +880,7 @@
     "title": "CHUM-[mu]"
   },
   {
-    "key": "88-CHUM-[mu] TUN-ni",
+    "key": "88-CHUM-[mu]@TUN-ni",
     "desc": "CHUM-[mu] TUN-ni (chum tun) (T644b.528:116)  > v. phr. \"seating of the tun,\" \"seating of the stone\"; PE calendrical glyph for tun endings.",
     "title": "CHUM-[mu] TUN-ni"
   },
@@ -905,307 +905,307 @@
     "title": "CHUWEN"
   },
   {
-    "key": "93-[CHAAN]-NAL K'U $ [KAAN]-NAL K'U",
+    "key": "93-[CHAAN]-NAL@K{}U@$@[KAAN]-NAL@K{}U",
     "desc": "[CHAAN]-NAL K'U / [KAAN]-NAL K'U (chaanal k'u / kaanal k'u) (T86:41[561])  >  adj. + pl. n. \"the heavenly gods\"; chaan in Ch'olan, kaan  in Yucatec.",
     "title": "[CHAAN]-NAL K'U / [KAAN]-NAL K'U"
   },
   {
-    "key": "94-[CHUM] TUN-ni",
+    "key": "94-[CHUM]@TUN-ni",
     "desc": "[CHUM] TUN-ni (chum tun) (T528[644a]:116)  > v. phr. \"seating of the tun,\" \"seating of the stone\"; PE calendrical glyph for tun endings.",
     "title": "[CHUM] TUN-ni"
   },
   {
-    "key": "0-ch'a",
+    "key": "0-ch{}a",
     "desc": "ch'a (ch'a) (Tnn)  > phonetic sign",
     "title": "ch'a"
   },
   {
-    "key": "1-ch'a-b'a",
+    "key": "1-ch{}a-b{}a",
     "desc": "ch'a-b'a (ch'ab') (T89:501)  1> intr. v. \"do penance, sacrifice\" 2> intr. v. \"to pierce with a lance,\" \"lancing\"; when used in parentage relationship statements may have the meaning \"to create.\"",
     "title": "ch'a-b'a"
   },
   {
-    "key": "2-ch'a-ja-{l}-te'",
+    "key": "2-ch{}a-ja-{l}-te{}",
     "desc": "ch'a-ja-{l}-te' (ch'ajalte') (T93:683:87)  > n. type of drink.",
     "title": "ch'a-ja-{l}-te'"
   },
   {
-    "key": "3-ch'a-ji",
+    "key": "3-ch{}a-ji",
     "desc": "ch'a-ji (ch'aj) (T93:758b)  1> n. \"drops,\" \"droplet\" 2> n. \"drop of water, urine, or other liquid.\"",
     "title": "ch'a-ji"
   },
   {
-    "key": "4-ch'a-jo-ma",
+    "key": "4-ch{}a-jo-ma",
     "desc": "ch'a-jo-ma (ch'ajom) (T93.607v:74)  > n. \"dripper,\" \"scatterer\"; elite title; the \"shell-fist\" title.",
     "title": "ch'a-jo-ma"
   },
   {
-    "key": "5-ch'a-jo-ma",
+    "key": "5-ch{}a-jo-ma",
     "desc": "ch'a-jo-ma (ch'ajom) (T93:672.142)  > n. \"dripper,\" \"scatterer\"; elite title; the \"shell-fist\" title.",
     "title": "ch'a-jo-ma"
   },
   {
-    "key": "6-ch'a-JOM",
+    "key": "6-ch{}a-JOM",
     "desc": "ch'a-JOM (ch'ajom) (T93.672hv)  > n. \"dripper,\" \"scatterer\"; elite title; the \"shell-fist\" title.",
     "title": "ch'a-JOM"
   },
   {
-    "key": "7-ch'a-ka-ja",
+    "key": "7-ch{}a-ka-ja",
     "desc": "ch'a-ka-ja (ch'akaj) (T93.25:683)  1> pass. v. \"it was axed,\" \"it was chopped\" 2> pass. v. \"it was decapitated\".",
     "title": "ch'a-ka-ja"
   },
   {
-    "key": "8-ch'a-ti",
+    "key": "8-ch{}a-ti",
     "desc": "ch'a-ti (ch'at) (T93.59)  1> n. \"dwarf\" 2> n \"hunchback.\"",
     "title": "ch'a-ti"
   },
   {
-    "key": "9-ch'a-ti",
+    "key": "9-ch{}a-ti",
     "desc": "ch'a-ti (ch'at) (Tnn:59)  1> n. \"dwarf\" 2> n. \"hunchback.\"",
     "title": "ch'a-ti"
   },
   {
-    "key": "10-ch'a$CH'A",
+    "key": "10-ch{}a$CH{}A",
     "desc": "ch'a/CH'A (ch'a) (T93)  1> phonetic sign 2> n. \"drops\" 3> n. \"drop of water, urine, or other liquid.\"",
     "title": "ch'a/CH'A"
   },
   {
-    "key": "11-ch'a$CH'A",
+    "key": "11-ch{}a$CH{}A",
     "desc": "ch'a/CH'A (ch'a) (T93)  1> phonetic sign 2> n. \"drops,\" \"droplet\" 3> n. \"drop of water, urine, or other liquid.\"",
     "title": "ch'a/CH'A"
   },
   {
-    "key": "12-CH'AB'",
+    "key": "12-CH{}AB{}",
     "desc": "CH'AB' (ch'ab') (T712)  1> intr. v. \"do penance, sacrifice\" 2> intr. v. \"to pierce with a lance,\" \"lancing\"; when used in parentage relationship statements may have the meaning \"to create\"",
     "title": "CH'AB'"
   },
   {
-    "key": "13-CH'AB'",
+    "key": "13-CH{}AB{}",
     "desc": "CH'AB' (ch'ab') (T712:116v)  1> intr. v. \"do penance, sacrifice\" 2> intr. v. \"to pierce with a lance,\" \"lancing\"; when used in parentage relationship statements may have the meaning \"to create\"",
     "title": "CH'AB'"
   },
   {
-    "key": "14-CH'AK",
+    "key": "14-CH{}AK",
     "desc": "CH'AK (ch'ak) (T190)  1> tr. v. \"to chop\" 2> tr. v. \"to decapitate\" 3> tr. v. \"to chop with a blow\"",
     "title": "CH'AK"
   },
   {
-    "key": "15-CH'AK-ka",
+    "key": "15-CH{}AK-ka",
     "desc": "CH'AK-ka (ch'ak) (T333)  1> tr. v. \"to chop\" 2> tr. v. \"to decapitate\" 3>tr. v. \"to chop with a blow\"",
     "title": "CH'AK-ka"
   },
   {
-    "key": "16-CH'AK-ka-b'a",
+    "key": "16-CH{}AK-ka-b{}a",
     "desc": "CH'AK-ka-b'a (ch'akab') (T333.501)  1> intr. v. \"to self-decapitate\" 2> intr. v. \"to self-axe\"",
     "title": "CH'AK-ka-b'a"
   },
   {
-    "key": "17-CH'AK-ka-b'a",
+    "key": "17-CH{}AK-ka-b{}a",
     "desc": "CH'AK-ka-b'a (ch'akab') (T333.757:60)  1> tr. v. \"to self-decapitate\" 2> tr. v. \"to self-axe.\"",
     "title": "CH'AK-ka-b'a"
   },
   {
-    "key": "18-CH'AM",
+    "key": "18-CH{}AM",
     "desc": "CH'AM (ch'am) (T533:670) 1> tr. v. \"to receive\" 2> tr. v. \"to harvest\" 3> n. \"harvest\"",
     "title": "CH'AM"
   },
   {
-    "key": "19-CH'AM",
+    "key": "19-CH{}AM",
     "desc": "CH'AM (ch'am) (T670)  1> tr. v. \"to receive\" 2> tr. v. \"to harvest\" 3> n. \"harvest\".",
     "title": "CH'AM"
   },
   {
-    "key": "20-CH'AM K'AWIL-la",
+    "key": "20-CH{}AM@K{}AWIL-la",
     "desc": "CH'AM K'AWIL-la (ch'am K'awil) (T533:670.1030v)  1> tr. v. \"to receive K'awil\" 2> tr. v. \"to harvest K'awil.\"",
     "title": "CH'AM K'AWIL-la"
   },
   {
-    "key": "21-CH'AM-ma",
+    "key": "21-CH{}AM-ma",
     "desc": "CH'AM-ma (ch'am) (T114:670.142) 1> tr. v. \"to receive\" 2>tr. v. \"to harvest\" 3> n. \"harvest\"",
     "title": "CH'AM-ma"
   },
   {
-    "key": "22-CH'AM-ma",
+    "key": "22-CH{}AM-ma",
     "desc": "CH'AM-ma (ch'am) (T670:142)  1> tr. v. \"to receive\" 2> tr. v. \"to harvest\" 3>n. \"harvest\".",
     "title": "CH'AM-ma"
   },
   {
-    "key": "23-CH'AM-ma K'AWIL-la",
+    "key": "23-CH{}AM-ma@K{}AWIL-la",
     "desc": "CH'AM-ma K'AWIL-la (ch'am K'awil) (T114:670.142.1030v:178)  > tr. v. \"to receive K'awil,\" \"to harvest K'awil.\"",
     "title": "CH'AM-ma K'AWIL-la"
   },
   {
-    "key": "24-CH'EN",
+    "key": "24-CH{}EN",
     "desc": "CH'EN (ch'en) (T571)  > n. \"cave\"; the \"impinged bone\" glyph.",
     "title": "CH'EN"
   },
   {
-    "key": "25-CH'EN",
+    "key": "25-CH{}EN",
     "desc": "CH'EN (ch'en) (T598hv)  > n. \"cave\"",
     "title": "CH'EN"
   },
   {
-    "key": "26-CH'EN",
+    "key": "26-CH{}EN",
     "desc": "CH'EN (ch'en) (T598v)  > n. \"cave\"; the \"impinged bone\" glyph.",
     "title": "CH'EN"
   },
   {
-    "key": "27-CH'EN",
+    "key": "27-CH{}EN",
     "desc": "CH'EN (ch'en) (T598v)  > n. \"cave\"; the \"impinged eye\" glyph.",
     "title": "CH'EN"
   },
   {
-    "key": "28-CH'EN",
+    "key": "28-CH{}EN",
     "desc": "CH'EN (ch'en) (Tnn.598hv)  > n. \"cave\"",
     "title": "CH'EN"
   },
   {
-    "key": "29-CH'EN",
+    "key": "29-CH{}EN",
     "desc": "CH'EN (ch'en) (Tnn)  > n. \"cave\"; the \"impinged K'IN\" glyph.",
     "title": "CH'EN"
   },
   {
-    "key": "30-CH'EN",
+    "key": "30-CH{}EN",
     "desc": "CH'EN (Ch'en) (T95.528:74) > n. month sign; ninth month of the Maya Haab' calendar.",
     "title": "CH'EN"
   },
   {
-    "key": "31-CH'EN-na",
+    "key": "31-CH{}EN-na",
     "desc": "CH'EN-na (ch'en) (T571:23)  > n. \"cave.\"",
     "title": "CH'EN-na"
   },
   {
-    "key": "32-CH'EN-na",
+    "key": "32-CH{}EN-na",
     "desc": "CH'EN-na (ch'en) (T598v:23)  > n. \"cave.\"",
     "title": "CH'EN-na"
   },
   {
-    "key": "33-ch'o",
+    "key": "33-ch{}o",
     "desc": "ch'o (ch'o) (T287)  > phonetic sign",
     "title": "ch'o"
   },
   {
-    "key": "34-ch'o",
+    "key": "34-ch{}o",
     "desc": "ch'o (ch'o) (T287)  > phonetic sign",
     "title": "ch'o"
   },
   {
-    "key": "35-ch'o",
+    "key": "35-ch{}o",
     "desc": "ch'o (ch'o) (T758)  > phonetic sign",
     "title": "ch'o"
   },
   {
-    "key": "36-ch'o-ko",
+    "key": "36-ch{}o-ko",
     "desc": "ch'o-ko (ch'ok) (T757v:110)  1> n. \"youth\" 2> n. \"youngster,\" \"young one\" 3> adj. \"young\" 4> adj. \"unripe\"",
     "title": "ch'o-ko"
   },
   {
-    "key": "37-ch'o-ko",
+    "key": "37-ch{}o-ko",
     "desc": "ch'o-ko (ch'ok) (T287:nn)  1> n. \"youth\" 2> n. \"youngster,\" \"young one\" 3> adj. \"young\" 4> adj. \"unripe\"",
     "title": "ch'o-ko"
   },
   {
-    "key": "38-ch'o-[ko]",
+    "key": "38-ch{}o-[ko]",
     "desc": "ch'o-[ko] (ch'ok) (T758)  1> n. \"youth\" 2> n. \"youngster,\" \"young one\" 3> adj. \"young\" 4> adj. \"unripe\"",
     "title": "ch'o-[ko]"
   },
   {
-    "key": "39-ch'o-[ko] K'AB'A",
+    "key": "39-ch{}o-[ko]@K{}AB{}A",
     "desc": "ch'o-[ko] K'AB'A (ch'ok k'ab'a) (T187:287:110)  > adj. + n. \"youthful name.\"",
     "title": "ch'o-[ko] K'AB'A"
   },
   {
-    "key": "40-CH'OK TE' NA",
+    "key": "40-CH{}OK@TE{}@NA",
     "desc": "CH'OK TE' NA (ch'ok te' na) (T600:4:87)  > n. \"sprout tree house\"; the \"founder glyph\"; the \"crossed batons\" glyph; reference to the founder's house?",
     "title": "CH'OK TE' NA"
   },
   {
-    "key": "41-CH'UL cha-TAN WINIK $ K'UL cha-TAN WINIK (CH'UJUL cha-TAN WINIK $ K'UJUL cha-TAN WINIK)",
+    "key": "41-CH{}UL@cha-TAN@WINIK@$@K{}UL@cha-TAN@WINIK@(CH{}UJUL@cha-TAN@WINIK@$@K{}UJUL@cha-TAN@WINIK)",
     "desc": "CH'UL cha-TAN WINIK / K'UL cha-TAN WINIK (CH'UJUL cha-TAN WINIK / K'UJUL cha-TAN WINIK) (ch'ul chatan winik / k'ul chatan winik, ch'ujul chatan winik / k'ujul chatan winik) (T33:520.606:521)  >  tit. phr. \"sacred Chatan person\"; resembles an EG but with \"person\" rather than \"lord\": ch'ul . . . winik/ch'ul . . . ajaw;  refers to someone from \"Chatan\".",
     "title": "CH'UL cha-TAN WINIK / K'UL cha-TAN WINIK (CH'UJUL cha-TAN WINIK / K'UJUL cha-TAN WINIK)"
   },
   {
-    "key": "42-CH'UL CHAAN CH'UL KAB' $ K'UL KAAN K'UL KAB' (CH'UJUL CHAN KAB' $ K'UJUL KAAN KAB'",
+    "key": "42-CH{}UL@CHAAN@CH{}UL@KAB{}@$@K{}UL@KAAN@K{}UL@KAB{}@(CH{}UJUL@CHAN@KAB{}@$@K{}UJUL@KAAN@KAB{}",
     "desc": "CH'UL CHAAN CH'UL KAB' / K'UL KAAN K'UL KAB' (CH'UJUL CHAN KAB' / K'UJUL KAAN KAB' (ch'ul chaan ch'ul kab' / k'ul kaan k'ul kab', ch'ujul chaan ch'ul kab' / k'ujul kaan k'ul kab') (T35.561hv 35.526hd)  > tit. phr. \"heavenly god, earthly god\".",
     "title": "CH'UL CHAAN CH'UL KAB' / K'UL KAAN K'UL KAB' (CH'UJUL CHAN KAB' / K'UJUL KAAN KAB'"
   },
   {
-    "key": "43-CH'UL IXIK-ki $ K'UL IXIK-ki (CH'UJUL IXIK-ki $ K'UJUL IXIK-ki)",
+    "key": "43-CH{}UL@IXIK-ki@$@K{}UL@IXIK-ki@(CH{}UJUL@IXIK-ki@$@K{}UJUL@IXIK-ki)",
     "desc": "CH'UL IXIK-ki / K'UL IXIK-ki (CH'UJUL IXIK-ki / K'UJUL IXIK-ki) (ch'ul ixik / k'ul ixik, ch'ujul ixik / k'ujul ixik) (T36.1002a:102)  >  adj. + n. \"sacred/holy/divine woman\".",
     "title": "CH'UL IXIK-ki / K'UL IXIK-ki (CH'UJUL IXIK-ki / K'UJUL IXIK-ki)"
   },
   {
-    "key": "44-CH'UL K'AB'A$K'UL K'AB'A",
+    "key": "44-CH{}UL@K{}AB{}A$K{}UL@K{}AB{}A",
     "desc": "CH'UL K'AB'A/K'UL K'AB'A (ch'ul k'ab'a/k'ul k'ab'a) (T187:1016)  > adj. + n. \"sacred/holy/divine name.\"",
     "title": "CH'UL K'AB'A/K'UL K'AB'A"
   },
   {
-    "key": "45-CH'UL WINIK-ki $ K'UL WINIK-ki (CH'UJUL WINIK-ki $ K'UJUL WINIK-ki)",
+    "key": "45-CH{}UL@WINIK-ki@$@K{}UL@WINIK-ki@(CH{}UJUL@WINIK-ki@$@K{}UJUL@WINIK-ki)",
     "desc": "CH'UL WINIK-ki / K'UL WINIK-ki (CH'UJUL WINIK-ki / K'UJUL WINIK-ki) (ch'ul winik / k'ul winik, ch'ujul winik / k'ujul winik) (T33:520.60)  1> adj. + n. \"sacred/holy/divine man\" 2> adj. + n. \"sacred/holy/ divine person\".",
     "title": "CH'UL WINIK-ki / K'UL WINIK-ki (CH'UJUL WINIK-ki / K'UJUL WINIK-ki)"
   },
   {
-    "key": "46-CH'UL-lu $ K'UL-lu (CH'UJUL-lu $ K'UJUL-lu)",
+    "key": "46-CH{}UL-lu@$@K{}UL-lu@(CH{}UJUL-lu@$@K{}UJUL-lu)",
     "desc": "CH'UL-lu / K'UL-lu (CH'UJUL-lu / K'UJUL-lu) (ch'ul / k'ul, ch'ujul / k'ujul) (T32:568v)  > adj. \"sacred, holy, divine\"",
     "title": "CH'UL-lu / K'UL-lu (CH'UJUL-lu / K'UJUL-lu)"
   },
   {
-    "key": "47-CH'UL-lu to-k'a $ K'UL-lu to-k'a (CH'UJUL-lu to-k'a $ K'UJUL-lu to-k'a)",
+    "key": "47-CH{}UL-lu@to-k{}a@$@K{}UL-lu@to-k{}a@(CH{}UJUL-lu@to-k{}a@$@K{}UJUL-lu@to-k{}a)",
     "desc": "CH'UL-lu to-k'a / K'UL-lu to-k'a (CH'UJUL-lu to-k'a / K'UJUL-lu to-k'a) (ch'ul tok' / k'ul tok', ch'ujul tok' / k'ujul tok') (T38.568.44:669)  >  adj. + n. \"sacred/holy/divine flint\".",
     "title": "CH'UL-lu to-k'a / K'UL-lu to-k'a (CH'UJUL-lu to-k'a / K'UJUL-lu to-k'a)"
   },
   {
-    "key": "48-CH'UL$K'UL (CH'UJUL$K'UJUL)",
+    "key": "48-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL)",
     "desc": "CH'UL/K'UL (CH'UJUL/K'UJUL) (ch'ul/k'ul, ch'ujul/k'ujul) (T36)  > adj. \"sacred, holy, divine\"; incorporates a visual and conceptual analogy between blood and the soul; derives from the word ch'ulel  in several Mayan languages, meaning \"soul, holiness, divinity, spirituality\"",
     "title": "CH'UL/K'UL (CH'UJUL/K'UJUL)"
   },
   {
-    "key": "49-CH'UL$K'UL (CH'UJUL$K'UJUL)",
+    "key": "49-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL)",
     "desc": "CH'UL/K'UL (CH'UJUL/K'UJUL) (ch'ul/k'ul, ch'ujul/k'ujul) (T37)  > adj. \"sacred, holy, divine\"; incorporates a visual and conceptual analogy between blood and the soul; derives from the word ch'ulel  in several Mayan languages, meaning \"soul, holiness, divinity, spirituality\"",
     "title": "CH'UL/K'UL (CH'UJUL/K'UJUL)"
   },
   {
-    "key": "50-CH'UL$K'UL (CH'UJUL$K'UJUL)",
+    "key": "50-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL)",
     "desc": "CH'UL/K'UL (CH'UJUL/K'UJUL) (ch'ul/k'ul, ch'ujul/k'ujul) (T38)  > adj. \"sacred, holy, divine\"; incorporates a visual and conceptual analogy between blood and the soul; derives from the word ch'ulel  in several Mayan languages, meaning \"soul, holiness, divinity, spirituality\"",
     "title": "CH'UL/K'UL (CH'UJUL/K'UJUL)"
   },
   {
-    "key": "51-CH'UL$K'UL (CH'UJUL$K'UJUL)",
+    "key": "51-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL)",
     "desc": "CH'UL/K'UL (CH'UJUL/K'UJUL) (ch'ul/k'ul, ch'ujul/k'ujul) (T38)  > adj. \"sacred, holy, divine\"; incorporates a visual and conceptual analogy between blood and the soul; derives from the word ch'ulel  in several Mayan languages, meaning \"soul, holiness, divinity, spirituality\"",
     "title": "CH'UL/K'UL (CH'UJUL/K'UJUL)"
   },
   {
-    "key": "52-CH'UL$K'UL (CH'UJUL$K'UJUL)",
+    "key": "52-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL)",
     "desc": "CH'UL/K'UL (CH'UJUL/K'UJUL) (ch'ul/k'ul, ch'ujul/k'ujul) (T40)  > adj. \"sacred, holy, divine\"; incorporates a visual and conceptual analogy between blood and the soul; derives from the word ch'ulel  in several Mayan languages, meaning \"soul, holiness, divinity, spirituality\"",
     "title": "CH'UL/K'UL (CH'UJUL/K'UJUL)"
   },
   {
-    "key": "53-CH'UL$K'UL (CH'UJUL$K'UJUL)",
+    "key": "53-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL)",
     "desc": "CH'UL/K'UL (CH'UJUL/K'UJUL) (ch'ul/k'ul, ch'ujul/k'ujul) (T41)  > adj. \"sacred, holy, divine\"; incorporates a visual and conceptual analogy between blood and the soul; derives from the word ch'ulel  in several Mayan languages, meaning \"soul, holiness, divinity, spirituality\"",
     "title": "CH'UL/K'UL (CH'UJUL/K'UJUL)"
   },
   {
-    "key": "54-CH'UL$K'UL (CH'UJUL$K'UJUL)",
+    "key": "54-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL)",
     "desc": "CH'UL/K'UL (CH'UJUL/K'UJUL) (ch'ul/k'ul, ch'ujul/k'ujul) (T32:683v)  > adj. \"sacred, divine\"; incorporates a visual and conceptual analogy between blood and the soul; derives from the word ch'ulel  in several Mayan languages, meaning \"soul, holiness, divinity, spirituality\"",
     "title": "CH'UL/K'UL (CH'UJUL/K'UJUL)"
   },
   {
-    "key": "55-CH'UL$K'UL (CH'UJUL$K'UJUL)",
+    "key": "55-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL)",
     "desc": "CH'UL/K'UL (CH'UJUL/K'UJUL) (ch'ul/k'ul, ch'ujul/k'ujul) (T32)  1> adj. \"sacred, holy, divine\"; incorporates a visual and conceptual analogy between blood and the soul; derives from the word ch'ulel  in several Mayan languages, meaning \"soul, holiness, divinity, spirituality\"",
     "title": "CH'UL/K'UL (CH'UJUL/K'UJUL)"
   },
   {
-    "key": "56-CH'UL AJAW-wa $ K'UL AJAW-wa (CH'UJUL AJAW-wa $ K'UJUL AJAW-WA",
+    "key": "56-CH{}UL@AJAW-wa@$@K{}UL@AJAW-wa@(CH{}UJUL@AJAW-wa@$@K{}UJUL@AJAW-WA",
     "desc": "CH'UL AJAW-wa / K'UL AJAW-wa (CH'UJUL AJAW-wa / K'UJUL AJAW-WA (ch'ul ajaw / k'ul ajaw, ch'ujul ajaw / k'ujul ajaw) (T37.168:518:130) > adj. + n. \"sacred/holy/divine lord\"; royal title.",
     "title": "CH'UL AJAW-wa / K'UL AJAW-wa (CH'UJUL AJAW-wa / K'UJUL AJAW-WA"
   },
   {
-    "key": "57-CH’UL cha-TAN-na wi-WINIK-ki $ K’UL cha-TAN-na wi-WINIK-ki (CH’UJUL cha-TAN-na wi-WINIK-ki $ K’UJUL cha-TAN-na wi-WINIK-ki)",
+    "key": "57-CH’UL@cha-TAN-na@wi-WINIK-ki@$@K’UL@cha-TAN-na@wi-WINIK-ki@(CH’UJUL@cha-TAN-na@wi-WINIK-ki@$@K’UJUL@cha-TAN-na@wi-WINIK-ki)",
     "desc": "CH’UL cha-TAN-na wi-WINIK-ki / K’UL cha-TAN-na wi-WINIK-ki (CH’UJUL cha-TAN-na wi-WINIK-ki / K’UJUL cha-TAN-na wi-WINIK-ki) (ch'ul chatan winik / k'ul chatan winik, ch'ujul chatan winik / k'ujul chatan winik) (T41 299:520.606.23 117.741v:102) > tit. phr. \"sacred Chatan person\"; resembles an EG but with \"person\" rather than \"lord\": ch'ul . . . winik/ch'ul . . . ajaw; refers to someone from \"Chatan\".",
     "title": "CH’UL cha-TAN-na wi-WINIK-ki / K’UL cha-TAN-na wi-WINIK-ki (CH’UJUL cha-TAN-na wi-WINIK-ki / K’UJUL cha-TAN-na wi-WINIK-ki)"
   },
   {
-    "key": "58-CH’UL to-{k} TAN AJAW $ K’UL to-{k} TAN AJAW (CH’UJUL to-{k} TAN AJAW $ K’UJUL to-{k} TAN AJAW)",
+    "key": "58-CH’UL@to-{k}@TAN@AJAW@$@K’UL@to-{k}@TAN@AJAW@(CH’UJUL@to-{k}@TAN@AJAW@$@K’UJUL@to-{k}@TAN@AJAW)",
     "desc": "CH’UL to-{k} TAN AJAW / K’UL to-{k} TAN AJAW (CH’UJUL to-{k} TAN AJAW / K’UJUL to-{k} TAN AJAW) (Ch'ul Tok Tan Ajaw / K'ul Tok Tan Ajaw, Ch'ujul Tok Tan Ajaw / K'ujul Tok Tan Ajaw) (T40.168:44:606v)  >  adj. + n. \"Sacred/Holy/Divine Cloud Center Lord\", \"Sacred/Holy/Divine Cloud Place Lord\"; elite title.",
     "title": "CH’UL to-{k} TAN AJAW / K’UL to-{k} TAN AJAW (CH’UJUL to-{k} TAN AJAW / K’UJUL to-{k} TAN AJAW)"
   },
@@ -1230,52 +1230,52 @@
     "title": "e"
   },
   {
-    "key": "4-e-b'u",
+    "key": "4-e-b{}u",
     "desc": "e-b'u (eb') (T741v:21.741v)  > n. \"stairway,\" \"staircase.\"",
     "title": "e-b'u"
   },
   {
-    "key": "5-EB'",
+    "key": "5-EB{}",
     "desc": "EB' (Eb') (Tnn)  > n. day sign; twelfth day of the Maya Tzolk'in calendar",
     "title": "EB'"
   },
   {
-    "key": "6-EB'-[b'u]",
+    "key": "6-EB{}-[b{}u]",
     "desc": "EB'-[b'u] (eb') (T843[20.741])  > n. \"stairway,\" \"staircase\"",
     "title": "EB'-[b'u]"
   },
   {
-    "key": "7-EK'",
+    "key": "7-EK{}",
     "desc": "EK' (ek') (T89)  > adj. \"black\".",
     "title": "EK'"
   },
   {
-    "key": "8-EK'",
+    "key": "8-EK{}",
     "desc": "EK' (ek') (T89)  > adj. \"black\"",
     "title": "EK'"
   },
   {
-    "key": "9-EK'",
+    "key": "9-EK{}",
     "desc": "EK' (ek') (T89)  > adj. \"black\"",
     "title": "EK'"
   },
   {
-    "key": "10-EK'",
+    "key": "10-EK{}",
     "desc": "EK' (ek'/Ek') (T510) 1> n. \"star\" 2> n. \"Venus\"?",
     "title": "EK'"
   },
   {
-    "key": "11-EK'",
+    "key": "11-EK{}",
     "desc": "EK' (ek'/Ek') (T510af) 1> n. \"star\"; represents one-half of the full \"star\" glyph 2>  > n. \"Venus\"?",
     "title": "EK'"
   },
   {
-    "key": "12-EK' JUN",
+    "key": "12-EK{}@JUN",
     "desc": "EK' JUN (ek' jun) (T89ms:60) > adj. + n. \"black headband.\"",
     "title": "EK' JUN"
   },
   {
-    "key": "13-EK' WAY-NAL",
+    "key": "13-EK{}@WAY-NAL",
     "desc": "EK' WAY-NAL (ek' waynal) (T89.86:769:140)  1> adj. + n. \"black hole\" 2> n. \"Black Hole Place.\"",
     "title": "EK' WAY-NAL"
   },
@@ -1285,17 +1285,17 @@
     "title": "EM"
   },
   {
-    "key": "16-ETZ'NAB'",
+    "key": "16-ETZ{}NAB{}",
     "desc": "ETZ'NAB' (Etz'nab') (T527)  > n. day sign; eighteenth day of the Maya Tzolk'in calendar",
     "title": "ETZ'NAB'"
   },
   {
-    "key": "0-AB'",
+    "key": "0-AB{}",
     "desc": "AB' (ab') (T548)  1> n. \"year\"; the year of 360 days; the TUN sign in IS and DN notations 2> n. part of the name of the ruler of Seibal, Aj B'olon Ab'taj (cf. Seibal Stelae 7, 9, 10, and 11)",
     "title": "AB'"
   },
   {
-    "key": "1-AB'-[b'i]",
+    "key": "1-AB{}-[b{}i]",
     "desc": "AB'-[b'i] (ab') (T548[585])  > n. \"year\"; the TUN sign in IS and DN notations + infixed b'i",
     "title": "AB'-[b'i]"
   },
@@ -1305,37 +1305,37 @@
     "title": "hi"
   },
   {
-    "key": "3-JA'",
+    "key": "3-JA{}",
     "desc": "JA' (ja') (T1031a)  > n. \"water\"",
     "title": "JA'"
   },
   {
-    "key": "4-JA'",
+    "key": "4-JA{}",
     "desc": "JA' (ja') (T501v)  > n. \"water\"",
     "title": "JA'"
   },
   {
-    "key": "5-JA'",
+    "key": "5-JA{}",
     "desc": "JA' (ja') (T501v)  > n. \"water\"",
     "title": "JA'"
   },
   {
-    "key": "6-ja'",
+    "key": "6-ja{}",
     "desc": "ja' (ja') (T60.1042) > phonetic sign.",
     "title": "ja'"
   },
   {
-    "key": "7-ja'-i",
+    "key": "7-ja{}-i",
     "desc": "ja'-i (ja'-i) (T60.1041)  > dem. pron. \"this, that, that one\"; focus marker.",
     "title": "ja'-i"
   },
   {
-    "key": "8-JA'AB'",
+    "key": "8-JA{}AB{}",
     "desc": "JA'AB' (ja'ab') (T548)  > n. \"year\"; the year of 365 days as used in the 52-Year Cycle or Calendar Round",
     "title": "JA'AB'"
   },
   {
-    "key": "9-JA'AB'",
+    "key": "9-JA{}AB{}",
     "desc": "JA'AB' (ja'ab') (T548)  > n. \"year\"; the year of 365 days as used in the 52-Year Cycle or Calendar Round",
     "title": "JA'AB'"
   },
@@ -1415,7 +1415,7 @@
     "title": "ju-li"
   },
   {
-    "key": "25-ju-li-OB'",
+    "key": "25-ju-li-OB{}",
     "desc": "ju-li-OB' (julob') (T45:82:141)  1> intr. pl. v. \"they arrived\" 2> intr. pl. v. \"they threw\" 3> intr. pl. v. \"they shot\"",
     "title": "ju-li-OB'"
   },
@@ -1545,22 +1545,22 @@
     "title": "i-ki-tzi"
   },
   {
-    "key": "14-i-tz'a-ta",
+    "key": "14-i-tz{}a-ta",
     "desc": "i-tz'a-ta (itz'at) (T58[679]:103)  > n. \"sage, wise man, learned one\"; in general, \"artist.\"",
     "title": "i-tz'a-ta"
   },
   {
-    "key": "15-i-tz'i-{n}",
+    "key": "15-i-tz{}i-{n}",
     "desc": "i-tz'i-{n} (itz'in) (T237v)  > n. \"younger brother.\"",
     "title": "i-tz'i-{n}"
   },
   {
-    "key": "16-i-tz'i-{n} wi-WINIK-ki",
+    "key": "16-i-tz{}i-{n}@wi-WINIK-ki",
     "desc": "i-tz'i-{n} wi-WINIK-ki (itz'in winik) (T679.248:521:103.117)  > adj. n. \"younger brother person.\"",
     "title": "i-tz'i-{n} wi-WINIK-ki"
   },
   {
-    "key": "17-i-tz'i-{n} WINIK",
+    "key": "17-i-tz{}i-{n}@WINIK",
     "desc": "i-tz'i-{n} WINIK (itz'in winik) (T237v.248:521)  > adj. + n. \"younger brother person.\"",
     "title": "i-tz'i-{n} WINIK"
   },
@@ -1600,37 +1600,37 @@
     "title": "i/I"
   },
   {
-    "key": "25-ICH'AK'",
+    "key": "25-ICH{}AK{}",
     "desc": "ICH'AK' (ich'ak') (T5) 1> n. \"jaguar claw\" 2> n. \"jaguar paw\"; possible alternative reading: MOL (specifically \"paw,\" as opposed to \"claw\")",
     "title": "ICH'AK'"
   },
   {
-    "key": "26-ICH'AK' TUN-ni",
+    "key": "26-ICH{}AK{}@TUN-ni",
     "desc": "ICH'AK' TUN-ni (ich'ak' tun) (T5:528:116)  > n. \"jaguar claw stone,\" \"jaguar paw stone.\"",
     "title": "ICH'AK' TUN-ni"
   },
   {
-    "key": "27-ICH'AK'-ki",
+    "key": "27-ICH{}AK{}-ki",
     "desc": "ICH'AK'-ki (ich'ak') (Tnn:102)  > n. \"claw\"",
     "title": "ICH'AK'-ki"
   },
   {
-    "key": "28-IK'",
+    "key": "28-IK{}",
     "desc": "IK' (Ik') (T23)  > n. day sign; second day of the Maya Tzolk'in calendar; a rare IK' logogram; found especially in early texts from Uaxactun.",
     "title": "IK'"
   },
   {
-    "key": "29-IK'",
+    "key": "29-IK{}",
     "desc": "IK' (Ik') (T503)  > n. day sign; second day of the Maya Tzolk'in calendar; the \"T\" sign associated with \"wind,\" \"breath,\" and the Wind God within a cartouche.",
     "title": "IK'"
   },
   {
-    "key": "30-IK'",
+    "key": "30-IK{}",
     "desc": "IK' (Ik') (T503hv)  > n. day sign; second day of the Maya Tzolk'in calendar; the \"T\" sign associated with \"wind,\" \"breath,\" and the Wind God.",
     "title": "IK'"
   },
   {
-    "key": "31-IK' K'U",
+    "key": "31-IK{}@K{}U",
     "desc": "IK' K'U (Ik' K'u) (T23:503.36?)  > n. \"Wind God\"; proper name of the Classic Maya wind god?; T23 na functions as part of the Ik' sign logogram.",
     "title": "IK' K'U"
   },
@@ -1665,57 +1665,57 @@
     "title": "IN"
   },
   {
-    "key": "38-IN CH'EN",
+    "key": "38-IN@CH{}EN",
     "desc": "IN CH'EN (in ch'en) (T116.598v)  > poss. n. \"my cave\"; includes the first person possessive pronoun in-  \"my.\"",
     "title": "IN CH'EN"
   },
   {
-    "key": "39-IN KAB'",
+    "key": "39-IN@KAB{}",
     "desc": "IN KAB' (in kab') (T116.526)  > poss. n. \"my earth,\" \"my land\"; includes the first person possessive pronoun in-  \"my.\"",
     "title": "IN KAB'"
   },
   {
-    "key": "40-IN pa-ta",
+    "key": "40-IN@pa-ta",
     "desc": "IN pa-ta (in pat) (T116.586:103?)  > poss. n. \"my tribute\"; includes the first person possessive pronoun in-  \"my.\"",
     "title": "IN pa-ta"
   },
   {
-    "key": "41-IN tu-pa",
+    "key": "41-IN@tu-pa",
     "desc": "IN tu-pa (in tup) (T116.92:586)  > poss. n. \"my earspool\"; includes the first person possessive pronoun in-  \"my.\"",
     "title": "IN tu-pa"
   },
   {
-    "key": "42-IN-b'u-ku",
+    "key": "42-IN-b{}u-ku",
     "desc": "IN-b'u-ku (in b'uk) (T116.21:528)  > poss. n. \"my clothes\"; includes the first person possessive pronoun in-  \"my.\"",
     "title": "IN-b'u-ku"
   },
   {
-    "key": "43-ITZ'",
+    "key": "43-ITZ{}",
     "desc": "ITZ' (itz') (T152)  1> n. \"essence\" 2> n \"sweat\" 3> n. \"resin\" 4> n. \"flower nectar.\"",
     "title": "ITZ'"
   },
   {
-    "key": "44-itz'-am-{na}",
+    "key": "44-itz{}-am-{na}",
     "desc": "itz'-am-{na} (Itz'amná) (T152.nn)  > n. deity name; proper name of the god Itz'amná, principal god of the Maya pantheon; incorporates the ITZ' sign, but itz'am can mean \"crocodile\" or \"lizard,\" with the whole possibly meaning \"lizard house.\"",
     "title": "itz'-am-{na}"
   },
   {
-    "key": "45-ITZ'AM ye-ji",
+    "key": "45-ITZ{}AM@ye-ji",
     "desc": "ITZ'AM ye-ji (Itz'am Yej) (T152.nn 512.136)  > n. deity name; proper name of the Principal Bird Deity.",
     "title": "ITZ'AM ye-ji"
   },
   {
-    "key": "46-ITZ'AT",
+    "key": "46-ITZ{}AT",
     "desc": "ITZ'AT (itz'at) (Tnn)  > n. \"sage, wise man, learned one\"; in general, \"artist.\"",
     "title": "ITZ'AT"
   },
   {
-    "key": "47-ITZ'AT",
+    "key": "47-ITZ{}AT",
     "desc": "ITZ'AT (itz'at) (Tnn)  > n. \"sage, wise man, learned one\"; in general, \"artist.\"",
     "title": "ITZ'AT"
   },
   {
-    "key": "48-ITZ'AT-ta",
+    "key": "48-ITZ{}AT-ta",
     "desc": "ITZ'AT-ta (itz'at) (Tnn.102)  > n. \"sage, wise man, learned one\"; in general, \"artist.\"",
     "title": "ITZ'AT-ta"
   },
@@ -1730,12 +1730,12 @@
     "title": "IX"
   },
   {
-    "key": "51-IX TZ'AM(?)",
+    "key": "51-IX@TZ{}AM([])",
     "desc": "IX TZ'AM(?) (ix tz'am?) (T524:150)  > n. \"jaguar throne.\"",
     "title": "IX TZ'AM(?)"
   },
   {
-    "key": "52-IX TZ'AM(?) ku-aj",
+    "key": "52-IX@TZ{}AM([])@ku-aj",
     "desc": "IX TZ'AM(?) ku-aj (Ix Tz'am? Ku-aj) (T524:150.528:12)  > n. \"Jaguar Throne Stone Place.\"",
     "title": "IX TZ'AM(?) ku-aj"
   },
@@ -1780,12 +1780,12 @@
     "title": "ja"
   },
   {
-    "key": "6-ja'-o-b'a",
+    "key": "6-ja{}-o-b{}a",
     "desc": "ja'-o-b'a (ja'ob') (T60.1042:279.501:314) > dem. pron. pl. \"they, these\" \"they are, these are\"; the plural form of ha'-i; ex.: \"these are the so-and-so\".",
     "title": "ja'-o-b'a"
   },
   {
-    "key": "7-ja-na-b'i",
+    "key": "7-ja-na-b{}i",
     "desc": "ja-na-b'i (janaab') (T181.23:585hv)  > n. \"flower.\"",
     "title": "ja-na-b'i"
   },
@@ -1800,17 +1800,17 @@
     "title": "ja-sa-wa"
   },
   {
-    "key": "10-ja-tz'a-yi",
+    "key": "10-ja-tz{}a-yi",
     "desc": "ja-tz'a-yi (jatz'ay) (T181:366v.17)  1> tr. v. \"to strike\" 2> tr. v. \"to split\" 3> tr. v. \"to wound.\"",
     "title": "ja-tz'a-yi"
   },
   {
-    "key": "11-ja-wa-te'",
+    "key": "11-ja-wa-te{}",
     "desc": "ja-wa-te' (jawte') (T181:130.87) > n. \"ceramic tripod plate\"; used in the PSS to designate a specific type of vessel.",
     "title": "ja-wa-te'"
   },
   {
-    "key": "12-ja-wa-te'",
+    "key": "12-ja-wa-te{}",
     "desc": "ja-wa-te' (jawte') (T181:130.87hv) > n. \"ceramic tripod plate\"; used in the PSS to designate a specific type of vessel.",
     "title": "ja-wa-te'"
   },
@@ -1825,17 +1825,17 @@
     "title": "ja-yi"
   },
   {
-    "key": "15-JANAAB'",
+    "key": "15-JANAAB{}",
     "desc": "JANAAB' (janaab') (T624ff)  > n. \"flower\"; occurs in the names of several Palenque Classic Period kings, including Janaab' Pakal the Great (ruled A.D. 615-683)",
     "title": "JANAAB'"
   },
   {
-    "key": "16-JANAAB'",
+    "key": "16-JANAAB{}",
     "desc": "JANAAB' (janaab') (T624hv)  > n. \"flower\"; occurs in the names of several Palenque Classic Period kings, including Janaab' Pakal the Great (ruled A.D. 615-683)",
     "title": "JANAAB'"
   },
   {
-    "key": "17-JANAAB'",
+    "key": "17-JANAAB{}",
     "desc": "JANAAB' (janaab') (T624v)  > n. \"flower\"; occurs in the names of several Palenque Classic Period kings, including Janaab' Pakal the Great (ruled A.D. 615-683)",
     "title": "JANAAB'"
   },
@@ -1900,7 +1900,7 @@
     "title": "jo"
   },
   {
-    "key": "30-jo-JOY'",
+    "key": "30-jo-JOY{}",
     "desc": "jo-JOY' (joy) (Tnn:683)  1> tr. v. \"to accede\" 2> tr. v. \"to emerge,\" \"to come out\"; general \"accession\" verb; the \"toothache\" glyph; first part of the \"affix cluster.\"",
     "title": "jo-JOY'"
   },
@@ -1910,7 +1910,7 @@
     "title": "jo-JOY-ja"
   },
   {
-    "key": "32-jo-JOY-ja TI AJAW-le-{l}",
+    "key": "32-jo-JOY-ja@TI@AJAW-le-{l}",
     "desc": "jo-JOY-ja TI AJAW-le-{l} (joyaj ti ajawlel) (T607v.684a 59.168:188)  > pass. v. phr. \"(did) accede in lordship,\" \"(did) accede as ruler,\" \"was emergent in lordship\"; general \"accession\" phrase; the \"affix cluster.\"",
     "title": "jo-JOY-ja TI AJAW-le-{l}"
   },
@@ -1950,42 +1950,42 @@
     "title": "ju"
   },
   {
-    "key": "40-ju-b'u-yi",
+    "key": "40-ju-b{}u-yi",
     "desc": "ju-b'u-yi (jub'uy) (T45v.21hv:17)  1> intr. v. \"taken down\" 2> intr. v. \"brought down\"; general \"war\" verb.",
     "title": "ju-b'u-yi"
   },
   {
-    "key": "41-ju-b'u-yi",
+    "key": "41-ju-b{}u-yi",
     "desc": "ju-b'u-yi (jub'uy) (T45v.21:575)  1> intr. v. \"taken down\" 2> intr. v. \"brought down\"; general \"war\" verb.",
     "title": "ju-b'u-yi"
   },
   {
-    "key": "42-JUB'",
+    "key": "42-JUB{}",
     "desc": "JUB' (jub') (T579v)  1> n. \"shell\" 2> n. \"shell trumpet\"",
     "title": "JUB'"
   },
   {
-    "key": "43-JUB'(?)",
+    "key": "43-JUB{}([])",
     "desc": "JUB'(?) (jub') (T510af:325:526)  1> intr. v. \"to take down\" 2> intr. v. \"to bring down\"; general \"war\" verb; \"Star-Over-Earth\"",
     "title": "JUB'(?)"
   },
   {
-    "key": "44-JUB'(?)-yi",
+    "key": "44-JUB{}([])-yi",
     "desc": "JUB'(?)-yi (jub'uy ?) (T510af:325:575)  > intr. v., \"taken down,\" \"brought down\"; general \"war\" verb; \"Star-Over-Shell\"",
     "title": "JUB'(?)-yi"
   },
   {
-    "key": "45-JUB'(?)-yi-ya",
+    "key": "45-JUB{}([])-yi-ya",
     "desc": "JUB'(?)-yi-ya (jub'uy ?) (T510af:325:526:17)  > intr. v., \"taken down,\" \"brought down\"; general \"war\" verb; \"Star-Over-Shell\"",
     "title": "JUB'(?)-yi-ya"
   },
   {
-    "key": "46-JUB'-b'a",
+    "key": "46-JUB{}-b{}a",
     "desc": "JUB'-b'a (jub') (T579v:501)  1> n. \"shell\" 2> n. \"shell trumpet.\"",
     "title": "JUB'-b'a"
   },
   {
-    "key": "47-JUB'-EMBLEM GLYPH",
+    "key": "47-JUB{}-EMBLEM@GLYPH",
     "desc": "JUB'-EMBLEM GLYPH (  (jub'-Emblem Glyph) (T510af:325:528:528.528)  > intr. v. \"to bring down [a site/location/polity]\"; general \"war\" verb, called \"Star-Over-Emblem Glyph\"",
     "title": "JUB'-EMBLEM GLYPH"
   },
@@ -2010,22 +2010,22 @@
     "title": "JUN"
   },
   {
-    "key": "52-JUN NAL YE",
+    "key": "52-JUN@NAL@YE",
     "desc": "JUN NAL YE (Ju Nal Ye) (TI.84:512a) > n. deity name; proper name of the Maize God.",
     "title": "JUN NAL YE"
   },
   {
-    "key": "53-JUN TAN-na",
+    "key": "53-JUN@TAN-na",
     "desc": "JUN TAN-na (jun tan) (TI:606:23) > adj. \"beloved,\" \"cherished\"; part of the \"child of mother\" sequence.",
     "title": "JUN TAN-na"
   },
   {
-    "key": "54-[JAANAB'] PAKAL",
+    "key": "54-[JAANAB{}]@PAKAL",
     "desc": "[JAANAB'] PAKAL (janaab' pakal) (T624)  1> n. \"flower-shield\" 2> n. the name of several Palenque Classic Period kings, including Janaab' Pakal the Great (ruled A.D. 615-683)",
     "title": "[JAANAB'] PAKAL"
   },
   {
-    "key": "55-[JANAAB'] PAKAL-la",
+    "key": "55-[JANAAB{}]@PAKAL-la",
     "desc": "[JANAAB'] PAKAL-la (janaab' pakal) (T624b:178)  1> n. \"flower-shield\" 2> n. the name of several Palenque Classic Period kings, including Pakal the Great (ruled AD 615-683).",
     "title": "[JANAAB'] PAKAL-la"
   },
@@ -2050,12 +2050,12 @@
     "title": "ka-ka-wa"
   },
   {
-    "key": "5-ka-KALOMTE'-te'",
+    "key": "5-ka-KALOMTE{}-te{}",
     "desc": "ka-KALOMTE'-te' (kalomte') (T25:74:528.513v:87)  > n. elite and/or royal title of unknown meaning; formerly known as the \"Makuch,\" \"Batab,\" and \"Chak Te'\" title; frequently preceded by the directional glyph for \"west,\" OCH K'IN.",
     "title": "ka-KALOMTE'-te'"
   },
   {
-    "key": "6-ka-lo-ma-te'",
+    "key": "6-ka-lo-ma-te{}",
     "desc": "ka-lo-ma-te' (kalomte') (T25:580.74.87)  > n. elite and/or royal title of unknown meaning; formerly known as the \"Makuch,\" \"Batab,\" and \"Chak Te'\" title; frequently preceded by the directional glyph for \"west,\" OCH K'IN.",
     "title": "ka-lo-ma-te'"
   },
@@ -2070,57 +2070,57 @@
     "title": "ka-{ka}-wa"
   },
   {
-    "key": "9-KAB'",
+    "key": "9-KAB{}",
     "desc": "KAB' (kab') (T526)  > n. \"earth\"",
     "title": "KAB'"
   },
   {
-    "key": "10-KAB'",
+    "key": "10-KAB{}",
     "desc": "KAB' (kab') (T758c)  > n. \"earth\"",
     "title": "KAB'"
   },
   {
-    "key": "11-KAB'-ji",
+    "key": "11-KAB{}-ji",
     "desc": "KAB'-ji (kab'ij) (T526:136)  1> relat. \"under the auspices,\" \"under the authority\" 2> tr. v. \"did it.\"",
     "title": "KAB'-ji"
   },
   {
-    "key": "12-KAB'-ji",
+    "key": "12-KAB{}-ji",
     "desc": "KAB'-ji (kab'ij) (T526:88)  1> relat. \"under the auspices,\" \"under the authority\" 2> tr. v. \"did it.\"",
     "title": "KAB'-ji"
   },
   {
-    "key": "13-KAB'-ji-ya",
+    "key": "13-KAB{}-ji-ya",
     "desc": "KAB'-ji-ya (kab'jiy) (T526:246)  1> relat. \"under the auspices,\" \"under the authority\" 2> tr. v. \"did it.\"",
     "title": "KAB'-ji-ya"
   },
   {
-    "key": "14-KAB'-la K'U",
+    "key": "14-KAB{}-la@K{}U",
     "desc": "KAB'-la K'U (kab'al k'u) (T38.1016[526]:178v)  > adj. + pl. n. \"earthly gods.\"",
     "title": "KAB'-la K'U"
   },
   {
-    "key": "15-KAB'-la-K'U",
+    "key": "15-KAB{}-la-K{}U",
     "desc": "KAB'-la-K'U (kab'al k'u) (T526:178.38)  > adj. + pl. n. \"earthly gods.\"",
     "title": "KAB'-la-K'U"
   },
   {
-    "key": "16-KAB'-ya",
+    "key": "16-KAB{}-ya",
     "desc": "KAB'-ya (kab'iy) (T526:126)  1> relat. \"under the auspices,\" \"under the authority\" 2> tr. v. \"did it.\"",
     "title": "KAB'-ya"
   },
   {
-    "key": "17-KAB'AN",
+    "key": "17-KAB{}AN",
     "desc": "KAB'AN (Kab'an) (T526)  > n. day sign; seventeenth day of the Maya Tzolk'in calendar",
     "title": "KAB'AN"
   },
   {
-    "key": "18-KALOMTE'",
+    "key": "18-KALOMTE{}",
     "desc": "KALOMTE' (kalomte') (T74:528:518c:87)  > n. elite and/or royal title of unknown meaning; formerly known as the \"Makuch,\" \"Batab,\" and \"Chak Te'\" title; frequently preceded by the directional glyph for \"west,\" OCH K'IN.",
     "title": "KALOMTE'"
   },
   {
-    "key": "19-KALOMTE'-te'",
+    "key": "19-KALOMTE{}-te{}",
     "desc": "KALOMTE'-te' (kalomte') (T1030mv)  > n. elite and/or royal title of unknown meaning; formerly known as the \"Makuch,\" \"Batab,\" and \"Chak Te'\" title; frequently preceded by the directional glyph for \"west,\" OCH K'IN.",
     "title": "KALOMTE'-te'"
   },
@@ -2165,7 +2165,7 @@
     "title": "ki"
   },
   {
-    "key": "29-KIB'",
+    "key": "29-KIB{}",
     "desc": "KIB' (Kib') (T525)  > n. day sign, within a cartouche; sixteenth day of the Maya Tzolk'in calendar.",
     "title": "KIB'"
   },
@@ -2175,17 +2175,17 @@
     "title": "KIMI"
   },
   {
-    "key": "31-KIX(?)",
+    "key": "31-KIX([])",
     "desc": "KIX(?) (kix?) (T212)  > n. \"stingray spine\"",
     "title": "KIX(?)"
   },
   {
-    "key": "32-KIX(?)",
+    "key": "32-KIX([])",
     "desc": "KIX(?) (kix?) (T212)  > n. \"stingray spine\"",
     "title": "KIX(?)"
   },
   {
-    "key": "33-KIX(?)",
+    "key": "33-KIX([])",
     "desc": "KIX(?) (kix?) (T212)  > n. \"stingray spine\"",
     "title": "KIX(?)"
   },
@@ -2205,12 +2205,12 @@
     "title": "ko-jo-yi"
   },
   {
-    "key": "37-ko-ko-no-OB'",
+    "key": "37-ko-ko-no-OB{}",
     "desc": "ko-ko-no-OB' (kokonob') (T110.110:136[595]:142)  > pl. n. \"guardians\"; includes the possible plural suffix -ob'.",
     "title": "ko-ko-no-OB'"
   },
   {
-    "key": "38-ko-tz'o",
+    "key": "38-ko-tz{}o",
     "desc": "ko-tz'o (kotz') (T110.nn)  > tr. v. \"to roll up.\"",
     "title": "ko-tz'o"
   },
@@ -2235,7 +2235,7 @@
     "title": "ku-chu"
   },
   {
-    "key": "43-ku-tz'u",
+    "key": "43-ku-tz{}u",
     "desc": "ku-tz'u (kutz') (T528.560v)  > n. \"turkey,\" \"ocellated turkey.\"",
     "title": "ku-tz'u"
   },
@@ -2245,12 +2245,12 @@
     "title": "KUCH"
   },
   {
-    "key": "45-KUCH AB'AK",
+    "key": "45-KUCH@AB{}AK",
     "desc": "KUCH AB'AK (kuch ab'ak) (T174:709v)  > n. \"inkpot.\"",
     "title": "KUCH AB'AK"
   },
   {
-    "key": "46-KUCH TUN",
+    "key": "46-KUCH@TUN",
     "desc": "KUCH TUN (kuch tun) (T174:528)  > adj. + n. \"burden stone.\"",
     "title": "KUCH TUN"
   },
@@ -2260,342 +2260,342 @@
     "title": "KUCH-ta-ja"
   },
   {
-    "key": "48-KUMK'U",
+    "key": "48-KUMK{}U",
     "desc": "KUMK'U (Kumk'u) (T155:506:142) > n. month sign; eighteenth month of the Maya Ja'ab' calendar.",
     "title": "KUMK'U"
   },
   {
-    "key": "0-K'A CHAAN-na",
+    "key": "0-K{}A@CHAAN-na",
     "desc": "K'A CHAAN-na (k'a chaan) (T128:561:23)  > pos + n. \"lying down sky\" (?)",
     "title": "K'A CHAAN-na"
   },
   {
-    "key": "1-k'a-K'AK'",
+    "key": "1-k{}a-K{}AK{}",
     "desc": "k'a-K'AK' (k'ak') (T669.122)  > n. \"fire.\"",
     "title": "k'a-K'AK'"
   },
   {
-    "key": "2-k'a-K'AWIL",
+    "key": "2-k{}a-K{}AWIL",
     "desc": "k'a-K'AWIL (K'awil) (T1030f)  > n. deity name; proper name of the god K'awil, god of generations, royal lineage bloodlines; GII of the Palenque Triad",
     "title": "k'a-K'AWIL"
   },
   {
-    "key": "3-k'a-li",
+    "key": "3-k{}a-li",
     "desc": "k'a-li (k'al) (T669b:24)  1> incom. tr. v. \"closing.\"",
     "title": "k'a-li"
   },
   {
-    "key": "4-k'a-wi-NAL WINIK",
+    "key": "4-k{}a-wi-NAL@WINIK",
     "desc": "k'a-wi-NAL WINIK (K'awinal winik) (T669:117.86:521)  > adj. + n. \"K'awilnal person.\"",
     "title": "k'a-wi-NAL WINIK"
   },
   {
-    "key": "5-k'a-yi U SAK NIK IK'-li $ ch'a-yi U SAK NICH IK'-li",
+    "key": "5-k{}a-yi@U@SAK@NIK@IK{}-li@$@ch{}a-yi@U@SAK@NICH@IK{}-li",
     "desc": "k'a-yi U SAK NIK IK'-li / ch'a-yi U SAK NICH IK'-li (k'ay u sak nik ik'il / ch'ay u sak nich ik'il) (T204:575 1:179.503:24)  > intr. incom. v. phr. \"it terminates, his/his resplendent soul,\" \"it terminated, his/her white flowery soul\"; general verb meaning \"death\"",
     "title": "k'a-yi U SAK NIK IK'-li / ch'a-yi U SAK NICH IK'-li"
   },
   {
-    "key": "6-k'a-yi U SAK NIK IK'-li $ ch'a-yi U SAK NICH IK'-li",
+    "key": "6-k{}a-yi@U@SAK@NIK@IK{}-li@$@ch{}a-yi@U@SAK@NICH@IK{}-li",
     "desc": "k'a-yi U SAK NIK IK'-li / ch'a-yi U SAK NICH IK'-li (k'ay u sak nik ik'il / ch'ay u sak nich ik'il) (T76:575 1:179.1082:82v)  > intr. incom. v. phr. \"it terminates, his/her resplendent soul,\" \"it terminated, his/her white flowery soul\"; general verb meaning \"death\"",
     "title": "k'a-yi U SAK NIK IK'-li / ch'a-yi U SAK NICH IK'-li"
   },
   {
-    "key": "7-k'a-yi$ch'a-yi",
+    "key": "7-k{}a-yi$ch{}a-yi",
     "desc": "k'a-yi/ch'a-yi (k'ay/ch'ay) (T76:575)  1> intr. incom. v. \"it terminates\" 2> intr. incom. v. \"it flies\"",
     "title": "k'a-yi/ch'a-yi"
   },
   {
-    "key": "8-k'a-[b'a]",
+    "key": "8-k{}a-[b{}a]",
     "desc": "k'a-[b'a] (k'ab') (T669[501])  1> n. \"hand\" 2> n. \"arm\"",
     "title": "k'a-[b'a]"
   },
   {
-    "key": "9-k'a$ch'a",
+    "key": "9-k{}a$ch{}a",
     "desc": "k'a/ch'a (k'a/ch'a) (T516b)  > phonetic sign; polyvalent AK'OT \"dance.\"",
     "title": "k'a/ch'a"
   },
   {
-    "key": "10-k'a$ch'a",
+    "key": "10-k{}a$ch{}a",
     "desc": "k'a/ch'a (k'a/ch'a) (T669a)  > phonetic sign",
     "title": "k'a/ch'a"
   },
   {
-    "key": "11-k'a$ch'a",
+    "key": "11-k{}a$ch{}a",
     "desc": "k'a/ch'a (k'a/ch'a) (T669b)  > phonetic sign",
     "title": "k'a/ch'a"
   },
   {
-    "key": "12-k'a$ch'a",
+    "key": "12-k{}a$ch{}a",
     "desc": "k'a/ch'a (k'a/ch'a) (T76 or T77)  > phonetic sign",
     "title": "k'a/ch'a"
   },
   {
-    "key": "13-k'a$ch'a (K'A$CH'A?)",
+    "key": "13-k{}a$ch{}a@(K{}A$CH{}A[])",
     "desc": "k'a/ch'a (K'A/CH'A?) (k'a/ch'a) (T128)  > phonetic sign 2> pos. \"lying down\" 3> pos. \"horizontal\" (?)",
     "title": "k'a/ch'a (K'A/CH'A?)"
   },
   {
-    "key": "14-K'AB'",
+    "key": "14-K{}AB{}",
     "desc": "K'AB' (k'ab') (T671)  > n. \"hand\"",
     "title": "K'AB'"
   },
   {
-    "key": "15-K'AB'A",
+    "key": "15-K{}AB{}A",
     "desc": "K'AB'A (k'ab'a) (T187)  > n. \"name.\"",
     "title": "K'AB'A"
   },
   {
-    "key": "16-K'AK'",
+    "key": "16-K{}AK{}",
     "desc": "K'AK' (k'ak') (T122)  > n. \"fire\"",
     "title": "K'AK'"
   },
   {
-    "key": "17-K'AK'",
+    "key": "17-K{}AK{}",
     "desc": "K'AK' (k'ak') (T122)  > n. \"fire\"",
     "title": "K'AK'"
   },
   {
-    "key": "18-K'AK' NAAB'",
+    "key": "18-K{}AK{}@NAAB{}",
     "desc": "K'AK' NAAB' (k'ak' naab') (T122.86v)  > adj. + n. \"fire sea,\" \"primordial sea,\" \"fiery water place.\"",
     "title": "K'AK' NAAB'"
   },
   {
-    "key": "19-K'AK'-k'a",
+    "key": "19-K{}AK{}-k{}a",
     "desc": "K'AK'-k'a (k'ak') (T122:669v)  > n. \"fire.\"",
     "title": "K'AK'-k'a"
   },
   {
-    "key": "20-K'AK'-k'a B'UTZ'-tz'i",
+    "key": "20-K{}AK{}-k{}a@B{}UTZ{}-tz{}i",
     "desc": "K'AK'-k'a B'UTZ'-tz'i (k'ak' b'utz') (T122:669.122:563)  > n. \"fire [and] smoke.\"",
     "title": "K'AK'-k'a B'UTZ'-tz'i"
   },
   {
-    "key": "21-K'AL",
+    "key": "21-K{}AL",
     "desc": "K'AL (k'al) (T683a)  > n. \"twenty;\" cardinal number; the \"moon\" sign.",
     "title": "K'AL"
   },
   {
-    "key": "22-K'AL",
+    "key": "22-K{}AL",
     "desc": "K'AL (k'al) (T713a)  1> tr. v. \"to bind, tie, wrap\" 2> tr. v. \"to close\" 3> tr. v. \"to set\" 4> n. \"completion\"",
     "title": "K'AL"
   },
   {
-    "key": "23-K'AL JUN NA",
+    "key": "23-K{}AL@JUN@NA",
     "desc": "K'AL JUN NA (k'al jun na) (T60:713a.4)  > adj. + n. \"accession house\".",
     "title": "K'AL JUN NA"
   },
   {
-    "key": "24-K'AL SAK ju-na",
+    "key": "24-K{}AL@SAK@ju-na",
     "desc": "K'AL SAK ju-na (k'al sak jun) (T58.1030a.23:713a)  1> v. phr. \"bound/tied/wrapped the white headband\" 2> v. phr. \"closed the white headband\"; general \"accession\" verb.",
     "title": "K'AL SAK ju-na"
   },
   {
-    "key": "25-K'AL SAK JUN",
+    "key": "25-K{}AL@SAK@JUN",
     "desc": "K'AL SAK JUN (k'al sak jun) (T60.522:713a)  1> v. phr. \"bound/tied/wrapped the white headband\" 2> v. phr. \"closed the white headband\"; general \"accession\" verb.",
     "title": "K'AL SAK JUN"
   },
   {
-    "key": "26-K'AL TUN-ni",
+    "key": "26-K{}AL@TUN-ni",
     "desc": "K'AL TUN-ni (k'al tun) (T528.116:713a)  1> intr. v. phr. \"stone-binding\" 2> v. phr. \"was closed the stone\" 3> v. phr. \"was set the stone\"; general PE glyph for tun-ending dates.",
     "title": "K'AL TUN-ni"
   },
   {
-    "key": "27-K'AL-ja",
+    "key": "27-K{}AL-ja",
     "desc": "K'AL-ja (k'alaj) (T24:713a.181)  1> pass. v. \"was bound/tied/wrapped\" 2> pass. v. \"was closed\" 3> pass. v. \"was set.\"",
     "title": "K'AL-ja"
   },
   {
-    "key": "28-K'AL-ja MAY(?)-ji",
+    "key": "28-K{}AL-ja@MAY([])-ji",
     "desc": "K'AL-ja MAY(?)-ji (k'alaj mayij?) (Tnn:713a:136.181)  > pass. v. phr. \"was bound/tied/wrapped the deer hoof\"; phonetic value MAY uncertain; general verb possibly meaning \"heir apparency.\"",
     "title": "K'AL-ja MAY(?)-ji"
   },
   {
-    "key": "29-K'AL-ji-ya SAK JUN",
+    "key": "29-K{}AL-ji-ya@SAK@JUN",
     "desc": "K'AL-ji-ya SAK JUN (k'al-jiy sak jun) (T58.60:713a:246)  1> tr. v. phr. \"bound/tied/wrapped the white headband\" 2> tr. v. phr. \"closed the white headband\"; general \"accession\" verb.",
     "title": "K'AL-ji-ya SAK JUN"
   },
   {
-    "key": "30-K'AL JUN-na",
+    "key": "30-K{}AL@JUN-na",
     "desc": "K'AL JUN-na (k'al jun) (T740.23:713a)  1> tr. v. phr. \"bound/tied/wrapped the headband\" 2> tr. v. phr. \"closed the headband\"; general \"accession\" verb.",
     "title": "K'AL JUN-na"
   },
   {
-    "key": "31-K'AN",
+    "key": "31-K{}AN",
     "desc": "K'AN (k'an) (T281)  1> adj. \"yellow\" 2> adj. \"precious\"",
     "title": "K'AN"
   },
   {
-    "key": "32-K'AN",
+    "key": "32-K{}AN",
     "desc": "K'AN (K'an) (T506)  > n. day sign; fourth day of the Maya Tzolk'in calendar",
     "title": "K'AN"
   },
   {
-    "key": "33-K'AN TUN-ni",
+    "key": "33-K{}AN@TUN-ni",
     "desc": "K'AN TUN-ni (k'an tun) (T528[281]:116)  1> adj. + n. \"yellow stone\" 2> adj. + n. \"precious stone.\"",
     "title": "K'AN TUN-ni"
   },
   {
-    "key": "34-K'AN-na",
+    "key": "34-K{}AN-na",
     "desc": "K'AN-na (k'an) (T281.23)  1>adj. \"yellow\" 2> adj. \"precious.\"",
     "title": "K'AN-na"
   },
   {
-    "key": "35-K'AN-NAL-la e-b'u",
+    "key": "35-K{}AN-NAL-la@e-b{}u",
     "desc": "K'AN-NAL-la e-b'u (K'anal Eb') (T86:281:178.741a:21)  > adj. + n. \"Precious Stair Place.\"",
     "title": "K'AN-NAL-la e-b'u"
   },
   {
-    "key": "36-K'ANK'IN",
+    "key": "36-K{}ANK{}IN",
     "desc": "K'ANK'IN (K'ank'in) (T559.117)  > n. month sign; fourteenth month of the Maya Ja'ab' calendar.",
     "title": "K'ANK'IN"
   },
   {
-    "key": "37-K'ATUN",
+    "key": "37-K{}ATUN",
     "desc": "K'ATUN (k'atun) (T1034v)  > n. period of twenty years of 360 days each; used in the Long Count; actual Classic Period name unknown",
     "title": "K'ATUN"
   },
   {
-    "key": "38-K'ATUN",
+    "key": "38-K{}ATUN",
     "desc": "K'ATUN (k'atun) (T25.528.25:548)  > n. period of twenty years of 360 days each; used in the Maya Long Count calendar; actual Classic Period name unknown",
     "title": "K'ATUN"
   },
   {
-    "key": "39-K'AWIL",
+    "key": "39-K{}AWIL",
     "desc": "K'AWIL (K'awil) (T1030b)  > n. deity name; proper name of the god K'awil, god of generations, royal lineage bloodlines; GII of the Palenque Triad",
     "title": "K'AWIL"
   },
   {
-    "key": "40-K'AWIL-la",
+    "key": "40-K{}AWIL-la",
     "desc": "K'AWIL-la (K'awil) (T1030b:178)  > n. deity name; proper name of the god K'awil, god of generations, royal lineage bloodlines; GII of the Palenque Triad",
     "title": "K'AWIL-la"
   },
   {
-    "key": "41-K'AWIL-li",
+    "key": "41-K{}AWIL-li",
     "desc": "K'AWIL-li (K'awil) (T122.617v:82)  > n. deity name; proper name of the god K'awil, god of generations, royal lineage bloodlines; GII of the Palenque Triad",
     "title": "K'AWIL-li"
   },
   {
-    "key": "42-K'AWIL-NAL-OB'",
+    "key": "42-K{}AWIL-NAL-OB{}",
     "desc": "K'AWIL-NAL-OB' (K'awilnalob') (T84:1030d:142.116) pl. n. \"K'awilnals\"; includes the possible plural suffix -ob'",
     "title": "K'AWIL-NAL-OB'"
   },
   {
-    "key": "43-K'AWIL-OB'",
+    "key": "43-K{}AWIL-OB{}",
     "desc": "K'AWIL-OB' (K'awilob') (T1030b:142) pl.  > n. \"K'awils\"; includes the possible plural suffix -ob'",
     "title": "K'AWIL-OB'"
   },
   {
-    "key": "44-K'AYAB'",
+    "key": "44-K{}AYAB{}",
     "desc": "K'AYAB' (K'ayab') (T743[281]:57:125) > n. month sign; seventeenth month of the Maya Ja'ab' calendar; components spell [K'AN]-a-si-ya or K'anasiy, the name of the seventeenth month in Ch'olan.",
     "title": "K'AYAB'"
   },
   {
-    "key": "45-K'IN",
+    "key": "45-K{}IN",
     "desc": "K'IN (k'in) (T544)  1> n. \"day\" 2> n. \"sun\" 3> n. period of one day, used in the Maya LC calendar and DNs",
     "title": "K'IN"
   },
   {
-    "key": "46-K'IN",
+    "key": "46-K{}IN",
     "desc": "K'IN (k'in) (T544hv)  1> n. \"day\" 2> n. \"sun\" 3> n. period of one day, used in the Maya Long Count calendar",
     "title": "K'IN"
   },
   {
-    "key": "47-K'IN-ni",
+    "key": "47-K{}IN-ni",
     "desc": "K'IN-ni (k'in) (T1010:116)  1> n. \"day\" 2> n. \"sun\" 3> n. period of one day; used in the Maya Long Count calendar.",
     "title": "K'IN-ni"
   },
   {
-    "key": "48-K'IN-ni",
+    "key": "48-K{}IN-ni",
     "desc": "K'IN-ni (k'in) (T544:116)  1> n. \"day\" 2> n. \"sun\" 3> n. period of one day; used in the Maya Long Count calendar.",
     "title": "K'IN-ni"
   },
   {
-    "key": "49-K'IN-ni AJAW",
+    "key": "49-K{}IN-ni@AJAW",
     "desc": "K'IN-ni AJAW (K'in Ajaw) (T168:544:116)  > adj. + n. \"sun lord\"; royal/elite title.",
     "title": "K'IN-ni AJAW"
   },
   {
-    "key": "50-K'IN-ni JA'-NAL",
+    "key": "50-K{}IN-ni@JA{}-NAL",
     "desc": "K'IN-ni JA'-NAL (K'in Ja'nal) (T544:116.86:1031a)  > adj. + n. \"Sun Water Place\".",
     "title": "K'IN-ni JA'-NAL"
   },
   {
-    "key": "51-K'IN-ni-chi TZAM(?) TUN-ni",
+    "key": "51-K{}IN-ni-chi@TZAM([])@TUN-ni",
     "desc": "K'IN-ni-chi TZAM(?) TUN-ni (K'inich Tzam? Tun) (T671[544]:116 150.528:116)  > adj. + n. \"sun-faced throne stone\".",
     "title": "K'IN-ni-chi TZAM(?) TUN-ni"
   },
   {
-    "key": "52-K'INA$K'INICH",
+    "key": "52-K{}INA$K{}INICH",
     "desc": "K'INA/K'INICH (k'ina/k'inich) (T74.184)  1> adj. \"sun-eyed\" 2> adj. \"sun-faced\".",
     "title": "K'INA/K'INICH"
   },
   {
-    "key": "53-K'INICH",
+    "key": "53-K{}INICH",
     "desc": "K'INICH (k'inich) (T1010a.184.74)  > n. \"sun-eyed\" 2> adj. \"sun-faced.\"",
     "title": "K'INICH"
   },
   {
-    "key": "54-K'INICH-ni",
+    "key": "54-K{}INICH-ni",
     "desc": "K'INICH-ni (k'inich) (T671[544]:116)  1> n. \"sun-eyed\" 2> adj. \"sun-faced.\"",
     "title": "K'INICH-ni"
   },
   {
-    "key": "55-k'o",
+    "key": "55-k{}o",
     "desc": "k'o (k'o) (Tnn)  > phonetic sign.",
     "title": "k'o"
   },
   {
-    "key": "56-k'o-b'a",
+    "key": "56-k{}o-b{}a",
     "desc": "k'o-b'a (k'ob'a) (T217:501:314)  1> n. \"image\" 2> n. \"mask\" 3> n. \"statue.\"",
     "title": "k'o-b'a"
   },
   {
-    "key": "57-k'o-jo",
+    "key": "57-k{}o-jo",
     "desc": "k'o-jo (k'oj) (T220:606)  1> n. \"image\" 2> n. \"mask\" 3> n. \"statue.\"",
     "title": "k'o-jo"
   },
   {
-    "key": "58-k'u",
+    "key": "58-k{}u",
     "desc": "k'u (k'u) (T604)  > phonetic sign.",
     "title": "k'u"
   },
   {
-    "key": "59-k'u-ju",
+    "key": "59-k{}u-ju",
     "desc": "k'u-ju (k'uj) (T604v:740v)  > n. \"god, divinity\".",
     "title": "k'u-ju"
   },
   {
-    "key": "60-k'u-ju",
+    "key": "60-k{}u-ju",
     "desc": "k'u-ju (k'uj) (T604v.740v)  > n. \"god, divinity\".",
     "title": "k'u-ju"
   },
   {
-    "key": "61-k'u-xa-ja",
+    "key": "61-k{}u-xa-ja",
     "desc": "k'u-xa-ja (k'uxaj) (T603:114.181)  1> pass. com. v. \"was eaten\" 2> pass. com. v. \"was ground\" 3> pass. com. v. \"was hurt\"",
     "title": "k'u-xa-ja"
   },
   {
-    "key": "62-k'u-xa-ji-ya",
+    "key": "62-k{}u-xa-ji-ya",
     "desc": "k'u-xa-ji-ya (k'uxaj-iy) (T604:114:246)  1> tr. com. v. \"to eat\" 2> tr. v. \"to grind\" 3> tr. v. \"to hurt\"",
     "title": "k'u-xa-ji-ya"
   },
   {
-    "key": "63-k'u-yu NIK-ki AJAW",
+    "key": "63-k{}u-yu@NIK-ki@AJAW",
     "desc": "k'u-yu NIK-ki AJAW (K'uy Nik Ajaw) (T604:61 168:533.102)  > adj. + n. \"Bird Flower Lord\"; royal title used especially at Copán.",
     "title": "k'u-yu NIK-ki AJAW"
   },
   {
-    "key": "64-k'u$K'U",
+    "key": "64-k{}u$K{}U",
     "desc": "k'u/K'U (k'u) (T1016)  1> phonetic sign 2> n. \"god, divinity\" 3> adj. \"divine, sacred\"",
     "title": "k'u/K'U"
   },
   {
-    "key": "65-k'u$K'U",
+    "key": "65-k{}u$K{}U",
     "desc": "k'u/K'U (k'u) (T41)  1> phonetic sign 2>n. \"god, divinity\" 3> adj. \"divine, sacred.\"",
     "title": "k'u/K'U"
   },
   {
-    "key": "66-K'UK'",
+    "key": "66-K{}UK{}",
     "desc": "K'UK' (k'uk') (T744a)  > n. \"quetzal bird\"",
     "title": "K'UK'"
   },
@@ -2665,7 +2665,7 @@
     "title": "LAK"
   },
   {
-    "key": "13-LAK-K'IN-ni",
+    "key": "13-LAK-K{}IN-ni",
     "desc": "LAK-K'IN-ni (lak'in) (T183:544.116)  > n. \"east\"; cardinal directio > n.",
     "title": "LAK-K'IN-ni"
   },
@@ -2680,17 +2680,17 @@
     "title": "LAKAM"
   },
   {
-    "key": "16-LAKAM JA'",
+    "key": "16-LAKAM@JA{}",
     "desc": "LAKAM JA' (lakam ja') (T767af.501v:314)  1> adj. + n. \"wide water\" 2> adj. + n. \"great water\".",
     "title": "LAKAM JA'"
   },
   {
-    "key": "17-LAKAM TUN",
+    "key": "17-LAKAM@TUN",
     "desc": "LAKAM TUN (lakam tun) (T767b:528)  1> adj. + n. \"large, big stone\" 2> adj. + n. \"banner stone\" 3> adj. + n. \"banner stone.\"",
     "title": "LAKAM TUN"
   },
   {
-    "key": "18-LAKAM TUN-ni",
+    "key": "18-LAKAM@TUN-ni",
     "desc": "LAKAM TUN-ni (lakam tun) (T767b:528:116)  1> adj. + n. \"large, big stone\" 2> adj. + n. \"banner stone\" 3> adj. + n. \"banner stone.\"",
     "title": "LAKAM TUN-ni"
   },
@@ -2750,7 +2750,7 @@
     "title": "lo"
   },
   {
-    "key": "30-lo-k'u-ta",
+    "key": "30-lo-k{}u-ta",
     "desc": "lo-k'u-ta (lok'-ta) (T580:1016.565)  1> tr. v. \"went out from\" 2> tr. v. \"emerged from\".",
     "title": "lo-k'u-ta"
   },
@@ -2760,7 +2760,7 @@
     "title": "lo-mu"
   },
   {
-    "key": "32-LOK'-yi",
+    "key": "32-LOK{}-yi",
     "desc": "LOK'-yi (lok'iy) (T327:575)  1> intr. com. v. \"came out\" 2> intr. com. v. \"emerged\" 3> intr. com. v. \"escaped\"",
     "title": "LOK'-yi"
   },
@@ -2775,7 +2775,7 @@
     "title": "lu"
   },
   {
-    "key": "35-lu-k'u",
+    "key": "35-lu-k{}u",
     "desc": "lu-k'u (luk') (T568:604)  1> n. \"mud\" 2> n. \"clay\".",
     "title": "lu-k'u"
   },
@@ -2885,12 +2885,12 @@
     "title": "MAM"
   },
   {
-    "key": "20-MANIK'",
+    "key": "20-MANIK{}",
     "desc": "MANIK' (Manik') (T671)  > n. day sign; seventh day of the Maya Tzolk'in calendar",
     "title": "MANIK'"
   },
   {
-    "key": "21-MAY(?)",
+    "key": "21-MAY([])",
     "desc": "MAY(?) (may ?) (Tnn)  1> n. \"deer hoof\" 2> n. \"tobacco\" 3> \"fawn\" ?",
     "title": "MAY(?)"
   },
@@ -2930,7 +2930,7 @@
     "title": "mo"
   },
   {
-    "key": "29-MO' WITZ",
+    "key": "29-MO{}@WITZ",
     "desc": "MO' WITZ (Mo' Witz) (T743v:1030p)  > n. \"Macaw Mountain.\"",
     "title": "MO' WITZ"
   },
@@ -2940,17 +2940,17 @@
     "title": "mo-ko-chi"
   },
   {
-    "key": "31-mo-o WITZ AJAW",
+    "key": "31-mo-o@WITZ@AJAW",
     "desc": "mo-o WITZ AJAW (Mo' Witz Ajaw) (T582.279.168:529)  > n. \"Macaw Mountain Lord.\"",
     "title": "mo-o WITZ AJAW"
   },
   {
-    "key": "32-mo-o wi-tzi AJAW",
+    "key": "32-mo-o@wi-tzi@AJAW",
     "desc": "mo-o wi-tzi AJAW (Mo' Witz Ajaw) (T582.279 117.168:507)  > n. \"Macaw Mountain Lord.\"",
     "title": "mo-o wi-tzi AJAW"
   },
   {
-    "key": "33-mo$MO'",
+    "key": "33-mo$MO{}",
     "desc": "mo/MO' (mo/mo') (T743v)  1> phonetic sign 2> n. \"macaw\"",
     "title": "mo/MO'"
   },
@@ -2960,12 +2960,12 @@
     "title": "MOL"
   },
   {
-    "key": "35-MOL(?)",
+    "key": "35-MOL([])",
     "desc": "MOL(?) (mol?) (T5)  > n. \"jaguar paw\"",
     "title": "MOL(?)"
   },
   {
-    "key": "36-MOL(?) TUN-ni",
+    "key": "36-MOL([])@TUN-ni",
     "desc": "MOL(?) TUN-ni (mol tun?) (T5:528:116)  > n. \"jaguar paw stone\" (?)",
     "title": "MOL(?) TUN-ni"
   },
@@ -3040,7 +3040,7 @@
     "title": "MUTUL"
   },
   {
-    "key": "51-MUTUL AJAW-TAK",
+    "key": "51-MUTUL@AJAW-TAK",
     "desc": "MUTUL AJAW-TAK (mutul ajaw-tak) (T569.168:559[544])  > pl. n. \"Mutul lords\"; includes the plural suffix -tak.",
     "title": "MUTUL AJAW-TAK"
   },
@@ -3065,12 +3065,12 @@
     "title": "MUYAL"
   },
   {
-    "key": "0-NA ka-KAN",
+    "key": "0-NA@ka-KAN",
     "desc": "NA ka-KAN (Na Kan) (T4.25.25:764a)  > n. deity name; serves as part of the name of one of the Vision Serpents conjured during bloodletting rites.",
     "title": "NA ka-KAN"
   },
   {
-    "key": "1-na-b'i",
+    "key": "1-na-b{}i",
     "desc": "na-b'i (naab') (T23:585a)  1> n. \"water\" 2> n. \"sea\" 3> n. \"plaza\" 4> n. \"water lily\" (?)",
     "title": "na-b'i"
   },
@@ -3090,7 +3090,7 @@
     "title": "na-ku"
   },
   {
-    "key": "5-na-NAL(?)",
+    "key": "5-na-NAL([])",
     "desc": "na-NAL(?) (nal) (T4.1008)  > n. \"north\"; cardinal direction.",
     "title": "na-NAL(?)"
   },
@@ -3140,17 +3140,17 @@
     "title": "na/NA/NAJ"
   },
   {
-    "key": "15-NAAB'",
+    "key": "15-NAAB{}",
     "desc": "NAAB' (naab') (T501v)  1> n. \"water\" 2> n. \"sea\" 3> n. \"plaza\" 4> n. \"water lily\" (?)",
     "title": "NAAB'"
   },
   {
-    "key": "16-NAAB'",
+    "key": "16-NAAB{}",
     "desc": "NAAB' (naab') (T86v:521[188])  1> n. \"water\" 2> n. \"sea\" 3> n. \"plaza\" 4> n. \"water lily\" (?)",
     "title": "NAAB'"
   },
   {
-    "key": "17-NAAB' TUN-chi",
+    "key": "17-NAAB{}@TUN-chi",
     "desc": "NAAB' TUN-chi (naab' tunich) (T86v:671[528])  > adj. + n. \"watery stone\"",
     "title": "NAAB' TUN-chi"
   },
@@ -3170,7 +3170,7 @@
     "title": "NAL"
   },
   {
-    "key": "21-NAL(?)",
+    "key": "21-NAL([])",
     "desc": "NAL(?) (nal) (T1008)  > n. \"north\"; cardinal direction.",
     "title": "NAL(?)"
   },
@@ -3230,17 +3230,17 @@
     "title": "NICH/NIK"
   },
   {
-    "key": "33-NIKTE'",
+    "key": "33-NIKTE{}",
     "desc": "NIKTE' (nikte') (T646)  > n. \"flower\"; possibly the mayflower.",
     "title": "NIKTE'"
   },
   {
-    "key": "34-NIKTE'",
+    "key": "34-NIKTE{}",
     "desc": "NIKTE' (nikte') (T646v)  > n. \"flower\"; possibly the mayflower.",
     "title": "NIKTE'"
   },
   {
-    "key": "35-NIKTE'-te'",
+    "key": "35-NIKTE{}-te{}",
     "desc": "NIKTE'-te' (nikte') (T299:646v:87)  > n. \"flower\"; possibly the mayflower.",
     "title": "NIKTE'-te'"
   },
@@ -3370,7 +3370,7 @@
     "title": "o-la-si"
   },
   {
-    "key": "13-o-la-si K'U",
+    "key": "13-o-la-si@K{}U",
     "desc": "o-la-si K'U (olas k'u) (T99.534:57 38.41ms)  > n. phr. \"the whole set of gods\" (?), \"all the gods.\"",
     "title": "o-la-si K'U"
   },
@@ -3385,7 +3385,7 @@
     "title": "o-OL-si"
   },
   {
-    "key": "16-o-OL-si K'U",
+    "key": "16-o-OL-si@K{}U",
     "desc": "o-OL-si K'U (olis k'u) (T99.506.57 36.1016)  > n. phr. \"the whole set of gods\" (?), \"all the gods.\"",
     "title": "o-OL-si K'U"
   },
@@ -3410,47 +3410,47 @@
     "title": "OCH"
   },
   {
-    "key": "21-OCH B'I",
+    "key": "21-OCH@B{}I",
     "desc": "OCH B'I (och b'i) (T207v.585a)  > v. phr. \"entered the road\"; general \"death\" verb.",
     "title": "OCH B'I"
   },
   {
-    "key": "22-OCH B'I-ja",
+    "key": "22-OCH@B{}I-ja",
     "desc": "OCH B'I-ja (och b'i-aj) (T361:585a.181)  > pass. v. phr. \"was entered the road\"; general \"death\" verb.",
     "title": "OCH B'I-ja"
   },
   {
-    "key": "23-OCH B'I-ji-ji-ya",
+    "key": "23-OCH@B{}I-ji-ji-ya",
     "desc": "OCH B'I-ji-ji-ya (och b'ij-jiy) (T207v:585a.88: 246v)  > tr. v. phr. \"road-entered\"; general \"death\" verb.",
     "title": "OCH B'I-ji-ji-ya"
   },
   {
-    "key": "24-OCH JA'",
+    "key": "24-OCH@JA{}",
     "desc": "OCH JA' (och ja') (T361:501)  > v. phr. \"entered the water,\" \"water-entered\"; general \"death\" verb.",
     "title": "OCH JA'"
   },
   {
-    "key": "25-OCH JA'-ja",
+    "key": "25-OCH@JA{}-ja",
     "desc": "OCH JA'-ja (och ja'-aj) (T361:501.181)  > v. phr. \"was entered, the water\"; general \"death\" verb.",
     "title": "OCH JA'-ja"
   },
   {
-    "key": "26-OCH K'AK'",
+    "key": "26-OCH@K{}AK{}",
     "desc": "OCH K'AK' (och k'ak') (T T99v:671:122)  > v. phr. \"entered the fire,\" \"fire-entered\"; general \"dedication\" verb; probably refers to ritual cleansing by burning incense.",
     "title": "OCH K'AK'"
   },
   {
-    "key": "27-OCH K'IN",
+    "key": "27-OCH@K{}IN",
     "desc": "OCH K'IN (och k'in) (T361:544)  > n. \"west\"; cardinal direction.",
     "title": "OCH K'IN"
   },
   {
-    "key": "28-OCH TA CHAAN-na$OK TA KAAN-na",
+    "key": "28-OCH@TA@CHAAN-na$OK@TA@KAAN-na",
     "desc": "OCH TA CHAAN-na/OK TA KAAN-na (och ta chaan/ok ta kaan) (T758.113v:561:23)  > v. phr. \"entered into the sky,\" \"became the sky,\" \"sky-entered.\"",
     "title": "OCH TA CHAAN-na/OK TA KAAN-na"
   },
   {
-    "key": "29-OCH TE'$OK TE'",
+    "key": "29-OCH@TE{}$OK@TE{}",
     "desc": "OCH TE'/OK TE' (och te'/ok te') (T764b:87)  > v. phr. \"entered the tree.\"",
     "title": "OCH TE'/OK TE'"
   },
@@ -3460,12 +3460,12 @@
     "title": "OCH-chi"
   },
   {
-    "key": "31-OCH-chi K'AK'",
+    "key": "31-OCH-chi@K{}AK{}",
     "desc": "OCH-chi K'AK' (och k'ak') (T207v:671.122)  > tr. v. phr. \"entered the fire,\" \"fire-entered\"; general \"dedication\" verb; probably refers to ritual cleansing by burning incense.",
     "title": "OCH-chi K'AK'"
   },
   {
-    "key": "32-OCH-chi K'AK'",
+    "key": "32-OCH-chi@K{}AK{}",
     "desc": "OCH-chi K'AK' (och k'ak') (T207v:671.122:563)  > tr. v. phr. \"entered the fire,\" \"fire-entered\"; general \"dedication\" verb; probably refers to ritual cleansing by burning incense.",
     "title": "OCH-chi K'AK'"
   },
@@ -3520,7 +3520,7 @@
     "title": "OX"
   },
   {
-    "key": "43-OX B'OLON CHAAK",
+    "key": "43-OX@B{}OLON@CHAAK",
     "desc": "OX B'OLON CHAAK (Ox B'olon Chaak) (TIII.IX:1010)  > n. deity name; proper name of deity; possibly GI of the Palenque Triad.",
     "title": "OX B'OLON CHAAK"
   },
@@ -3530,17 +3530,17 @@
     "title": "OX-aj-ja-li"
   },
   {
-    "key": "0-pa-k'a",
+    "key": "0-pa-k{}a",
     "desc": "pa-k'a (pak') (T586.669)  1> tr. v. \"to mold\" 2> tr. v. \"to form in clay\" 3> tr. v. \"to plant\" 4> tr. v. \"to hoist.\"",
     "title": "pa-k'a"
   },
   {
-    "key": "1-pa-k'a-ji-ya",
+    "key": "1-pa-k{}a-ji-ya",
     "desc": "pa-k'a-ji-ya (pak'ajiy) (T586.669:136:126)  1> intr. com. v. \"molded\" 2> intr. com. v. phr. \"formed in clay\" 3> intr. com. v. \"planted\" 4> intr. com. v. \"hoisted.\"",
     "title": "pa-k'a-ji-ya"
   },
   {
-    "key": "2-pa-ka-b'a",
+    "key": "2-pa-ka-b{}a",
     "desc": "pa-ka-b'a (pakab') (T586:25:501)  > n. \"lintel.\"",
     "title": "pa-ka-b'a"
   },
@@ -3645,7 +3645,7 @@
     "title": "PAT"
   },
   {
-    "key": "23-PAT-b'u-ya",
+    "key": "23-PAT-b{}u-ya",
     "desc": "PAT-b'u-ya (pat b'uy) (T80:21.741v:126)  > tr. com. v. \"formed, made\"; general \"dedication\" verb.",
     "title": "PAT-b'u-ya"
   },
@@ -3655,7 +3655,7 @@
     "title": "PAT-ta"
   },
   {
-    "key": "25-PAT-ta-b'u-ji",
+    "key": "25-PAT-ta-b{}u-ji",
     "desc": "PAT-ta-b'u-ji (pat buj) (T80:113:21:136)  > tr. com. v. \"made, formed\"; general \"dedication\" verb.",
     "title": "PAT-ta-b'u-ji"
   },
@@ -3700,12 +3700,12 @@
     "title": "pi"
   },
   {
-    "key": "34-pi-b'i NA-aj",
+    "key": "34-pi-b{}i@NA-aj",
     "desc": "pi-b'i NA-aj (pib' naj) (T177.585:4:12)  > n. \"sweat bath, temescal.\"",
     "title": "pi-b'i NA-aj"
   },
   {
-    "key": "35-pi-b'i-NA-li",
+    "key": "35-pi-b{}i-NA-li",
     "desc": "pi-b'i-NA-li (pib'nal) (T177:585hv:24.48)  > n. \"sweat bath, temescal.\"",
     "title": "pi-b'i-NA-li"
   },
@@ -3860,42 +3860,42 @@
     "title": "SAK"
   },
   {
-    "key": "15-SAK CHUWEN",
+    "key": "15-SAK@CHUWEN",
     "desc": "SAK CHUWEN (sak chuwen) (T58.nn.520)  > adj. + n. \"pure, resplendent artist\"; elite title.",
     "title": "SAK CHUWEN"
   },
   {
-    "key": "16-SAK IK' EK'",
+    "key": "16-SAK@IK{}@EK{}",
     "desc": "SAK IK' EK' (sak ik' ek') (T58.503v 510a)  > n. deity name; proper name of god with \"wind\" manifestations; \"Resplendent Wind God Star?\"",
     "title": "SAK IK' EK'"
   },
   {
-    "key": "17-SAK la-ka-TUN",
+    "key": "17-SAK@la-ka-TUN",
     "desc": "SAK la-ka-TUN (sak lak tun) (T58:534:25.25.528)  > n. \"incensario\"; proper name of the class of object \"incensario\"; literally \"white stone plate.\"",
     "title": "SAK la-ka-TUN"
   },
   {
-    "key": "18-SAK la-ka-TUN-ni",
+    "key": "18-SAK@la-ka-TUN-ni",
     "desc": "SAK la-ka-TUN-ni (sak lak tun) (T58:534.25.528:116)  > n. \"incensario\"; proper name of the class of object \"incensario\"; literally \"white stone plate.\"",
     "title": "SAK la-ka-TUN-ni"
   },
   {
-    "key": "19-SAK NIK",
+    "key": "19-SAK@NIK",
     "desc": "SAK NIK (sak nik) (T179)  > adj. \"white flowery\"; used in the general \"death\" verb u k'ay sak nik ik'il,  which broadly means \"diminished its white flowery soul.\"",
     "title": "SAK NIK"
   },
   {
-    "key": "20-SAK NIK",
+    "key": "20-SAK@NIK",
     "desc": "SAK NIK (sak nik) (T179)  > adj. \"white flowery\"; used in the general \"death\" verbal phrase k'ay sak nik ik'il,  which broadly means \"diminished its white flowery soul.\"",
     "title": "SAK NIK"
   },
   {
-    "key": "21-SAK nu-ku NAJ",
+    "key": "21-SAK@nu-ku@NAJ",
     "desc": "SAK nu-ku NAJ (Sak Nuk Naj) (T58.151:528.4)  > adj. n. \"White Great House\"; proper name of building/house.",
     "title": "SAK nu-ku NAJ"
   },
   {
-    "key": "22-SAK TE' AJAW-wa",
+    "key": "22-SAK@TE{}@AJAW-wa",
     "desc": "SAK TE' AJAW-wa (Sak Te' Ajaw) (T58:168:513:130)  > adj. + n. \"White Tree Lord\"; elite/royal title.",
     "title": "SAK TE' AJAW-wa"
   },
@@ -3935,7 +3935,7 @@
     "title": "SI-ji-ya"
   },
   {
-    "key": "30-si-tzi WINIK-ki",
+    "key": "30-si-tzi@WINIK-ki",
     "desc": "si-tzi WINIK-ki (sitz winik) (T57:248 521:102)  > n. \"glutton.\"",
     "title": "si-tzi WINIK-ki"
   },
@@ -3950,7 +3950,7 @@
     "title": "SIP"
   },
   {
-    "key": "33-SOTZ'",
+    "key": "33-SOTZ{}",
     "desc": "SOTZ' (Sotz') (T756)  > n. month sign; fourth month of the Maya Ja'ab' calendar",
     "title": "SOTZ'"
   },
@@ -3965,7 +3965,7 @@
     "title": "su-ku-{n}"
   },
   {
-    "key": "36-su-ku-{n} WINIK-ki",
+    "key": "36-su-ku-{n}@WINIK-ki",
     "desc": "su-ku-{n} WINIK-ki (sukun winik) (T216:528.521:102)  > adj. + n. \"older brother person.\"",
     "title": "su-ku-{n} WINIK-ki"
   },
@@ -3975,17 +3975,17 @@
     "title": "su-sa-ja"
   },
   {
-    "key": "38-su-tz'i",
+    "key": "38-su-tz{}i",
     "desc": "su-tz'i (sutz') (T216:563a)  > n. \"bat.\"",
     "title": "su-tz'i"
   },
   {
-    "key": "0-TA OCH-le-{l}",
+    "key": "0-TA@OCH-le-{l}",
     "desc": "TA OCH-le-{l} (ta ochlel) (T102.765:188)  1> prep. phr. \"at the foot of\" 2> prep. phr., \"at the enter-treeship,\" \"in enter-treeship\"; general reference to \"heir designation.\"",
     "title": "TA OCH-le-{l}"
   },
   {
-    "key": "1-TA yu-ta-{l}",
+    "key": "1-TA@yu-ta-{l}",
     "desc": "TA yu-ta-{l} (ta yutal) (T51.61:565)  1> prep. phr. \"for his/her fruited\" 2> prep. phr. \"for his/her seeds/beans\"",
     "title": "TA yu-ta-{l}"
   },
@@ -4070,7 +4070,7 @@
     "title": "TAJ"
   },
   {
-    "key": "18-TAJ TUN",
+    "key": "18-TAJ@TUN",
     "desc": "TAJ TUN (taj tun) (T122.150:528)  > n. \"torch stone\"",
     "title": "TAJ TUN"
   },
@@ -4105,12 +4105,12 @@
     "title": "TAN"
   },
   {
-    "key": "25-TAN CH'EN OX WITZ-aj",
+    "key": "25-TAN@CH{}EN@OX@WITZ-aj",
     "desc": "TAN CH'EN OX WITZ-aj (tan ch'en ox witzaj) (T606.571v:III.528hv.228)  1> double loc. phr. + n. \"in front of the cave Three Hill Water\" 2> double loc. phr. + n. \"within the cave Three Hill Water\"",
     "title": "TAN CH'EN OX WITZ-aj"
   },
   {
-    "key": "26-TAN CH'EN-na",
+    "key": "26-TAN@CH{}EN-na",
     "desc": "TAN CH'EN-na (tan ch'en) (T606.598v:23)  1> double loc. phr. \"in front of the cave\" 2> double loc. phr. \"within the cave\"",
     "title": "TAN CH'EN-na"
   },
@@ -4120,72 +4120,72 @@
     "title": "TAN-na"
   },
   {
-    "key": "28-te'-k'a",
+    "key": "28-te{}-k{}a",
     "desc": "te'-k'a (tek') (T580:669)  > tr. v. phr. \"to step on.\"",
     "title": "te'-k'a"
   },
   {
-    "key": "29-te'-k'a-ja",
+    "key": "29-te{}-k{}a-ja",
     "desc": "te'-k'a-ja (te' k'aj) (T580:669b.181)  > pass. v. phr. \"was stepped on.\"",
     "title": "te'-k'a-ja"
   },
   {
-    "key": "30-te'-TE'-le",
+    "key": "30-te{}-TE{}-le",
     "desc": "te'-TE'-le (te'el) (T87:513.188)  > adj. \"tree\"",
     "title": "te'-TE'-le"
   },
   {
-    "key": "31-te'$TE' (che'$CHE')",
+    "key": "31-te{}$TE{}@(che{}$CHE{})",
     "desc": "te'/TE' (che'/CHE') (te'/che') (T350)  1>  phonetic sign 2> n. \"tree\" 3> n. \"wood.\"",
     "title": "te'/TE' (che'/CHE')"
   },
   {
-    "key": "32-te'$TE' (che'$CHE')",
+    "key": "32-te{}$TE{}@(che{}$CHE{})",
     "desc": "te'/TE' (che'/CHE') (te'/che') (T513)  1>  phonetic sign 2> n. \"tree\" 3> n. \"wood.\"",
     "title": "te'/TE' (che'/CHE')"
   },
   {
-    "key": "33-te'$TE' (che'$CHE')",
+    "key": "33-te{}$TE{}@(che{}$CHE{})",
     "desc": "te'/TE' (che'/CHE') (te'/che') (T514)  1>  phonetic sign 2> n. \"tree\" 3> n. \"wood.\"",
     "title": "te'/TE' (che'/CHE')"
   },
   {
-    "key": "34-te'$TE' (che'$CHE')",
+    "key": "34-te{}$TE{}@(che{}$CHE{})",
     "desc": "te'/TE' (che'/CHE') (te'/che') (T514v)  1>  phonetic sign 2> n. \"tree\" 3> n. \"wood.\"",
     "title": "te'/TE' (che'/CHE')"
   },
   {
-    "key": "35-te'$TE' (che'$CHE')",
+    "key": "35-te{}$TE{}@(che{}$CHE{})",
     "desc": "te'/TE' (che'/CHE') (te'/che') (T514v)  1>  phonetic sign 2> n. \"tree\" 3> n. \"wood.\"",
     "title": "te'/TE' (che'/CHE')"
   },
   {
-    "key": "36-te'$TE' (che'$CHE')",
+    "key": "36-te{}$TE{}@(che{}$CHE{})",
     "desc": "te'/TE' (che'/CHE') (te'/che') (T580[646])  1>  phonetic sign 2> n. \"tree\" 3> n. \"wood.\"",
     "title": "te'/TE' (che'/CHE')"
   },
   {
-    "key": "37-te'$TE' (che'$CHE')",
+    "key": "37-te{}$TE{}@(che{}$CHE{})",
     "desc": "te'/TE' (che'/CHE') (te'/che') (T78:514v)  1>  phonetic sign 2> n. \"tree\" 3> n. \"wood.\"",
     "title": "te'/TE' (che'/CHE')"
   },
   {
-    "key": "38-te'$TE' (che'$CHE')",
+    "key": "38-te{}$TE{}@(che{}$CHE{})",
     "desc": "te'/TE' (che'/CHE') (te'/che') (T87)  1>  phonetic sign 2> n. \"tree\" 3> n. \"wood.\"",
     "title": "te'/TE' (che'/CHE')"
   },
   {
-    "key": "39-te'$TE' (che'$CHE')",
+    "key": "39-te{}$TE{}@(che{}$CHE{})",
     "desc": "te'/TE' (che'/CHE') (te'/che') (T87hv)  1> phonetic sign 2> n. \"tree\" 3> n. \"wood\"",
     "title": "te'/TE' (che'/CHE')"
   },
   {
-    "key": "40-TI AJAW le-{l}",
+    "key": "40-TI@AJAW@le-{l}",
     "desc": "TI AJAW le-{l} (ti ajawlel) (T59.168:188)  > prep. phr. \"in rulership,\" \"in lordship,\" \"in kingship\"",
     "title": "TI AJAW le-{l}"
   },
   {
-    "key": "41-TI ya-AK'-il",
+    "key": "41-TI@ya-AK{}-il",
     "desc": "TI ya-AK'-il (ti yakil?) (T59.126:504v:24)  > prep. phr. \"in the tongue.\"",
     "title": "TI ya-AK'-il"
   },
@@ -4245,12 +4245,12 @@
     "title": "to-jo-li"
   },
   {
-    "key": "53-to-k'a",
+    "key": "53-to-k{}a",
     "desc": "to-k'a (tok') (T44:669:314)  > n. \"flint.\"",
     "title": "to-k'a"
   },
   {
-    "key": "54-to-k'a pa-ka-la",
+    "key": "54-to-k{}a@pa-ka-la",
     "desc": "to-k'a pa-ka-la (tok' pakal) (T44:669.586b:25:178)  > n. \"flint-shield\"; general war-related epithet; metaphor for \"war.\"",
     "title": "to-k'a pa-ka-la"
   },
@@ -4260,12 +4260,12 @@
     "title": "to-ko"
   },
   {
-    "key": "56-to-ko TAN AJAW",
+    "key": "56-to-ko@TAN@AJAW",
     "desc": "to-ko TAN AJAW (Tok Tan Ajaw) (T110.168:44:606)  > n. \"Cloud Center Lord\"; elite/royal title associated with a location at Palenque.",
     "title": "to-ko TAN AJAW"
   },
   {
-    "key": "57-to-ko TAN WINIK-ki",
+    "key": "57-to-ko@TAN@WINIK-ki",
     "desc": "to-ko TAN WINIK-ki (Tok Tan Winik) (T44:110:606.521:102)  > n. \"Cloud Center Person\"; elite/royal title associated with a location at Palenque.",
     "title": "to-ko TAN WINIK-ki"
   },
@@ -4285,32 +4285,32 @@
     "title": "to-[xa]-AT-ti"
   },
   {
-    "key": "61-TOK'",
+    "key": "61-TOK{}",
     "desc": "TOK' (tok') (T257)  > n. \"flint\"",
     "title": "TOK'"
   },
   {
-    "key": "62-TOK'",
+    "key": "62-TOK{}",
     "desc": "TOK' (tok') (T257)  > n. \"flint\"",
     "title": "TOK'"
   },
   {
-    "key": "63-TOK'",
+    "key": "63-TOK{}",
     "desc": "TOK' (tok') (T257)  > n. \"flint\"",
     "title": "TOK'"
   },
   {
-    "key": "64-TOK' PAKAL",
+    "key": "64-TOK{}@PAKAL",
     "desc": "TOK' PAKAL (tok' pakal) (T257:624)  > n. \"flint-shield\"; general war-related epithet; metaphor for \"war.\"",
     "title": "TOK' PAKAL"
   },
   {
-    "key": "65-TU K'U-li",
+    "key": "65-TU@K{}U-li",
     "desc": "TU K'U-li (tuk'ul) (T89.1016:24)  > prep. phr. \"in his/her/its divinity.\"",
     "title": "TU K'U-li"
   },
   {
-    "key": "66-TU WAY-[b'i]-li",
+    "key": "66-TU@WAY-[b{}i]-li",
     "desc": "TU WAY-[b'i]-li (tu wayb'il) (T89.539[585]:82)  > prep. phr. \"in his/her/its sleeping place,\" \"in his/her/its dreaming place.\"",
     "title": "TU WAY-[b'i]-li"
   },
@@ -4365,42 +4365,42 @@
     "title": "TUN-ni"
   },
   {
-    "key": "77-[TAN] LAM",
+    "key": "77-[TAN]@LAM",
     "desc": "[TAN] LAM (tan lam) (T699v)  > adj. \"half diminished\"",
     "title": "[TAN] LAM"
   },
   {
-    "key": "78-[TAN] LAM-ja",
+    "key": "78-[TAN]@LAM-ja",
     "desc": "[TAN] LAM-ja (tan lamaj) (T699v.181)  > adj. \"was half diminished\"",
     "title": "[TAN] LAM-ja"
   },
   {
-    "key": "0-TAB'",
+    "key": "0-TAB{}",
     "desc": "TAB' (tab') (T32:843v)  1> tr. v. \"to ascend,\" \"to rise up,\" \"to go up\" 2> tr. v. \"to present\"",
     "title": "TAB'"
   },
   {
-    "key": "1-TAB'-[yi]",
+    "key": "1-TAB{}-[yi]",
     "desc": "TAB'-[yi] (tab') (T46.1014a[17])  1> intr. com. v. \"ascended,\" \"rose up,\" \"went up\" 2> intr. com. v. \"presented\"",
     "title": "TAB'-[yi]"
   },
   {
-    "key": "2-TAB'-[yi]",
+    "key": "2-TAB{}-[yi]",
     "desc": "TAB'-[yi] (tab'-y) (T32:843v[17])  1> intr. com. v. \"ascended,\" \"rose up,\" \"went up\" 2> intr. com. v. \"presented\"",
     "title": "TAB'-[yi]"
   },
   {
-    "key": "3-TAB'-[yi]",
+    "key": "3-TAB{}-[yi]",
     "desc": "TAB'-[yi] (tab'iy) (T1014a[17])  1> intr. com. v. \"ascended,\" \"rose up,\" \"went up\" 2> intr. com. v. \"presented\"; general \"dedication\" verb",
     "title": "TAB'-[yi]"
   },
   {
-    "key": "4-TAB'-[yi]",
+    "key": "4-TAB{}-[yi]",
     "desc": "TAB'-[yi] (tab'iy) (T45.843[17])  1> intr. com. v.\"ascended,\" \"rose up,\" \"went up\" 2> intr. com. v. \"presented\"",
     "title": "TAB'-[yi]"
   },
   {
-    "key": "5-TAB'-[yi]",
+    "key": "5-TAB{}-[yi]",
     "desc": "TAB'-[yi] (tab'iy) (T46.843[17])  1> intr. com. v. \"ascended,\" \"rose up,\" \"went up\" 2> intr. com. v. \"presented\"",
     "title": "TAB'-[yi]"
   },
@@ -4435,7 +4435,7 @@
     "title": "tza-[ka]-wa"
   },
   {
-    "key": "5-tza-[ka]-wa CH'UL $ tza-[ka]-wa K'UL",
+    "key": "5-tza-[ka]-wa@CH{}UL@$@tza-[ka]-wa@K{}UL",
     "desc": "tza-[ka]-wa CH'UL / tza-[ka]-wa K'UL (tzakaw ch'ul / tzakaw k'ul) (T714.130.35)  > tr. v. phr. \"to conjure/manifest/make appear god/divinity/holiness\"",
     "title": "tza-[ka]-wa CH'UL / tza-[ka]-wa K'UL"
   },
@@ -4455,7 +4455,7 @@
     "title": "tzi"
   },
   {
-    "key": "9-tzi-ka JA'AB' (?)",
+    "key": "9-tzi-ka@JA{}AB{}@([])",
     "desc": "tzi-ka JA'AB' (?) (tzik ja'ab'?) (T124:25:548:142)  > intr. v. phr. \"the count of years\" (?); the Initial Series Introductory Glyph",
     "title": "tzi-ka JA'AB' (?)"
   },
@@ -4525,162 +4525,162 @@
     "title": "TZUTZ-yi"
   },
   {
-    "key": "0-tz'a-pa-ja",
+    "key": "0-tz{}a-pa-ja",
     "desc": "tz'a-pa-ja (tz'apaj) (T366:586hv.181)  1> pass. v. \"was planted upright\" 2> pass. v. \"was hoisted\" 3> pass. v. \"was stacked/piled up\"; general \"dedication\" verb for monuments.",
     "title": "tz'a-pa-ja"
   },
   {
-    "key": "1-tz'a-pa-ji-ya",
+    "key": "1-tz{}a-pa-ji-ya",
     "desc": "tz'a-pa-ji-ya (tz'apajiy) (T366v:586hv:246)  1> intr. v. \"planted upright\" 2> intr. v. \"hoisted\" 3> intr. v. \"stacked/piled up\"; general \"dedication\" verb for monuments.",
     "title": "tz'a-pa-ji-ya"
   },
   {
-    "key": "2-tz'a-[pa]",
+    "key": "2-tz{}a-[pa]",
     "desc": "tz'a-[pa] (tz'ap) (T68:586)  1> pos. v. \"to plant upright\" 2> pos. v. \"to hoist\" 3> tr. v. \"to stack,\" \"to pile up\"; general \"dedication\" verb for monuments.",
     "title": "tz'a-[pa]"
   },
   {
-    "key": "3-tz'a-[pa]-ja",
+    "key": "3-tz{}a-[pa]-ja",
     "desc": "tz'a-[pa]-ja (tz'apaj) (T68:586:1025v)  1> pass. v. \"was planted upright\" 2> pass. v. \"was hoisted\" 3> pass. v. \"was stacked/piled up\"; general \"dedication\" verb for monuments.",
     "title": "tz'a-[pa]-ja"
   },
   {
-    "key": "4-tz'a-[pa]-wa",
+    "key": "4-tz{}a-[pa]-wa",
     "desc": "tz'a-[pa]-wa (tz'apwa) (T68:586:130)  1> pos. v. \"to plant upright\" 2> pos. v. \"to hoist\" 3> tr. v. \"to stack,\" \"to pile up\"; general \"dedication\" verb for monuments.",
     "title": "tz'a-[pa]-wa"
   },
   {
-    "key": "5-tz'a$TZ'A",
+    "key": "5-tz{}a$TZ{}A",
     "desc": "tz'a/TZ'A (tz'a) (T366v)  1> phonetic sign 2> tr. v., \"to give.\"",
     "title": "tz'a/TZ'A"
   },
   {
-    "key": "6-TZ'AK",
+    "key": "6-TZ{}AK",
     "desc": "TZ'AK (tz'ak) (T573)  1> tr. v. \"to put in order\" 2> tr. v. \"to count, to increase\" 3> adj. \"whole.\"",
     "title": "TZ'AK"
   },
   {
-    "key": "7-TZ'AK b'u-li",
+    "key": "7-TZ{}AK@b{}u-li",
     "desc": "TZ'AK b'u-li (tz'ak b'ul) (T573.21:83)  1> tr. v. \"to put in order\" 2> tr. v. \"to count, to increase.\"",
     "title": "TZ'AK b'u-li"
   },
   {
-    "key": "8-TZ'AK-aj",
+    "key": "8-TZ{}AK-aj",
     "desc": "TZ'AK-aj (tz'akaj) (T573:12)  1> pass. v. \"was put in order\" 2> pass. v. \"was counted, increased\"",
     "title": "TZ'AK-aj"
   },
   {
-    "key": "9-TZ'AM(?)",
+    "key": "9-TZ{}AM([])",
     "desc": "TZ'AM(?) (tz'am) (T150)  > n. \"throne.\"",
     "title": "TZ'AM(?)"
   },
   {
-    "key": "10-tz'i",
+    "key": "10-tz{}i",
     "desc": "tz'i (tz'i) (T248)  > phonetic sign.",
     "title": "tz'i"
   },
   {
-    "key": "11-tz'i",
+    "key": "11-tz{}i",
     "desc": "tz'i (tz'i) (T563a)  > phonetic sign.",
     "title": "tz'i"
   },
   {
-    "key": "12-tz'i",
+    "key": "12-tz{}i",
     "desc": "tz'i (tz'i) (T563b)  > phonetic sign.",
     "title": "tz'i"
   },
   {
-    "key": "13-TZ'I",
+    "key": "13-TZ{}I",
     "desc": "TZ'I (tz'i) (T752)  > n. \"dog\"",
     "title": "TZ'I"
   },
   {
-    "key": "14-TZ'I",
+    "key": "14-TZ{}I",
     "desc": "TZ'I (tz'i) (T753)  > n. \"dog\"",
     "title": "TZ'I"
   },
   {
-    "key": "15-tz'i",
+    "key": "15-tz{}i",
     "desc": "tz'i (tz'i) (T756b)  > phonetic sign",
     "title": "tz'i"
   },
   {
-    "key": "16-tz'i",
+    "key": "16-tz{}i",
     "desc": "tz'i (tz'i) (Tnn)  > phonetic sign",
     "title": "tz'i"
   },
   {
-    "key": "17-tz'i-b'a",
+    "key": "17-tz{}i-b{}a",
     "desc": "tz'i-b'a (tz'ib') (T243:501)  1> n. \"writing\" 2> n. \"painting.\"",
     "title": "tz'i-b'a"
   },
   {
-    "key": "18-tz'i-b'a",
+    "key": "18-tz{}i-b{}a",
     "desc": "tz'i-b'a (tz'ib') (T243:501hv:314)  1> n. \"writing\" 2> n. \"painting.\"",
     "title": "tz'i-b'a"
   },
   {
-    "key": "19-tz'i-b'i",
+    "key": "19-tz{}i-b{}i",
     "desc": "tz'i-b'i (tz'ib') (T243:585)  1> n. \"writing\" 2> n. \"painting.\"",
     "title": "tz'i-b'i"
   },
   {
-    "key": "20-tz'i-b'i",
+    "key": "20-tz{}i-b{}i",
     "desc": "tz'i-b'i (tz'ib') (T243:585hv)  1> n. \"writing\" 2> n. \"painting.\"",
     "title": "tz'i-b'i"
   },
   {
-    "key": "21-tz'i-i",
+    "key": "21-tz{}i-i",
     "desc": "tz'i-i (tz'i) (T243:679a)  > n. \"dog.\"",
     "title": "tz'i-i"
   },
   {
-    "key": "22-tz'o",
+    "key": "22-tz{}o",
     "desc": "tz'o (tz'o) (T758v)  > phonetic sign",
     "title": "tz'o"
   },
   {
-    "key": "23-tz'u",
+    "key": "23-tz{}u",
     "desc": "tz'u (tz'u) (T203v)  > phonetic sign.",
     "title": "tz'u"
   },
   {
-    "key": "24-tz'u",
+    "key": "24-tz{}u",
     "desc": "tz'u (tz'u) (T608)  > phonetic sign.",
     "title": "tz'u"
   },
   {
-    "key": "25-tz'u-nu-{n}",
+    "key": "25-tz{}u-nu-{n}",
     "desc": "tz'u-nu-{n} (tz'unun) (T203v.592)  > n. \"hummingbird.\"",
     "title": "tz'u-nu-{n}"
   },
   {
-    "key": "0-U . . . wa",
+    "key": "0-U@.@.@.@wa",
     "desc": "U . . . wa (u . . . wa) (T1 . . . 130)  > transitive completive verbal affix pattern; marks transitive completive verbs.",
     "title": "U . . . wa"
   },
   {
-    "key": "1-U . . . wi",
+    "key": "1-U@.@.@.@wi",
     "desc": "U . . . wi (u . . . wi) (T1 . . . 117)  > transitive completive verbal affix pattern; marks transitive completive verbs.",
     "title": "U . . . wi"
   },
   {
-    "key": "2-U B'A",
+    "key": "2-U@B{}A",
     "desc": "U B'A (u b'a) (T13v.60:757)  1> poss. n. \"his/her/its image,\" \"the image of\" 2> poss. n. \"his/her/its doing,\" \"the doing of.\"",
     "title": "U B'A"
   },
   {
-    "key": "3-U B'A",
+    "key": "3-U@B{}A",
     "desc": "U B'A (u b'a) (T1.60:757)  1> poss. n. \"his/her/its image,\" \"the image of\" 2> poss. n. \"his/her/its doing,\" \"the doing of.\"",
     "title": "U B'A"
   },
   {
-    "key": "4-U we'-ya",
+    "key": "4-U@we{}-ya",
     "desc": "U we'-ya (u we'y) (T1.nn:574:126)  > tr. incom. v. phr. \"his/her/its eating of.\"",
     "title": "U we'-ya"
   },
   {
-    "key": "5-U ya-AJAW-wa TE'",
+    "key": "5-U@ya-AJAW-wa@TE{}",
     "desc": "U ya-AJAW-wa TE' (u yajaw te') (T1:126.168:514:130)  > poss. n. \"his lord of the tree\"; possessed elite title.",
     "title": "U ya-AJAW-wa TE'"
   },
@@ -4795,12 +4795,12 @@
     "title": "u/U"
   },
   {
-    "key": "28-UCH'",
+    "key": "28-UCH{}",
     "desc": "UCH' (uch') (Tnn[501])  1> n. \"drink\" 2> intr. v. \"to drink.\"",
     "title": "UCH'"
   },
   {
-    "key": "0-. . . wi-ya",
+    "key": "0-.@.@.@wi-ya",
     "desc": ". . . wi-ya (. . . wiy?) (T126.117)  > verbal suffix pattern used to derive an intransitive out of a transitive root.",
     "title": ". . . wi-ya"
   },
@@ -4820,12 +4820,12 @@
     "title": "wa-WA-ji"
   },
   {
-    "key": "4-wa-WAY-{a}-[b'i]",
+    "key": "4-wa-WAY-{a}-[b{}i]",
     "desc": "wa-WAY-{a}-[b'i] (wayab') (T130:539[585])  1> n. \"dreamer\" 2> n. \"co-essence, nawal.\"",
     "title": "wa-WAY-{a}-[b'i]"
   },
   {
-    "key": "5-wa-ya-k'a-wa",
+    "key": "5-wa-ya-k{}a-wa",
     "desc": "wa-ya-k'a-wa (wa yak'aw) (T130.126:669:130)  > tr. v. \"to give\"; includes the possible progressive aspect marker wa.",
     "title": "wa-ya-k'a-wa"
   },
@@ -4880,12 +4880,12 @@
     "title": "WAK"
   },
   {
-    "key": "16-WAK CHAAN-wa AJAW $ WAK KAAN-wa AJAW",
+    "key": "16-WAK@CHAAN-wa@AJAW@$@WAK@KAAN-wa@AJAW",
     "desc": "WAK CHAAN-wa AJAW / WAK KAAN-wa AJAW (Wak Chaan Ajaw / Wak Kaan Ajaw) (TVI.170:561:130)  1> n. \"Six Sky Lord\" 2> n. \"lifted/hoisted/erected/stood-up lord\"; elite title.",
     "title": "WAK CHAAN-wa AJAW / WAK KAAN-wa AJAW"
   },
   {
-    "key": "17-WAK-ki CHAAN $ WAK-ki KAAN",
+    "key": "17-WAK-ki@CHAAN@$@WAK-ki@KAAN",
     "desc": "WAK-ki CHAAN / WAK-ki KAAN (wak chaan / wak kaan) (T367:561:102)  1> n. \"six sky\" 2> n. \"lifted/hoisted/erected/ stood-up sky\"; elite title.",
     "title": "WAK-ki CHAAN / WAK-ki KAAN"
   },
@@ -4900,12 +4900,12 @@
     "title": "WAXAK"
   },
   {
-    "key": "20-WAXAK NA CHAAK",
+    "key": "20-WAXAK@NA@CHAAK",
     "desc": "WAXAK NA CHAAK (Waxak Na Chaak) (TVIII.48:1011)  > n. proper name of God I (GI) of the Palenque Triad; \"Eight First Chaak\"?",
     "title": "WAXAK NA CHAAK"
   },
   {
-    "key": "21-WAXAKLAJUN U B'A",
+    "key": "21-WAXAKLAJUN@U@B{}A",
     "desc": "WAXAKLAJUN U B'A (waxaklajun u b'a) (TXVIII.13.757) 1> \"Eighteen [Snake/Centipede] Heads\"; proper name of the scaled Vision Serpent/centipede thought to derive from Teotihuacan imagery 2> n. \"war helmet\" 3> n. proper name of the 13th ruler of Copán in the Yax K'uk' Mo' lineage; possibly refers to the number of war serpent/centipede heads on the Temple of the Feathered Serpent at Teotihuacan in central Mexico.",
     "title": "WAXAKLAJUN U B'A"
   },
@@ -4920,7 +4920,7 @@
     "title": "WAY"
   },
   {
-    "key": "24-WAY-b'i-li",
+    "key": "24-WAY-b{}i-li",
     "desc": "WAY-b'i-li (wayb'il) (T539[585]:82)  1> n. \"sleeping room\" 2> n. \"lineage shrine.\"",
     "title": "WAY-b'i-li"
   },
@@ -4930,27 +4930,27 @@
     "title": "WAY-ya"
   },
   {
-    "key": "26-WAYEB'",
+    "key": "26-WAYEB{}",
     "desc": "WAYEB' (Wayeb') (T157:548)  > n. month sign; last \"month\" of the Maya Ja'ab' calendar; the final five-day unlucky period.",
     "title": "WAYEB'"
   },
   {
-    "key": "27-we'$WE'",
+    "key": "27-we{}$WE{}",
     "desc": "we'/WE' (we') (T1008v[506])  1 > phonetic sign (?) 2>  intr. v. \"to eat.\"",
     "title": "we'/WE'"
   },
   {
-    "key": "28-we'$WE'",
+    "key": "28-we{}$WE{}",
     "desc": "we'/WE' (we') (Tnn.506:130.142.?)  1 > phonetic sign (?) 2>  intr. v. \"to eat.\"",
     "title": "we'/WE'"
   },
   {
-    "key": "29-WI CH'OK TE' NA",
+    "key": "29-WI@CH{}OK@TE{}@NA",
     "desc": "WI CH'OK TE' NA (wi ch'ok te' na) (T117.600:87:4)  >  n. \"Root-Sprout Tree House\"; proper name of a building; the \"Lineage Founder\" glyph.",
     "title": "WI CH'OK TE' NA"
   },
   {
-    "key": "30-wi-ti-ki AJAW",
+    "key": "30-wi-ti-ki@AJAW",
     "desc": "wi-ti-ki AJAW (Witik Ajaw) (T117.513v:59 1000g)  > n. \"Witik lord\"; elite title; witik  of unknown meaning.",
     "title": "wi-ti-ki AJAW"
   },
@@ -4960,12 +4960,12 @@
     "title": "wi-tzi"
   },
   {
-    "key": "32-wi-tzi mo-o",
+    "key": "32-wi-tzi@mo-o",
     "desc": "wi-tzi mo-o (Witz Mo') (T117:507.582v[737]:279)  > n. \"Mountain Macaw\"; elite title.",
     "title": "wi-tzi mo-o"
   },
   {
-    "key": "33-wi-tzi SAK-NIK-ki NAL",
+    "key": "33-wi-tzi@SAK-NIK-ki@NAL",
     "desc": "wi-tzi SAK-NIK-ki NAL (Witz Sak Nik Nal) (T117:507.79:102)  > n. \"White Flowery Mountain Place\"; proper name of the Kawak Monster on the Tablet of the Foliated Cross at Palenque.",
     "title": "wi-tzi SAK-NIK-ki NAL"
   },
@@ -5110,7 +5110,7 @@
     "title": "xi"
   },
   {
-    "key": "9-XIB'",
+    "key": "9-XIB{}",
     "desc": "XIB' (xib') (T1008)  > n. \"man\"",
     "title": "XIB'"
   },
@@ -5150,7 +5150,7 @@
     "title": "XUL"
   },
   {
-    "key": "0-. . . ya-ni",
+    "key": "0-.@.@.@ya-ni",
     "desc": ". . . ya-ni (. . . yan) (. . . T126.116)  > positional completive verbal affix pattern.",
     "title": ". . . ya-ni"
   },
@@ -5180,7 +5180,7 @@
     "title": "ya"
   },
   {
-    "key": "6-ya-AJAW K'AK'",
+    "key": "6-ya-AJAW@K{}AK{}",
     "desc": "ya-AJAW K'AK' (Yajaw K'ak') (T126:168:563a:122)  > poss. prep. phr. \"Lord of the Fire,\" \"Fire Lord\"; elite title.",
     "title": "ya-AJAW K'AK'"
   },
@@ -5190,12 +5190,12 @@
     "title": "ya-AJAW-wa"
   },
   {
-    "key": "8-ya-AJAW-wa TE'",
+    "key": "8-ya-AJAW-wa@TE{}",
     "desc": "ya-AJAW-wa TE' (yajaw te') (T126.168:513v.130)  > poss. prep. phr. \"lord of the tree,\" \"tree lord\" 2> poss. n. \"his/her/its tree lord\"; elite title.",
     "title": "ya-AJAW-wa TE'"
   },
   {
-    "key": "9-ya-AJAW-wa TE'",
+    "key": "9-ya-AJAW-wa@TE{}",
     "desc": "ya-AJAW-wa TE' (yajaw te') (T126.747a:130.87)  1> poss. prep. phr. \"Lord of the Tree,\" \"Tree Lord\"; elite title 2> poss. n. \"his/her/its Tree Lord\"; elite title.",
     "title": "ya-AJAW-wa TE'"
   },
@@ -5215,22 +5215,22 @@
     "title": "ya-AL"
   },
   {
-    "key": "13-ya-b'i-li",
+    "key": "13-ya-b{}i-li",
     "desc": "ya-b'i-li (yab'il) (T126.743v[585]:24)  > poss. n. \"his/her grandson\"; relationship glyph.",
     "title": "ya-b'i-li"
   },
   {
-    "key": "14-ya-CH'AM",
+    "key": "14-ya-CH{}AM",
     "desc": "ya-CH'AM (ya-ch'am) (T126.533:670)  > poss. n. \"child [of mother]\"; literally \"her harvest\"; relationship glyph",
     "title": "ya-CH'AM"
   },
   {
-    "key": "15-ya-CH'AM",
+    "key": "15-ya-CH{}AM",
     "desc": "ya-CH'AM (ya-ch'am) (T126.584:670)  > poss. n. \"child [of mother]\"; literally \"her harvest\"; relationship glyph",
     "title": "ya-CH'AM"
   },
   {
-    "key": "16-ya-CH'AM-ma",
+    "key": "16-ya-CH{}AM-ma",
     "desc": "ya-CH'AM-ma (ya-ch'am) (T126.578af:670:142)  > poss. n. \"child [of mother]\"; literally \"her harvest\"; relationship glyph",
     "title": "ya-CH'AM-ma"
   },
@@ -5245,17 +5245,17 @@
     "title": "ya-ja-wa"
   },
   {
-    "key": "19-ya-k'a-wa",
+    "key": "19-ya-k{}a-wa",
     "desc": "ya-k'a-wa (yak'aw) (T126.614b:130)  1> poss. n. \"his/her/its giving\" 2> poss. n. \"his/her/its offering.\"",
     "title": "ya-k'a-wa"
   },
   {
-    "key": "20-ya-k'a-wa",
+    "key": "20-ya-k{}a-wa",
     "desc": "ya-k'a-wa (yak'aw) (T126.669b:130)  1> poss. n. \"his/her/its giving\" 2> poss. n. \"his/her/its offering.\"",
     "title": "ya-k'a-wa"
   },
   {
-    "key": "21-ya-k'u",
+    "key": "21-ya-k{}u",
     "desc": "ya-k'u (yak') (T125:604v)  1> poss. n. \"his/her/its giving\" 2> poss. n. \"his/her/its offering.\"",
     "title": "ya-k'u"
   },
@@ -5305,7 +5305,7 @@
     "title": "ya-xa"
   },
   {
-    "key": "31-ya-xu-na (?)",
+    "key": "31-ya-xu-na@([])",
     "desc": "ya-xu-na (?) (yaxun ?) (T126.23:756b)  > poss. n. \"his/her mother.\"",
     "title": "ya-xu-na (?)"
   },
@@ -5330,52 +5330,52 @@
     "title": "YAX"
   },
   {
-    "key": "36-YAX ch'a-CH'AM",
+    "key": "36-YAX@ch{}a-CH{}AM",
     "desc": "YAX ch'a-CH'AM (yax ch'am) (T16:93v.617v:117)  > adj. + n. \"first harvest.\"",
     "title": "YAX ch'a-CH'AM"
   },
   {
-    "key": "37-YAX CH'AM",
+    "key": "37-YAX@CH{}AM",
     "desc": "YAX CH'AM (yax ch'am) (T16.617v:116?)  > adj. + n. \"first harvest.\"",
     "title": "YAX CH'AM"
   },
   {
-    "key": "38-YAX CH'AM K'AWIL",
+    "key": "38-YAX@CH{}AM@K{}AWIL",
     "desc": "YAX CH'AM K'AWIL (yax ch'am K'awil) (T16.1030e:670)  1> v. phr. \"first receiving [of] K'awil\" 2> v. phr. \"first harvest of K'awil.\"",
     "title": "YAX CH'AM K'AWIL"
   },
   {
-    "key": "39-YAX CHIT",
+    "key": "39-YAX@CHIT",
     "desc": "YAX CHIT (yax chit) (T16:580)  > adj. + n. \"first father\" (?)",
     "title": "YAX CHIT"
   },
   {
-    "key": "40-YAX K'AL TUN-ni",
+    "key": "40-YAX@K{}AL@TUN-ni",
     "desc": "YAX K'AL TUN-ni (yax k'al tun) (T16:528.116:713a)  >  v. phr. \"closed the first tun,\"  \"closed the first stone\"; general PE glyph for tun-endings.",
     "title": "YAX K'AL TUN-ni"
   },
   {
-    "key": "41-YAX k'o-jo",
+    "key": "41-YAX@k{}o-jo",
     "desc": "YAX k'o-jo (yax k'oj) (T16.220:607)  > adj. + n. \"first image.\"",
     "title": "YAX k'o-jo"
   },
   {
-    "key": "42-YAX pa-{s}",
+    "key": "42-YAX@pa-{s}",
     "desc": "YAX pa-{s} (yax pas/Yax Pas) (T16:602)  1> adj. + n. \"first dawn\" 2> n. name of sixteenth ruler of Copán in the Yax K'uk' Mo' lineage.",
     "title": "YAX pa-{s}"
   },
   {
-    "key": "43-YAX PAS",
+    "key": "43-YAX@PAS",
     "desc": "YAX PAS (yax pas/Yax Pas) (T16.222:561)  1> adj. + n. \"first dawn\" 2> n. name of sixteenth ruler of Copán in the Yax K'uk' Mo' lineage.",
     "title": "YAX PAS"
   },
   {
-    "key": "44-YAXK'IN",
+    "key": "44-YAXK{}IN",
     "desc": "YAXK'IN (Yaxk'in) (T16:544.116)  > n. month sign; seventh month of the Maya Ja'ab' calendar.",
     "title": "YAXK'IN"
   },
   {
-    "key": "45-ye-b'a-li",
+    "key": "45-ye-b{}a-li",
     "desc": "ye-b'a-li (yeb'al) (T710.501:24?)  > poss. n. \"his/her/its stairway,\" \"the stairway of.\"",
     "title": "ye-b'a-li"
   },
@@ -5390,32 +5390,32 @@
     "title": "ye-ma-la"
   },
   {
-    "key": "48-ye-te'",
+    "key": "48-ye-te{}",
     "desc": "ye-te' (yete') (T512.87)  1> prep. \"with\" 2> prep. phr. \"in the company of\"; relationship glyph.",
     "title": "ye-te'"
   },
   {
-    "key": "49-ye-te'",
+    "key": "49-ye-te{}",
     "desc": "ye-te' (yete') (T710v.78:514v)  1> prep. \"with\" 2> prep. phr. \"in the company of\"; relationship glyph.",
     "title": "ye-te'"
   },
   {
-    "key": "50-ye-te'",
+    "key": "50-ye-te{}",
     "desc": "ye-te' (yete') (T710.587.87)  1> prep. \"with\" 2> prep. phr. \"in the company of\"; relationship glyph.",
     "title": "ye-te'"
   },
   {
-    "key": "51-ye-te' k'a-b'a-li",
+    "key": "51-ye-te{}@k{}a-b{}a-li",
     "desc": "ye-te' k'a-b'a-li (yete' k'ab'a-il) (T512.580[646]669[501])  > poss. n. \"the namesake of.\"",
     "title": "ye-te' k'a-b'a-li"
   },
   {
-    "key": "52-ye-te'-je",
+    "key": "52-ye-te{}-je",
     "desc": "ye-te'-je (yete'j) (T512.78:514.69)  1> prep. \"with\" 2> prep. phr. \"in the company of\"; relationship glyph.",
     "title": "ye-te'-je"
   },
   {
-    "key": "53-ye-te'-je",
+    "key": "53-ye-te{}-je",
     "desc": "ye-te'-je (yete'j) (T710v.78:514v:69)  >",
     "title": "ye-te'-je"
   },
@@ -5465,7 +5465,7 @@
     "title": "yi"
   },
   {
-    "key": "63-yi-ch'a-ki",
+    "key": "63-yi-ch{}a-ki",
     "desc": "yi-ch'a-ki (yich'ak) (T17:603:102)  > poss. n. \"his jaguar claw\"; noun plus third person prevocalic possessive pronoun yi-",
     "title": "yi-ch'a-ki"
   },
@@ -5520,7 +5520,7 @@
     "title": "yi-ta-ji"
   },
   {
-    "key": "74-yi-tz'i-na",
+    "key": "74-yi-tz{}i-na",
     "desc": "yi-tz'i-na (yitz'in) (T17:563.23)  > poss. n. \"his/her younger brother\"; relationship glyph; noun plus third person possessive pronoun yi-.",
     "title": "yi-tz'i-na"
   },
@@ -5555,7 +5555,7 @@
     "title": "yo-AT-ta"
   },
   {
-    "key": "81-yo-AT-ti (?)",
+    "key": "81-yo-AT-ti@([])",
     "desc": "yo-AT-ti (?) (yo-at) (T115.761:59)  > adj. + n. \"scarred penis.\"",
     "title": "yo-AT-ti (?)"
   },
@@ -5565,7 +5565,7 @@
     "title": "yo-ko"
   },
   {
-    "key": "83-yo-OK [K'IN]-ni",
+    "key": "83-yo-OK@[K{}IN]-ni",
     "desc": "yo-OK [K'IN]-ni (yok k'in) (T115.765[544]:116)  > n. elite title; title of unknown meaning.",
     "title": "yo-OK [K'IN]-ni"
   },
@@ -5580,7 +5580,7 @@
     "title": "yo-OL-la"
   },
   {
-    "key": "86-yo-OL-la TAN-na",
+    "key": "86-yo-OL-la@TAN-na",
     "desc": "yo-OL-la TAN-na (yol tan) (T115v:506:178.606:23)  >  poss. n., \"his/her/its heart-center\"; noun plus third person possessive pronoun yo-.",
     "title": "yo-OL-la TAN-na"
   },
@@ -5625,7 +5625,7 @@
     "title": "yo-to-ti"
   },
   {
-    "key": "95-yo-[xa]-AT-ti (?)",
+    "key": "95-yo-[xa]-AT-ti@([])",
     "desc": "yo-[xa]-AT-ti (?) (yoxat) (T115.761:59)  > poss. n. + adj. \"his/its scarred penis\"; noun, adjective, and third-person possessive pronoun yo-.",
     "title": "yo-[xa]-AT-ti (?)"
   },
@@ -5650,7 +5650,7 @@
     "title": "YOP-AT-ta"
   },
   {
-    "key": "100-YOP-AT-ti (?)",
+    "key": "100-YOP-AT-ti@([])",
     "desc": "YOP-AT-ti (?) (yo-at) (T115.761:59)  > n. deity name or elite title",
     "title": "YOP-AT-ti (?)"
   },
@@ -5660,17 +5660,17 @@
     "title": "yu"
   },
   {
-    "key": "102-yu-b'u-te'",
+    "key": "102-yu-b{}u-te{}",
     "desc": "yu-b'u-te' (yub'te') (T61.21 86:518c.140)  > n. \"tribute mantle,\" \"tribute cloth.\"",
     "title": "yu-b'u-te'"
   },
   {
-    "key": "103-yu-ch'a-b'a",
+    "key": "103-yu-ch{}a-b{}a",
     "desc": "yu-ch'a-b'a (yuch'ab') (T61.756af:501)  > poss. n. \"his/her/its drinking vessel,\" \"his/her/its drinking cup\"; noun plus third person possessive pronoun yu-.",
     "title": "yu-ch'a-b'a"
   },
   {
-    "key": "104-yu-ch'a-b'i",
+    "key": "104-yu-ch{}a-b{}i",
     "desc": "yu-ch'a-b'i (yuch'ab') (T62.77:585)  > poss. n. \"his/her/its drinking vessel,\" \"his/her/its drinking cup\"; noun plus third person possessive pronoun yu-.",
     "title": "yu-ch'a-b'i"
   },
