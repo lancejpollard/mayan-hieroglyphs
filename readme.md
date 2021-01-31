@@ -29,7 +29,7 @@
 
 ### Summary
 
-The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayawriting/dictionary.htm).
+The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayawriting/dictionary.htm). UC Berkeley has been working on a Mayan Unicode font [for over 5 years](https://linguistics.berkeley.edu/sei/assets/unlocking-the-mayan-rev6-latest-sept2016.pdf), but no sign of it being finished is in sight. So we rebuilt the icons from scratch (mapping them to the word and definition they represent). There are 1141 icons. Use these to show off the Mayan world in your next project!
 
 <br/>
 <br/>
