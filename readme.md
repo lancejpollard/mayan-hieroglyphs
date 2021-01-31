@@ -31,6 +31,10 @@
 
 The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayawriting/dictionary.htm).
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 <p align='center'>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0--il.svg?raw=true' width='100'/>
@@ -1134,6 +1138,11 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-wa$WA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-ya-AJAW-wa@TE{}.svg?raw=true' width='100'/>
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Contribute
 
