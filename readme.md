@@ -31,158 +31,159 @@
 
 The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayawriting/dictionary.htm).
 
+
 <p align='center'>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0--il.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0--ji-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0--la-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-.@.@.@wi-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-.@.@.@ya-ni.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-AB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-K'A@CHAAN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-AB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-K{}A@CHAAN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-NA@ka-KAN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-TA@OCH-le-{l}.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-TAB'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-TAB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-U@.@.@.@wa.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-a-AK'OT-ta.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-b'a.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-ch'a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-a-AK{}OT-ta.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-b{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-cha-CHAN$ka-KAN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-ch{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-e.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-ka.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-o.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-pa-k'a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-pa-k{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-sa.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-tz'a-pa-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-tza.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-tz{}a-pa-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/0-xa-ma-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1--il.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1--ji-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1--la-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-AB'-[b'i].svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-B'A@AJAW.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-AB{}-[b{}i].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-B{}A@AJAW.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-TA@yu-ta-{l}.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-TAB'-[yi].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-TAB{}-[yi].svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-U@.@.@.@wi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-a-ja-wa.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-ch'a-b'a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-cha-ki.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-ch{}a-b{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-e.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-k'a-K'AK'.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-ka.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-k{}a-K{}AK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-ma.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-na-b'i.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-na-b{}i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-o.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-pa-k'a-ji-ya.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-pa-k{}a-ji-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-sa.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-tz'a-pa-ji-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-tza.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-tz{}a-pa-ji-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-wa-wa-aj-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-xa-XAN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/1-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-AB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-EK'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-AB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-EK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-I-IL-ji.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-KAB'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-KAB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-LAJUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-b'a-tz'u.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-ch'a$CH'A.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-b{}a-tz{}u.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-cha$ka.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-ja-tz'a-yi.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-ch{}a$CH{}A.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-ja-tz{}a-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-je.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-k'a$ch'a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-k{}a$ch{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-ma-xi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-na$NA$NAJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-pa-ta-{n}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-sa$SA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-ta$TA.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-tz'i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-tzi$TZI.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-tz{}i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-u-ti-ji-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-wa$WA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-xo.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/10-ya-AL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-AB'-[b'i].svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-EK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-KAB'-ji.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-AB{}-[b{}i].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-EK{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-KAB{}-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-LAJUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-b'a$B'A.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-ch'a$CH'A.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-b{}a$B{}A.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-cha$ka.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-ch{}a$CH{}A.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-i-ka-tzi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-ja-wa-te'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-ja-wa-te{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-ji.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-k'a$ch'a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-k{}a$ch{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-ma-xi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-na$NA$NAJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-pa-ti.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-sa$SA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-ta$TA.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-tz'i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-tzo.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-tz{}i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-u-ti-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-wa$WA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-xo-ki.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/11-ya-AL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-ACH-cha.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-CH'AB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-EK'@JUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-KAB'-ji.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-CH{}AB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-EK{}@JUN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-KAB{}-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-LAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-b'a$B'A.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-b{}a$B{}A.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-cha$ka.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-i-ka-tzi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-ja-wa-te'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-ja-wa-te{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-ji-IX.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-k'a$ch'a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-k{}a$ch{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-ma-xi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-na$NA$NAJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-o-la-si.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-pa$PAJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-sa$SA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-ta$TA.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-tz'i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-tzo.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-tz{}i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-u-ti-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-wa$WA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-xu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/12-ya-AL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-AJ@k'u-JUN-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-B'AK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-CH'AB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-EK'@WAY-NAL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-KAB'-ji-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-LAK-K'IN-ni.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-AJ@k{}u-JUN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-B{}AK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-CH{}AB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-EK{}@WAY-NAL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-KAB{}-ji-ya.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-LAK-K{}IN-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-MA-[IL]-aj.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-SAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-TZ'I.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-TZ{}I.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-WAK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-cha$ka.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-i-ki-tzi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-ja-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-ji-JIX.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-k'a$ch'a@(K'A$CH'A_).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-k{}a$ch{}a@(K{}A$CH{}A_).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-na$NA$NAJ.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-o-la-si@K'U.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-o-la-si@K{}U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-pa$PAJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-ta$TA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-tzu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-u-ti-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-xu-[ku].svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-ya-b'i-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-AJ@k'u-{JUN}-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-B'AK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-CH'AK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/13-ya-b{}i-li.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-AJ@k{}u-{JUN}-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-B{}AK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-CHA$KA.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-K'AB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-KAB'-la@K'U.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-CH{}AK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-KAB{}-la@K{}U.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-K{}AB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-LAKAM.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-SAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-TZ'I.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-TZ{}I.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-WAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-i-tz'a-ta.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-i-tz{}a-ta.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-ja-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-ji-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-ma$MA.svg?raw=true' width='100'/>
@@ -193,78 +194,78 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-tzu-lu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-u-to-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-xu-[ku]-pi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-ya-CH'AM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-AJ@na-b'i.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-CH'AK-ka.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/14-ya-CH{}AM.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-AJ@na-b{}i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-CHAAK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-CH{}AK-ka.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-EM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-JANAAB'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-JANAAB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-JIX.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-K'AB'A.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-KAB'-la-K'U.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-KAB{}-la-K{}U.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-K{}AB{}A.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-LAKAM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-NAAB'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-NAAB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-SAK@CHUWEN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-WAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-i-tz'i-{n}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-i-tz{}i-{n}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-ma$MA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-o-OL-si.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-pa$PAJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-ta$TA.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-tz'i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-tzu-tzu-ja.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-tz{}i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-u-to-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-xu-[lu].svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-ya-CH'AM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-AJ@na-b'i.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-CH'AK-ka-b'a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/15-ya-CH{}AM.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-AJ@na-b{}i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-CHAAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-ETZ'NAB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-JANAAB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-K'AK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-KAB'-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-LAKAM@JA'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-NAAB'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-CH{}AK-ka-b{}a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-ETZ{}NAB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-JANAAB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-KAB{}-ya.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-K{}AK{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-LAKAM@JA{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-NAAB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-PAKAL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-SAK@IK'@EK'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-SAK@IK{}@EK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-TAJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-WAK@CHAAN-wa@AJAW@$@WAK@KAAN-wa@AJAW.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-XUL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-i-tz'i-{n}@wi-WINIK-ki.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-i-tz{}i-{n}@wi-WINIK-ki.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-jo.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-ma$MA.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-o-OL-si@K'U.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-tz'i.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-o-OL-si@K{}U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-tzu$TZU.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-tz{}i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-u-xu-[lu].svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-ya-CH'AM-ma.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/16-ya-CH{}AM-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-AJ@pa-ya-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-CH'AK-ka-b'a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-CHAAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-JANAAB'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-CH{}AK-ka-b{}a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-JANAAB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-JO.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-K'AK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-KAB'AN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-KAB{}AN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-K{}AK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-LAKAM@TUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-NAAB'@TUN-chi.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-NAAB{}@TUN-chi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-OCH.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-PAS$PASAJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-SAK@la-ka-TUN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-TAJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-TZUTZ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-WAK-ki@CHAAN@$@WAK-ki@KAAN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-i-tz'i-{n}@WINIK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-i-tz{}i-{n}@WINIK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-ma$MA.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-tz'i-b'a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-tz{}i-b{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-u$U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/17-ya-ja-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-AJ@pi-tzi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-B'ALAM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-CH'AM.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-B{}ALAM.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-CHAAK-ki.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-CH{}AM.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-JO.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-K'AK'@NAAB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-KALOMTE'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-KALOMTE{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-K{}AK{}@NAAB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-LAKAM@TUN-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-MAK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-NAL.svg?raw=true' width='100'/>
@@ -276,15 +277,15 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-WAXAK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-i-u-ti.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-je.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-tz'i-b'a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-tz{}i-b{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-u$U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/18-ya-ja-wa.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-AJ@pi-tzi-la-wa-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-CH'AM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-CHAAN@CH'EN-na@$@KAAN@CH'EN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-CHAAN@CH{}EN-na@$@KAAN@CH{}EN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-CH{}AM.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-JOM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-K'AK'-k'a.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-KALOMTE'-te'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-KALOMTE{}-te{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-K{}AK{}-k{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-LAMAT.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-MAM.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-NAL.svg?raw=true' width='100'/>
@@ -294,42 +295,42 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-TAK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-TZUTZ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-WAXAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-b'e$B'E.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-b{}e$B{}E.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-i-u-ti.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-ji.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-tz'i-b'i.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-tz{}i-b{}i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-u$U.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-ya-k'a-wa.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/19-ya-k{}a-wa.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2--il.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2--la-ji.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-B'A@ch'o-ko.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-TAB'-[yi].svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-U@B'A.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-B{}A@ch{}o-ko.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-TAB{}-[yi].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-U@B{}A.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-a-ku.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-ch'a-ja-{l}-te'.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-cha-ki.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-ch{}a-ja-{l}-te{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-e.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-hi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-k'a-K'AWIL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-ka.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-k{}a-K{}AWIL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-na-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-o.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-pa-ka-b'a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-pa-ka-b{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-sa.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-ta-ji.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-tz'a-[pa].svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-tza-[ka].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-tz{}a-[pa].svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-wa-wa-aj-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-xa$XA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/2-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-AJ@pi-tzi-la-wa-{l}.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-CH'AM@K'AWIL-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-CHAAN-na@CH'EN-na@$@KAAN-na@CH'EN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-CHAAN-na@CH{}EN-na@$@KAAN-na@CH{}EN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-CH{}AM@K{}AWIL-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-JOM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-K'AK'-k'a@B'UTZ'-tz'i.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-MANIK'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-K{}AK{}-k{}a@B{}UTZ{}-tz{}i.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-MANIK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-NAL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-OCH.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-PAT.svg?raw=true' width='100'/>
@@ -337,65 +338,65 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-TAK-ki.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-TZUTZ-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-WAXAK@NA@CHAAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-b'e$B'E.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-b{}e$B{}E.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-i-yu-wa-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-le.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-tz'i-b'i.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-tz{}i-b{}i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-u$U.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-ya-k'a-wa.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/20-ya-k{}a-wa.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-AJ@su-lu.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-B'EN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-CH'AM-ma.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-CHAAN-na@CH'UL@$@KAAN-na@K'UL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-B{}EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-CHAAN-na@CH{}UL@$@KAAN-na@K{}UL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-CH{}AM-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-JOM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-K'AL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-KAWAK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-K{}AL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-MAY(_).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-NAL(_).svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-OCH@B'I.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-OCH@B{}I.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-PAT.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-SAK@nu-ku@NAJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-TAL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-TZUTZ-yi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-WAXAKLAJUN@U@B'A.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-WAXAKLAJUN@U@B{}A.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-i-yu-wa-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-tz'i-i.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-tz{}i-i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-u$U.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-ya-k'u.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-AJ@tz'i-b'a.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-CH'AM-ma.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-CHAAN-na@K'AWIL@$@KAAN-na@K'AWIL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-ya-k{}u.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-AJ@tz{}i-b{}a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-CHAAN-na@K{}AWIL@$@KAAN-na@K{}AWIL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-CH{}AM-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-JOM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-K'AL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-K{}AL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-MEN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-OCH@B'I-ja.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-OCH@B{}I-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-PAT.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-SAK@TE'@AJAW-wa.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-SAK@TE{}@AJAW-wa.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-TAN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-TZUTZ-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-WAY.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-b'i$B'I.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-b{}i$B{}I.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-i$I.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-ke.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-ne$NE.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-tz'o.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-tz{}o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-u$U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/22-ya-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-AJ@tz'i-b'a.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-CH'AM-ma@K'AWIL-la.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-AJ@tz{}i-b{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-CHAAN-na-NAL@$@KAAN-na-NAL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-K'AL@JUN@NA.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-CH{}AM-ma@K{}AWIL-la.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-K{}AL@JUN@NA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-MI-OL-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-OCH@B'I-ji-ji-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-PAT-b'u-ya.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-OCH@B{}I-ji-ji-ya.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-PAT-b{}u-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-TAN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-WAY.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-b'i$B'I.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-b{}i$B{}I.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-i$I.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-ju.svg?raw=true' width='100'/>
@@ -403,19 +404,19 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-ne$NE.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-se.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-tz'u.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-tz{}u.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-u$U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/23-ya-la-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-AJ@u-xu-[lu].svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-B'IXAN-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-CH'EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-B{}IXAN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-CHAAN-na$KAAN-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-K'AL@SAK@ju-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-OCH@JA'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-CH{}EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-K{}AL@SAK@ju-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-OCH@JA{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-PAT-ta.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-SEK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-TAN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-WAY-b'i-li.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-WAY-b{}i-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-i$I.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-ju-li.svg?raw=true' width='100'/>
@@ -423,39 +424,39 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-mi$MI.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-ne$NE.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-tz'u.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-tz{}u.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-u$U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/24-ya-la-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-AJ-wa-chi-NAL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-B'IXAN-ni-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-CH'EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-B{}IXAN-ni-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-CHAAN$KAAN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-ICH'AK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-K'AL@SAK@JUN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-CH{}EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-ICH{}AK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-KEJ.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-OCH@JA'-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-PAT-ta-b'u-ji.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-TAN@CH'EN@OX@WITZ-aj.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-K{}AL@SAK@JUN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-OCH@JA{}-ja.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-PAT-ta-b{}u-ji.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-TAN@CH{}EN@OX@WITZ-aj.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-WAY-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-ji-chi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-ju-li-OB'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-ju-li-OB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-mi$MI.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-ne$NE.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-si.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-tz'u-nu-{n}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-tz{}u-nu-{n}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-u$U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/25-ya-la-ji-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-AJ-wi-na-{i}-ke-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-CH'EN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-CHAAN$KAAN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-ICH'AK'@TUN-ni.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-K'AL@TUN-ni.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-OCH@K'AK'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-CH{}EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-ICH{}AK{}@TUN-ni.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-K{}AL@TUN-ni.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-OCH@K{}AK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-PAT-ta-wa-ni.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-TAN@CH'EN-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-WAYEB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-b'o.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-TAN@CH{}EN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-WAYEB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-b{}o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-ji-chi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-ju-li-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-ki.svg?raw=true' width='100'/>
@@ -466,12 +467,12 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-u$U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/26-ya-ta-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-AJ-wo-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-B'OLON.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-CH'EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-B{}OLON.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-CHAAN$KAAN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-ICH'AK'-ki.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-K'AL-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-OCH@K'IN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-CH{}EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-ICH{}AK{}-ki.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-K{}AL-ja.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-OCH@K{}IN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-PAT-wa-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-TAN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-jo.svg?raw=true' width='100'/>
@@ -482,406 +483,406 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-si.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-u$U.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-we'$WE'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-we{}$WE{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/27-ya-ta-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-AJ-X-B'AK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-B'OLON.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-CH'EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-AJ-X-B{}AK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-B{}OLON.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-CHAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-IK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-K'AL-ja@MAY(_)-ji.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-CH{}EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-IK{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-K{}AL-ja@MAY(_)-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-OCH@TA@CHAAN-na$OK@TA@KAAN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-PAT-[la]-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-SI.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-UCH'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-UCH{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-jo.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-ju-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-ki.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-mo.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-ni-chi-{m}.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-te'-k'a.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-we'$WE'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-te{}-k{}a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-we{}$WE{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/28-ya-ti-ji.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-AJ-X-B'AK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-B'OLON@i-pi-[la]-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-CH'EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-AJ-X-B{}AK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-B{}OLON@i-pi-[la]-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-CHAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-IK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-K'AL-ji-ya@SAK@JUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-KIB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-MO'@WITZ.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-CH{}EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-IK{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-KIB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-K{}AL-ji-ya@SAK@JUN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-MO{}@WITZ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-NICH-li$NIK-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-OCH@TE'$OK@TE'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-OCH@TE{}$OK@TE{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-PAX.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-SI-ji-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-WI@CH'OK@TE'@NA.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-WI@CH{}OK@TE{}@NA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-jo.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-ju-na-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-lo.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-te'-k'a-ja.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-te{}-k{}a-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/29-ya-ti-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3--[la]-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3--il.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-B'A@u-xu-[lu].svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-JA'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-TAB'-[yi].svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-U@B'A.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-B{}A@u-xu-[lu].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-JA{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-TAB{}-[yi].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-U@B{}A.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-a-li-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-ch'a-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-cha-ki@CHAAN-na@$@cha-ki@KAAN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-ch{}a-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-e.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-k'a-li.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-k{}a-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-na-ja-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-pa-ka-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-sa-aj-mi-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-ta-ki.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-tz'a-[pa]-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-tza-[ka].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-tz{}a-[pa]-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-wa-WA-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-xa$XA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/3-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-AJ-X-B'AK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-CH'EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-AJ-X-B{}AK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-CHAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-IK'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-CH{}EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-IK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-JUL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-K'ALяJUN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-KIMI.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-K{}ALяJUN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-NICH-li$NIK-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-OCH-chi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-PAX.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-b'u.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-jo-JOY'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-lo-k'u-ta.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-b{}u.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-jo-JOY{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-lo-k{}u-ta.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-mo-ko-chi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-si-tzi@WINIK-ki.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-te'-TE'-le.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-te{}-TE{}-le.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-wi-ti-ki@AJAW.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/30-ya-xa.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-AJ-X-B'AK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-CH'EN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-AJ-X-B{}AK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-CHAK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-IK'@K'U.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-CH{}EN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-IK{}@K{}U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-JUL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-K'AN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-KIX(_).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-K{}AN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-NICH$NIK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-OCH-chi@K'AK'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-OCH-chi@K{}AK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-PET.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-SI-ya-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-b'u.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-b{}u.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-jo-JOY-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-lo-mu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-mo-o@WITZ@AJAW.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-te'$TE'@(che'$CHE').svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-te{}$TE{}@(che{}$CHE{}).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-wi-tzi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/31-ya-xu-na@(_).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-AJAW.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-CH'EN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-CHAK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-CH{}EN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-IL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-JUL-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-K'AN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-KIX(_).svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-LOK'-yi.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-K{}AN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-LOK{}-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-NICH$NIK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-OCH-chi@K'AK'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-OCH-chi@K{}AK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-PET-ji-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-SIP.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-YAX.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-b'u-ku.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-b{}u-ku.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-jo-JOY-ja@TI@AJAW-le-{l}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-mo-oяwi-tziяAJAW.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-te'$TE'@(che'$CHE').svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-te{}$TE{}@(che{}$CHE{}).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/32-wi-tzi@mo-o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-AJAW.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-CHAK@CH'UL@AJAW@$@CHAK@K'UL@AJAW.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-CHAK@CH{}UL@AJAW@$@CHAK@K{}UL@AJAW.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-IL-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-JOL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-JUL-li-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-K'AN@TUN-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-KIX(_).svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-NIKTE'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-K{}AN@TUN-ni.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-NIKTE{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-OCH-ja$OK-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-SOTZ'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-SOTZ{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-YAX.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-b'u-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-ch'o.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-b{}u-la.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-ch{}o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-lu.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-mo$MO'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-mo$MO{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-pi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-te'$TE'@(che'$CHE').svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-te{}$TE{}@(che{}$CHE{}).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/33-wi-tzi@SAK-NIK-ki@NAL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-AJAW.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-B'ULUK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-CHAK@EK'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-B{}ULUK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-CHAK@EK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-IMIX.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-JOL-lo.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-JUL-li-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-K'AN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-K{}AN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-MOL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-NIKTE'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-NIKTE{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-OCH$OK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-YAX.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-ch'o.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-ch{}o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-ko.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-lu.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-pi-b'i@NA-aj.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-pi-b{}i@NA-aj.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-su.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-te'$TE'@(che'$CHE').svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-te{}$TE{}@(che{}$CHE{}).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/34-wi-WINIK-ki.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-AJAW.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-B'ULUK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-CHAK@K'AT.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-B{}ULUK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-CHAK@K{}AT.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-IMIX.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-JOY.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-JUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-K'AN-NAL-la@e-b'u.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-K{}AN-NAL-la@e-b{}u.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-MOL(_).svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-NIKTE'-te'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-NIKTE{}-te{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-OCH$OK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-YAX.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-ch'o.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-ch{}o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-ko-ja-wa.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-lu-k'u.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-pi-b'i-NA-li.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-lu-k{}u.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-pi-b{}i-NA-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-su-ku-{n}.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-te'$TE'@(che'$CHE').svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-te{}$TE{}@(che{}$CHE{}).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/35-wi-WINIK-ki.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-AJAW.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-B'UTZ.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-CHAK@XIB'@cha-ki.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-B{}UTZ.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-CHAK@XIB{}@cha-ki.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-IMIX.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-JOY-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-JUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-K'ANK'IN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-K{}ANK{}IN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-MOL(_)@TUN-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-OK.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-YAX@ch'a-CH'AM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-ch'o-ko.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-YAX@ch{}a-CH{}AM.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-ch{}o-ko.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-ko-jo-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-lu-mi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-no.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-pi-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-su-ku-{n}@WINIK-ki.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-te'$TE'@(che'$CHE').svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-te{}$TE{}@(che{}$CHE{}).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/36-wi$WI.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-AJAW.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-B'UTZ.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-B{}UTZ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-IN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-JOY-[ja]-ji-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-K'ATUN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-K{}ATUN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-NOJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-OL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-YAX@CH'AM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-ch'o-ko.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-ko-ko-no-OB'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-YAX@CH{}AM.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-ch{}o-ko.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-ko-ko-no-OB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-mu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-pi-si.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-su-sa-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-te'$TE'@(che'$CHE').svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-te{}$TE{}@(che{}$CHE{}).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/37-wi$WI.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-AJAW.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-CHALAJUN@$@KALAJUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-IN@CH'EN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-K'ATUN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-IN@CH{}EN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-K{}ATUN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-NOJOL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-OL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-YAX@CH'AM@K'AWIL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-ch'o-[ko].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-YAX@CH{}AM@K{}AWIL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-ch{}o-[ko].svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-ju.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-ko-tz'o.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-ko-tz{}o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-mu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-pi-tzi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-su-tz'i.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-te'$TE'@(che'$CHE').svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-su-tz{}i.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-te{}$TE{}@(che{}$CHE{}).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/38-wi$WI.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-AJAW-le-le.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-CHALAJUN$KALAJUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-IN@KAB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-K'AWIL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-IN@KAB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-KOJAW.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-K{}AWIL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-OTOT.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-YAX@CHIT.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-ch'o-[ko]@K'AB'A.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-ch{}o-[ko]@K{}AB{}A.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-ju.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-mu-ka.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-nu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-pi-tzi-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-te'$TE'@(che'$CHE').svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-te{}$TE{}@(che{}$CHE{}).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/39-wi$WI.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4--[la]-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4--il.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-B'A@YAL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-JA'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-TAB'-[yi].svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-U@we'-ya.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-B{}A@YAL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-JA{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-TAB{}-[yi].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-U@we{}-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-XAN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-a-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-ch'a-jo-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-cha-nu$ka-nu.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-e-b'u.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-ch{}a-jo-ma.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-e-b{}u.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-k'a-wi-NAL@WINIK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-ka-ka-wa.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-k{}a-wi-NAL@WINIK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-na-ku.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-pa-ka-la-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-sa-ja-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-ta-ki-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-tz'a-[pa]-wa.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-tza-[ka]-wa.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-wa-WAY-{a}-[b'i].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-tz{}a-[pa]-wa.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-wa-WAY-{a}-[b{}i].svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/4-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-AJAW-wa.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-CH'OK@TE'@NA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-CHAM.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-CH{}OK@TE{}@NA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-IN@pa-ta.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-K'AWIL-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-KOJAW-wa.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-K{}AWIL-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-OTOT-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-TI@AJAW@le-{l}.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-YAX@K'AL@TUN-ni.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-ju-b'u-yi.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-YAX@K{}AL@TUN-ni.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-ju-b{}u-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-mu-ka-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-nu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-pi-tzi-la-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/40-wi$WI.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-AJAW-wa@TE'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-CH'UL@cha-TAN@WINIK@$@K'UL@cha-TAN@WINIK@(CH'UJUL@cha-TAN@WINIK@$@K'UJUL@cha-TAN@WINIK).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-AJAW-wa@TE{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-CHAM.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-CH{}UL@cha-TAN@WINIK@$@K{}UL@cha-TAN@WINIK@(CH{}UJUL@cha-TAN@WINIK@$@K{}UJUL@cha-TAN@WINIK).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-IN@tu-pa.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-K'AWIL-li.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-K{}AWIL-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-OX.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-TI@ya-AK'-il.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-TI@ya-AK{}-il.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-WINAL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-YAX@k'o-jo.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-ju-b'u-yi.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-YAX@k{}o-jo.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-ju-b{}u-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-ku.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-mu-ka-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-nu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/41-pi-xo-ma.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-CH'UL@CHAAN@CH'UL@KAB'@$@K'UL@KAAN@K'UL@KAB'@(CH'UJUL@CHAN@KAB'@$@K'UJUL@KAAN@KAB'.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-CHAM-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-IN-b'u-ku.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-JUB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-K'AWIL-NAL-OB'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-CH{}UL@CHAAN@CH{}UL@KAB{}@$@K{}UL@KAAN@K{}UL@KAB{}@(CH{}UJUL@CHAN@KAB{}@$@K{}UJUL@KAAN@KAB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-IN-b{}u-ku.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-JUB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-K{}AWIL-NAL-OB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-OX.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-PI-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-WINAL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-YAX@pa-{s}.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-ak'$AK'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-ak{}$AK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-ku-chu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-mu-ka-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-nu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/42-ti-ka-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-CH'UL@IXIK-ki@$@K'UL@IXIK-ki@(CH'UJUL@IXIK-ki@$@K'UJUL@IXIK-ki).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-CHAM-mi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-ITZ'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-JUB'(_).svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-K'AWIL-OB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-OX@B'OLON@CHAAK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-CH{}UL@IXIK-ki@$@K{}UL@IXIK-ki@(CH{}UJUL@IXIK-ki@$@K{}UJUL@IXIK-ki).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-ITZ{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-JUB{}(_).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-K{}AWIL-OB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-OX@B{}OLON@CHAAK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-WINIK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-YAX@PAS.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-ak'$AK'OT.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-ku-tz'u.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-ak{}$AK{}OT.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-ku-tz{}u.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-mu-ku-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-nu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-pi$PI$PIJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/43-ti-ki-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-CH'UL@K'AB'A$K'UL@K'AB'A.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-CHAM-mi-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-JUB'(_)-yi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-K'AYAB'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-CH{}UL@K{}AB{}A$K{}UL@K{}AB{}A.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-JUB{}(_)-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-KUCH.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-K{}AYAB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-OX-aj-ja-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-WITZ.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-YAXK'IN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-ak'$AK'OT.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-itz'-am-{na}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-YAXK{}IN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-ak{}$AK{}OT.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-itz{}-am-{na}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-mu-ti.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-nu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-pi$PI$PIJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/44-ti-xu-[ku]-pi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-AK'AB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-CH'UL@WINIK-ki@$@K'UL@WINIK-ki@(CH'UJUL@WINIK-ki@$@K'UJUL@WINIK-ki).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-AK{}AB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-CHAN$KAN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-ITZ'AM@ye-ji.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-JUB'(_)-yi-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-K'IN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-KUCH@AB'AK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-CH{}UL@WINIK-ki@$@K{}UL@WINIK-ki@(CH{}UJUL@WINIK-ki@$@K{}UJUL@WINIK-ki).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-ITZ{}AM@ye-ji.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-JUB{}(_)-yi-ya.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-KUCH@AB{}AK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-K{}IN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-PIK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-WO.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-mu-ti.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-nu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-ti$TI.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-ye-b'a-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-AK'OT-ta.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-CH'UL-lu@$@K'UL-lu@(CH'UJUL-lu@$@K'UJUL-lu).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/45-ye-b{}a-li.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-AK{}OT-ta.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-CHAN$KAN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-ITZ'AT.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-JUB'-b'a.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-K'IN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-CH{}UL-lu@$@K{}UL-lu@(CH{}UJUL-lu@$@K{}UJUL-lu).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-ITZ{}AT.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-JUB{}-b{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-KUCH@TUN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-K{}IN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-mu-wa-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-nu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-po.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-ti$TI.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-wo.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/46-ye-ma-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-AK'OT-ta-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-CH'UL-lu@to-k'a@$@K'UL-lu@to-k'a@(CH'UJUL-lu@to-k'a@$@K'UJUL-lu@to-k'a).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-AK{}OT-ta-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-CHAN$KAN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-ITZ'AT.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-JUB'-EMBLEMяGLYPH.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-K'IN-ni.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-CH{}UL-lu@to-k{}a@$@K{}UL-lu@to-k{}a@(CH{}UJUL-lu@to-k{}a@$@K{}UJUL-lu@to-k{}a).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-ITZ{}AT.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-JUB{}-EMBLEMяGLYPH.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-KUCH-ta-ja.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-K{}IN-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-MULUK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-POP.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-TIL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-nu-ku.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-wo.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/47-ye-ma-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-AKB'AL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-CH'UL$K'UL@(CH'UJUL$K'UJUL).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-AKB{}AL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-CHAN$KAN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-ITZ'AT-ta.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-ITZ{}AT-ta.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-JUL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-K'IN-ni.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-KUMK'U.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-KUMK{}U.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-K{}IN-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-MUTUL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-pu-lu-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-to.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-wo.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-ye-te'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-CH'UL$K'UL@(CH'UJUL$K'UJUL).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/48-ye-te{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-CHAN$KAN.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-IX.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-JUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-K'IN-ni@AJAW.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-K{}IN-ni@AJAW.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-MUTUL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-am.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-pu$PU$PUJ.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-to.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-wo-jo-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-ye-te'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/49-ye-te{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5--il.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-EB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-JA'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-TAB'-[yi].svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-U@ya-AJAW-wa@TE'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-EB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-JA{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-TAB{}-[yi].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-U@ya-AJAW-wa@TE{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-a-ya-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-b'a-ji-ni.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-ch'a-jo-ma.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-b{}a-ji-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-cha-TAN-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-ch{}a-jo-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-ja.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-k'a-yi@U@SAK@NIK@IK'-li@$@ch'a-yi@U@SAK@NICH@IK'-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-ka-KALOMTE'-te'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-ka-KALOMTE{}-te{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-k{}a-yi@U@SAK@NIK@IK{}-li@$@ch{}a-yi@U@SAK@NICH@IK{}-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-ma-ka.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-na-NAL(_).svg?raw=true' width='100'/>
@@ -889,98 +890,98 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-pa-ka-xa.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-sa-ja-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-ta-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-tz'a$TZ'A.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-tza-[ka]-waяCH'UL@$@tza-[ka]-waяK'UL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-wa-ya-k'a-wa.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-tza-[ka]-waяCH{}UL@$@tza-[ka]-waяK{}UL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-tz{}a$TZ{}A.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-wa-ya-k{}a-wa.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-xi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/5-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-CH'UL$K'UL@(CH'UJUL$K'UJUL).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-CHAPAT.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-IX.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-JUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-K'IN-ni@JA'-NAL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-K{}IN-ni@JA{}-NAL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-MUTUL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-PUL-[yi].svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-am.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-to.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-wo-la.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-ye-te'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/50-ye-te{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-AT.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-CH'UL$K'UL@(CH'UJUL$K'UJUL).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-CHAY$KAY.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-IX@TZ'AM(_).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-IX@TZ{}AM(_).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-JUN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-K'IN-ni-chiяTZAM(_)яTUN-ni.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-K{}IN-ni-chiяTZAM(_)яTUN-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-MUTUL@AJAW-TAK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-WUK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-to-jo-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-ye-te'@k'a-b'a-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-CH'UL$K'UL@(CH'UJUL$K'UJUL).svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-IX@TZ'AM(_)@ku-aj.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/51-ye-te{}@k{}a-b{}a-li.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-IX@TZ{}AM(_)@ku-aj.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-JUN@NAL@YE.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-K'INA$K'INICH.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-K{}INA$K{}INICH.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-MUWAN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-WUK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-at.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-che.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-to-jo-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-ye-te'-je.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/52-ye-te{}-je.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-AT-ti.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-CH'UL$K'UL@(CH'UJUL$K'UJUL).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-IX$IXIK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-JUNяTAN-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-K'INICH.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-K{}INICH.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-MUWAN-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-che.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-to-k'a.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-ye-te'-je.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-to-k{}a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/53-ye-te{}-je.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-AYIN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-CH'UL$K'UL@(CH'UJUL$K'UJUL).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-IXIK-ki.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-K'INICH-ni.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-K{}INICH-ni.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-MUYAL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-[JAANAB']@PAKAL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-[JAANAB{}]@PAKAL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-che.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-to-k'a@pa-ka-la.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-to-k{}a@pa-ka-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/54-ye$YE.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/55-CH'UL$K'UL@(CH'UJUL$K'UJUL).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/55-CH{}UL$K{}UL@(CH{}UJUL$K{}UJUL).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/55-MUYAL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/55-[JANAAB']@PAKAL-la.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/55-[JANAAB{}]@PAKAL-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/55-che.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/55-k'o.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/55-k{}o.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/55-to-ko.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/55-ye$YE.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/56-CH'ULяAJAW-wa@$@K'ULяAJAW-wa@(CH'UJULяAJAW-wa@$@K'UJULяAJAW-WA.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/56-che-b'u.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/56-k'o-b'a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/56-CH{}ULяAJAW-wa@$@K{}ULяAJAW-wa@(CH{}UJULяAJAW-wa@$@K{}UJULяAJAW-WA.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/56-che-b{}u.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/56-k{}o-b{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/56-to-ko@TAN@AJAW.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/56-ye$YE.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/57-CH'UL@cha-TAN-na@wi-WINIK-ki@$@K'UL@cha-TAN-na@wi-WINIK-ki@(CH'UJUL@cha-TAN-na@wi-WINIK-ki@$@K'UJUL@cha-TAN-na@wi-WINIK-ki).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/57-CH{}UL@cha-TAN-na@wi-WINIK-ki@$@K{}UL@cha-TAN-na@wi-WINIK-ki@(CH{}UJUL@cha-TAN-na@wi-WINIK-ki@$@K{}UJUL@cha-TAN-na@wi-WINIK-ki).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/57-che-e-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/57-k'o-jo.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/57-k{}o-jo.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/57-to-ko@TAN@WINIK-ki.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/57-ye$YE.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/58-CH'UL@to-{k}@TAN@AJAW@$@K'UL@to-{k}@TAN@AJAW@(CH'UJUL@to-{k}@TAN@AJAW@$@K'UJUL@to-{k}@TAN@AJAW).svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/58-che-e-na@TU@b'a-ki.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/58-k'u.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/58-CH{}UL@to-{k}@TAN@AJAW@$@K{}UL@to-{k}@TAN@AJAW@(CH{}UJUL@to-{k}@TAN@AJAW@$@K{}UJUL@to-{k}@TAN@AJAW).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/58-che-e-na@TU@b{}a-ki.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/58-k{}u.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/58-to-ko-TAN-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/58-ye$YE.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/59-che-je-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/59-k'u-ju.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/59-k{}u-ju.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/59-to-XAT.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/59-ye$YE.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6--il.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-EB'-[b'u].svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-EB{}-[b{}u].svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-TUL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-TZ'AK.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-TZ{}AK.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-a$AJ.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-b'a-ka-b'a.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-ch'a-JOM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-cha-te'@KAB'A.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-ja'-o-b'a.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-ja'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-k'a-yi@U@SAK@NIK@IK'-li@$@ch'a-yi@U@SAK@NICH@IK'-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-ka-lo-ma-te'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-b{}a-ka-b{}a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-cha-te{}@KAB{}A.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-ch{}a-JOM.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-ja{}-o-b{}a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-ja{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-ka-lo-ma-te{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-k{}a-yi@U@SAK@NIK@IK{}-li@$@ch{}a-yi@U@SAK@NICH@IK{}-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-ma-ka-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-na-wa-ja.svg?raw=true' width='100'/>
@@ -992,33 +993,33 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-u-lu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-wa-ya-la-wa.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-xi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-ya-AJAW@K'AK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/60-k'u-ju.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/6-ya-AJAW@K{}AK{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/60-k{}u-ju.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/60-to-[xa]-AT-ti.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/60-yi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/61-TOK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/61-chi-[K'IN]-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/61-k'u-xa-ja.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/61-TOK{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/61-chi-[K{}IN]-li.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/61-k{}u-xa-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/61-yi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/62-TOK'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/62-TOK{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/62-chi$CHI.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/62-k'u-xa-ji-ya.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/62-k{}u-xa-ji-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/62-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/63-CHICCHAN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/63-TOK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/63-k'u-yu@NIK-ki@AJAW.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/63-yi-ch'a-ki.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/63-TOK{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/63-k{}u-yu@NIK-ki@AJAW.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/63-yi-ch{}a-ki.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/64-CHICCHAN.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/64-TOK'@PAKAL.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/64-k'u$K'U.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/64-TOK{}@PAKAL.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/64-k{}u$K{}U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/64-yi-chi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/65-CHIJ.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/65-TU@K'U-li.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/65-k'u$K'U.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/65-TU@K{}U-li.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/65-k{}u$K{}U.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/65-yi-chi-NAL.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/66-CHIT.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/66-K'UK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/66-TU@WAY-[b'i]-li.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/66-K{}UK{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/66-TU@WAY-[b{}i]-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/66-yi-IL-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/67-CHIT-ti.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/67-tu-ku-nu.svg?raw=true' width='100'/>
@@ -1030,16 +1031,16 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/69-tu-pa-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/69-yi-ka-tzo.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7--il.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-EK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-TZ'AK@b'u-li.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-EK{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-TZ{}AK@b{}u-li.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-a$AJ.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-b'a-ki.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-ch'a-ka-ja.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-b{}a-ki.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-cha-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-ja'-i.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-ja-na-b'i.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-k'a-yi$ch'a-yi.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-ch{}a-ka-ja.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-ja-na-b{}i.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-ja{}-i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-ka-{ka}-wa.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-k{}a-yi$ch{}a-yi.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-la-ka.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-ma-ka-xa.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/7-na$NA$NAJ.svg?raw=true' width='100'/>
@@ -1058,15 +1059,15 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/71-CHOK-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/71-TUN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/71-yi-li-aj-ji-ya.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/72-CHOK-ko-wa@CH'A-ji.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/72-CHOK-ko-wa@CH{}A-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/72-TUN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/72-yi-ta.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/73-CHOK-wa@CH'A-ji.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/73-CHOK-wa@CH{}A-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/73-TUN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/73-yi-ta-ji.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/74-TUN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/74-chu.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/74-yi-tz'i-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/74-yi-tz{}i-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/75-TUN.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/75-chu.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/75-yi-[chi]-NAL.svg?raw=true' width='100'/>
@@ -1082,16 +1083,16 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/79-chu-[ku].svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/79-yo-AT.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-CHA$KA.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-EK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-JA'AB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-TZ'AK-aj.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-EK{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-JA{}AB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-TZ{}AK-aj.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-a$AJ.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-b'a-na.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-ch'a-ti.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-b{}a-na.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-ch{}a-ti.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-ja-sa-wa.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-k'a-[b'a].svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-ka-{ka}-wa.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-k{}a-[b{}a].svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-la-ka-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-ma-ko-ma.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-na$NA$NAJ.svg?raw=true' width='100'/>
@@ -1103,24 +1104,24 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-u-ti.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-wa$WA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-xi.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-ya-AJAW-wa@TE'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/8-ya-AJAW-wa@TE{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/80-chu-[ku]-ja.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/80-yo-AT-ta.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/81-chu-[ku]-ji-ya.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/81-yo-AT-ti@(_).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/82-CHUM.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-EK'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-JA'AB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-KAB'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-TZ'AM(_).svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-XIB'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-EK{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-JA{}AB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-KAB{}.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-TZ{}AM(_).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-XIB{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-a$AJ.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-b'a-te'.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-ch'a-ti.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-b{}a-te{}.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-cha$ka.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-ch{}a-ti.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-i.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-ja-sa-wa.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-k'a$ch'a.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-k{}a$ch{}a.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-la-ta.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-ma-ta-wi-la.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-na$NA$NAJ.svg?raw=true' width='100'/>
@@ -1128,10 +1129,10 @@ The mayan hieroglyphs from the [famsi.org dictionary](http://www.famsi.org/mayaw
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-pa-ta-na.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-sa$SA.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-ta$TA.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-tzi-ka@JA'AB'@(_).svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-tzi-ka@JA{}AB{}@(_).svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-u-ti.svg?raw=true' width='100'/>
   <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-wa$WA.svg?raw=true' width='100'/>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-ya-AJAW-wa@TE'.svg?raw=true' width='100'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/9-ya-AJAW-wa@TE{}.svg?raw=true' width='100'/>
 </p>
 
 ### Contribute
