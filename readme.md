@@ -7,7 +7,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/title.png?raw=true' width='500'/>
+  <img src='https://github.com/lancejpollard/mayan-hieroglyphs/blob/build/svg/21-NAL(_).svg?raw=true' width='256'/>
 </p>
 
 <br/>
